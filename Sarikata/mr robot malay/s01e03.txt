@@ -1,0 +1,708 @@
+1: Saya akan menjadi eksekutif termuda
+2: Syarikat ini pernah dilihat.
+3: <i> Baiklah, anda tahu, saya akan mengambilnya jika anda meninggalkan kami sendiri. </i>
+4: <i> - Terima kasih. - Baiklah? </i>
+5: <i> Semak trek dua keluar. </i>
+6: <i> - Nah, lacak dua. - Baiklah, lelaki. </i>
+7: <i> Mengapa anda tidak memberitahu saya mengenai fail DAT? </i>
+8: Bekerja di Evil Corp sepanjang hidupnya,
+9: dan keluar dari biru dia dipecat.
+10: Tidak ada yang tahu mengapa. Dia mempunyai leukemia.
+11: Saya bersumpah untuk tidak memberitahu sesiapa pun.
+12: Akhirnya, saya sangat risau, memberitahu ibu saya.
+13: Apabila dia tahu, dia marah.
+14: Anda fikir anda patut?
+15: saya berumur lapan tahun ...
+16: Anda tidak berkomitmen untuk pakatan suci yang telah anda buat.
+17: * *
+18: <i> Pendekatan saya dalam unit perniagaan kami </i>
+19: <i> pertama kali melabur dalam teknologi baru </i>
+20: <i> dan mengembangkan prototaip untuk memahami </i>
+21: <i> potensi teknologi, </i>
+22: <i> kerana walaupun kejayaan baru-baru ini </i>
+23: <i> pasukan keselamatan siber kami, </i>
+24: <i> syarikat kami pada masa ini masih mempunyai </i>
+25: <i> 72 kerapkali pengganggu potensi </i>
+26: <i> dalam utama dan secon ... oh, tunggu. </i>
+27: <i> Ia adalah 73, anda bodoh bodoh. </i>
+28: Lagi.
+29: <i> Syarikat kami masih ada </i>
+30: <i> 73 kerentanan pengganggu potensi </i>
+31: <i> di pusat data primer dan sekunder kami. </i>
+32: <i> Sekarang bukan masa untuk dibebankan </i>
+33: <i> oleh kerugian tragis dan memalukan syarikat </i>
+34: <i> ketua kami ... </i>
+35: <i> Terlalu formal, Tuhan mengutuknya. </i>
+36: Hangatkannya. Jangan menjadi robot sejuk.
+37: Sekali lagi.
+38: Sekarang bukan masa untuk dibebani
+39: oleh kerugian tragis dan memalukan syarikat
+40: pegawai teknologi tinggi kami.
+41: Kita perlu cepat menamakan pengganti CTO,
+42: dan, tuan, saya ingin mencadangkan ia menjadi saya.
+43: Demi syarikat kami,
+44: bahawa kita membuat keputusan hari ini,
+45: promosi saya ...
+46: Promosi dalaman saya menunjukkan bukan sahaja keyakinan kami
+47: sebagai sebuah syarikat, tetapi kekuatan dalam keberanian kita kepada orang ramai.
+48: Terima kasih atas waktunya.
+49: Anda akan menjadi CTO seterusnya syarikat ini.
+50: Anda akan menjadi CTO seterusnya syarikat ini.
+51: Anda akan menjadi CTO seterusnya syarikat ini.
+52: Pasti anda tidak mahu apa-apa?
+53: Pellegrino, teh?
+54: Tuan, terima kasih lagi kerana melihat saya.
+55: Tyrell, saya perlu menjadualkan semula ini.
+56: - Anwar, buat masa yang lain. - Tuan, itu hanya saya fikir ...
+57: Saya mendapatkannya, saya dapat.
+58: Kami akan mengadakan satu lagi mesyuarat di buku-buku itu.
+59: Kami mempunyai calon CTO yang sangat baik
+60: lembaga sangat teruja.
+61: Mereka belum bersedia untuk membincangkannya lagi.
+62: Kami akan menghubungi anda.
+63: Berikan kami beberapa minggu, hmm?
+64: Uh, letakkan Wellick kembali pada buku.
+65: Dua minggu.
+66: Oh, bagus.
+67: Biar saya rasa.
+68: Brioni?
+69: Rasa yang hebat, seperti biasa.
+70: Baiklah.
+71: Saya akan menghantar e-mel kepada pembantu anda butiran.
+72: Jika anda boleh,
+73: hantar e-mel kepada saya secara langsung.
+74: Ini terlalu penting untuk saya terlepas.
+75: * *
+76: Mr. Wellick, kami ada di sini.
+77: Anda fikir saya boleh mempunyai 300 kali ini?
+78: Perkataan seperti kapitalis sejati.
+79: * *
+80: Hari buruk di pejabat?
+81: Tidak ki ...
+82: Sila, cukup. Tidak ada lagi.
+83: <b> Segerak dan pembetulan oleh: <font color = "# 095f9b"> kDragon </font> </b>
+84: <b> Encik. Robot <font color = "00bbb9"> SO1E03 </font> <font color = "8e0000"> Tarikh asal asal </font> <font color = "# 15b604"> 07/08/2015 </font> </b>
+85: <i> Kebanyakan koding berfikir perisian debugging </i>
+86: <i> adalah tentang membetulkan kesilapan, </i>
+87: <i> tetapi itulah bullshit. </i>
+88: <i> Menyahpasang sebenarnya tentang semua bug, </i>
+89: <i> mengenai pemahaman mengapa pepijat ada di sana untuk bermula, </i>
+90: <i> tentang mengetahui bahawa kewujudannya tidak terjejas. </i>
+91: <i> Ia datang kepada anda untuk menyampaikan mesej, </i>
+92: <i> seperti gelembung tak sedar terapung ke permukaan, </i>
+93: <i> muncul dengan wahyu yang anda rahsia dikenali sepanjang masa. </i>
+94: <i> Saya tidak tahu mengapa saya mengatakan semua ini. </i>
+95: <i> Mungkin kerana saya dipam di mana-mana Sm ... - </i>
+96: <i> peniaga dadah yang sah seperti Eli Lilly </i>
+97: <i> buat duit sekarang. </i>
+98: <i> Tetapi selalunya kerana ada rasa ia akan datang. </i>
+99: <i> Suatu bug meraung ke arah saya </i>
+100: <i> untuk menggunting kerja sehingga ia memaksa saya untuk membuat panggilan. </i>
+101: <i> Bunuh saya atau memeluk saya. </i>
+102: <i> Atau mungkin saya hanya kecewa kerana saya tidak pernah fikir </i>
+103: <i> Saya bangun untuk mencari kedua-dua wanita ini menatap saya. </i>
+104: Adakah awak terjaga?
+105: Saya tidak tahu.
+106: Apa yang kamu lakukan di sini?
+107: Kami bercakap mungkin beberapa jam yang lalu
+108: ketika saya mula-mula sampai di sini.
+109: Anda tidak ingat?
+110: Mereka berkata saya adalah kenalan kecemasan anda.
+111: Um, betul.
+112: Um, anda memberitahu mereka untuk menghubungi pakar psikiatri anda.
+113: Anda tidak boleh pergi sehingga anda bercakap dengan seseorang.
+114: Jadi saya akan menunggu di luar.
+115: Hei.
+116: Adakah anda ingat meminta saya dari kakitangan?
+117: Anda meminta saya kerana polis mengatakan bahawa ...
+118: Saya terjebak oleh sekumpulan anak-anak.
+119: Ini bukan akhir dunia.
+120: Mereka mahu melakukan panel dadah penuh, dan anda enggan.
+121: Bolehkah saya bertanya mengapa?
+122: Elliot, jika kita tidak boleh bercakap mengenai perkara ini ...
+123: Saya telah mengambil morfin.
+124: Kenapa?
+125: Saya tidak mempunyai alasan yang baik untuk memberi anda.
+126: Saya harap saya lakukan, tetapi saya tidak.
+127: Mungkin kita patut mempertimbangkan pemulihan.
+128: Saya bukan peminat.
+129: Kemudian anda perlu membuktikannya kepada saya.
+130: Hantar kepada ujian dadah dua bulan secara sukarela.
+131: Itulah satu-satunya cara yang saya cadangkan pembebasan anda.
+132: <i> Hospital. </i>
+133: <i> Satu rangkaian yang sangat suka seperti ini </i>
+134: <i> hampir terlalu mudah digodam. </i>
+135: <i> Ini ialah William Highsmith. </i>
+136: <i> Dia bukan hanya ketua jabatan IT di sini, </i>
+137: <i> dia jabatan IT. </i>
+138: <i> Dia juga seorang idiot, </i>
+139: <i> bukan kerana saya menyalahkannya kerana orang yang mengupahnya </i>
+140: <i> juga idiot. </i>
+141: <i> Lelaki miskin hanya mendapat anggaran sekitar 7,000 dolar setahun, </i>
+142: <i> dan dia sepatutnya melindungi rangkaian mereka </i>
+143: <i> daripada orang seperti saya? </i>
+144: <i> Dia tidak pernah berpeluang. </i>
+145: <i> Dia menggunakan imbasan virus tidak berguna, pelayan bertarikh, </i>
+146: <i> dan perisian keselamatan yang berjalan pada Windows 98. </i>
+147: <i> Ini salah satu sebab mengapa saya membuat tempat ini </i>
+148: <i> kemudahan penjagaan utama saya. </i>
+149: <i> Saya boleh membuat rekod kesihatan saya </i>
+150: <i> kelihatan seperti setiap zombie taat yang lain di luar sana. </i>
+151: Baiklah.
+152: Anda tidak perlu risau.
+153: Saya tidak akan melakukan morphine lagi.
+154: <i> Hei, anda mendapat beberapa padanan? </i>
+155: Terima kasih.
+156: * *
+157: Itu sarapan yang bagus.
+158: Maaf. Sistem kad kredit telah turun.
+159: <i> Seperti saya katakan, </i>
+160: <i> perkara yang paling sukar mengenai penyahpepijatan </i>
+161: <i> tidak menetapkan bug. </i>
+162: <i> Ini semua tentang mencari bug. </i>
+163: <i> Untuk Evil Corp, Encik Robot mendapati bug mereka dalam saya. </i>
+164: <i> Saya adalah kesilapan yang membawa kepada semua ini. </i>
+165: Saya perlu bertanya kepada anda satu perkara.
+166: Adakah anda mempunyai kaitan dengan Vera yang semakin rusak?
+167: Shit, Elliot.
+168: Anda berkata anda tidak akan melakukan apa-apa.
+169: Dia ada dalam tuduhan pembunuhan, adakah anda tahu?
+170: Krew seluruhnya melantun.
+171: Maksud saya, saya tidak tahu apa yang akan saya lakukan untuk wang sekarang.
+172: Beritahu saya, Elliot,
+173: dan jangan bohong.
+174: Adakah anda melakukan sesuatu?
+175: Tidak.
+176: Hmm.
+177: Hey.
+178: Hei.
+179: Adakah anda baik-baik saja?
+180: Maksud saya, dengan segala yang berlaku ...
+181: Saya baik-baik saja.
+182: Apa yang berlaku kepada pintu anda?
+183: Anda tidak sepatutnya berada di sini, okey?
+184: Saya menukar kunci sebab.
+185: Mmm.
+186: Mainan yang menarik,
+187: tetapi anda mungkin mahu menghabiskan sedikit lebih awal
+188: jika anda benar-benar mahukannya, anda tahu,
+189: kerja.
+190: Semaknya.
+191: Jessica Alba berkata dia mahu menyertai Fsociety.
+192: Yesus, apa yang berlaku pada wajah awak?
+193: Apa yang berlaku?
+194: Baiklah, saya bukan puteri dari rahmat sosial,
+195: tetapi biasanya ia berlaku seperti,
+196: - "Hai, ini Darlene". - Berhenti.
+197: Anda perlu pergi.
+198: Babe, dengan serius, kita mempunyai banyak nafsu untuk dibincangkan,
+199: jadi jika anda tidak keberatan ...
+200: Keluar.
+201: Saya cadangkan anda mendapat cengkaman.
+202: Apa yang dia cakap?
+203: Saya terpaksa bekerja.
+204: Bekerja? Adakah anda serius?
+205: Anda tidak boleh pergi bekerja. Anda perlu memanggil sakit.
+206: Saya perlu pergi.
+207: <i> Sesuatu bug bukanlah satu kesilapan sahaja. </i>
+208: <i> Ia mewakili sesuatu yang lebih besar. </i>
+209: <i> Kesilapan berfikir. </i>
+210: <i> - Tuan! Tuan! Tuan! - Itu membuatkan anda siapa anda. </i>
+211: <i> Tuan! Anda menjatuhkan dompet anda. </i>
+212: - Terima kasih. - Berhenti!
+213: <i> Berhenti! Dia mencuri dompet saya. </i>
+214: Itulah dompet kamu?
+215: Ya, itulah dompet saya yang awak berikan kepadanya.
+216: Berhenti!
+217: Dia masuk ke dalam sistem saya, dan dia mahukan saya
+218: untuk meletakkan CD pada salah satu komputer di tempat kerja.
+219: <i> - Kenapa dia mahu melakukannya? - Saya tidak tahu, Stella. </i>
+220: Dia tidak memberikan saya penjelasan penuh.
+221: <i> Jadi dia mendapat gambar telanjang saya? </i>
+222: Adakah itu satu-satunya perkara yang anda ambil serius
+223: dari perbualan ini?
+224: Hei, babe.
+225: - Hei. - Bagaimana keadaan anda?
+226: Strange.
+227: Seseorang menggugurkan dompet mereka,
+228: dan saya mengambilnya untuk memberikannya kepada mereka, tetapi kemudian ini ...
+229: Tidak apa-apa yang aneh tentang itu ... hanya menunjukkan betapa baiknya
+230: orang yang awak ada.
+231: Sentiasa telah.
+232: Hampir salah.
+233: Apa maksudnya?
+234: Hanya bahawa anda ...
+235: awak terlalu baik untuk dunia.
+236: Itulah sebabnya mengapa saya mencintaimu.
+237: Saya akan melompat di pancuran.
+238: Saya memberitahu anda bahawa saya tidak boleh bercakap.
+239: Anda mempunyai 100 jam tepat.
+240: Selepas itu, semua yang kita ada akan dibebaskan.
+241: ____
+242: Tidak cukup, hanya untuk menumpukan perhatian anda pada kayu balak.
+243: Kita juga harus memantau trafik media sosial
+244: serta IRC, Pastebin.
+245: Dan sediakan skrip untuk terus berjalan 24/7.
+246: Maksud saya, kita mungkin bernasib baik.
+247: Mereka mungkin ceroboh, membuat kesilapan, anda tahu ...
+248: <i> Ini dunia yang kita tinggalkan. </i>
+249: <i> Orang bergantung pada kesilapan masing-masing </i>
+250: <i> untuk memanipulasi antara satu sama lain dan menggunakan satu sama lain, </i>
+251: <i> juga berkaitan dengan satu sama lain. </i>
+252: <i> Satu lingkaran kemanusiaan yang hangat dan kemas. </i>
+253: Elliot.
+254: Saya menjemput kamu untuk makan malam malam ini.
+255: Walau bagaimanapun Morton, saya memasak stik bermakna.
+256: Apa? Bolehkah seorang bos mengundang pekerja kegemarannya untuk makan malam?
+257: Tidak, itu sejuk, tetapi saya mendapat rancangan.
+258: Bolehkah anda memberi kami seminit?
+259: Ya.
+260: Anda mahu memberitahu saya apa yang sedang berlaku?
+261: - Tidak. - Oh.
+262: Anda kehilangan kerja, anda kelihatan seperti itu,
+263: dan anda mengharapkan saya tidak bertanya?
+264: Lihat, saya tidak tahu berapa banyak yang anda mahu saya bertanya
+265: tentang kehidupan peribadi anda, tetapi ...
+266: Tidak sama sekali, sebenarnya.
+267: Maksud saya, saya tidak bermaksud bersikap kasar.
+268: Saya ... Saya hanya bersikap jujur.
+269: <i> Mr. Robot mungkin mendapati bug Evil Corp, </i>
+270: <i> tetapi dia tidak dapati saya. </i>
+271: <i> Itulah satu-satunya cara untuk melindungi diri saya. </i>
+272: <i> Jangan tunjukkan kepada mereka kod sumber saya. </i>
+273: <i> Tutup diri saya. </i>
+274: <i> Buat labirin yang sejuk dan sempurna </i>
+275: <i> di mana tiada siapa yang boleh menemuiku. </i>
+276: Elliot, saya tidak boleh percaya anda bekerja di sini.
+277: Tempat ini adalah sebuah kutu buku.
+278: Lihat, saya fikir saya akan mengayunkan, membawa anda makan tengahari.
+279: Oh, itu bagus.
+280: Saya fikir dia suka anda, tunas.
+281: Baiklah, saya akan bawa dia,
+282: tetapi biarkan rekod menunjukkan saya cuba menjadi pemain sayap yang baik.
+283: Oh, tenanglah. Shit.
+284: Saya bukan yang redheads pula.
+285: Seluruh negara Ireland membuat saya batang lembut.
+286: Cuti.
+287: Darlene berkata kita perlu bercakap.
+288: Tinggalkan sekarang.
+289: Anda betul. Mungkin tidak boleh bercakap di sini.
+290: Mari kita pergi ke bar sebelah.
+291: Saya tidak akan pergi ke mana-mana sahaja dengan anda.
+292: Saya tidak akan pergi ke mana-mana sehingga anda melakukannya,
+293: jadi saya boleh nongkrong di sini dan membuat adegan,
+294: atau anda boleh memberi saya lima minit di bar seterusnya atau.
+295: Sama ada cara, saya akan bersenang-senang.
+296: Pilihan peniaga.
+297: Mmm.
+298: Apa? Ia adalah Appletini.
+299: Saya perlu menendang punggung anda.
+300: Mmm.
+301: Jika itu akan menjadikan kita persegi, anda mempunyai berkat saya.
+302: Nah, lelaki, saya tidak mahu melakukan apa-apa kepada anda.
+303: Anda seorang gila.
+304: Apa yang boleh saya dapatkan untuk anda?
+305: Uh, tiada apa.
+306: Anda mungkin perlu memesan sesuatu.
+307: - Saya akan mengesyorkan ini ... - Baik.
+308: Saya akan ... Saya akan mempunyai Appletini.
+309: Anda harus mengambilnya sebagai pujian, lelaki.
+310: Perkara-perkara ini sungguh lazat.
+311: Saya mendapatkannya.
+312: Pujian membuat saya tidak selesa juga.
+313: Saya mendapati sukar untuk percaya.
+314: Ya, siapa saya bercanda? Saya suka pujian.
+315: $ 12.
+316: Saya tidak fikir anda menikmati itu.
+317: - Saya cadangkan menghirup ... - Kemungkinan terakhir.
+318: Apa yang anda mahu?
+319: Saya minta maaf atas apa yang saya buat.
+320: Saya tidak membelinya.
+321: Lebih penting lagi, saya tidak memberikan najis.
+322: Saya tidak pernah mahu menyakiti awak.
+323: Orang yang mendapat kekerasan mendapatkannya
+324: kerana mereka tidak boleh berkomunikasi.
+325: ayah kamu,
+326: Saya yakin dia berasa curang untuk melakukan apa yang dilakukannya.
+327: Saya pasti dia mahu memohon maaf juga.
+328: Kadang-kadang menolak anak anda pergi jauh lebih mudah.
+329: Jangan marah kepadanya terlalu lama, kiddo.
+330: awak pergi?
+331: Itulah yang anda mahu, bukan?
+332: Bagaimana dengan rancangan anda?
+333: Rancang?
+334: Anda adalah kunci kepada segala-galanya.
+335: Tanpa anda, tiada rancangan.
+336: Itu sahaja?
+337: sudah tamat?
+338: Jangkakan saya percaya itu?
+339: Melihat kamu dalam kehidupan yang lain.
+340: <i> Adakah anda mendengarnya? </i>
+341: <i> Saya tidak boleh percaya. </i>
+342: <i> Adakah ia benar-benar berlaku? </i>
+343: <i> Fsociety akhirnya berakhir. </i>
+344: <i> Kejutan baru-baru ini dalam realiti yang rapi </i>
+345: <i> Saya mencipta selama bertahun-tahun. </i>
+346: <i> Saya tidak akan tergelincir seperti itu lagi. </i>
+347: <i> Saya akan menjadi lebih normal sekarang. </i>
+348: <i> Mungkin Shayla juga boleh menjadi teman wanita saya. </i>
+349: <i> Saya akan melihat filem-filem Marvel yang bodoh dengannya. Saya akan menyertai gim. </i>
+350: <i> Saya akan menyembunyikan perkara di Instagram. </i>
+351: <i> Saya akan minum latte vanila. </i>
+352: <i> Saya akan menjalani kehidupan bebas-bug mulai sekarang. </i>
+353: <i> Apa-apa untuk melindungi maze saya yang sempurna. </i>
+354: * *
+355: Hei, Gideon.
+356: Adakah makan malam itu masih pada malam ini?
+357: Um, ya. Pasti.
+358: Uh, awak nak datang?
+359: Ya.
+360: Hebat.
+361: Bolehkah saya bawa teman wanita saya?
+362: Anda mempunyai teman wanita?
+363: Nah, saya, uh, belum tanya lagi,
+364: tetapi saya akan.
+365: Semoga dia akan berkata ya.
+366: Uh, yeah. Pasti.
+367: Sempurna.
+368: Terima kasih.
+369: * Mencuri cahaya matahari saya *
+370: * cahaya matahari saya *
+371: * Jika anda mencuri cahaya matahari saya *
+372: * cahaya matahari saya *
+373: * Jika anda mencuri cahaya matahari saya *
+374: Adakah dia minum Starbucks?
+375: Adakah anda masih cuba merobek CD itu?
+376: Ya, semuanya ... semuanya tercalar.
+377: Mari keluar dari sini.
+378: ___
+379: ___
+380: ___
+381: ___
+382: ___
+383: ___
+384: ___
+385: ___
+386: ___
+387: ___
+388: bos saya menjemput saya ke pesta makan malam
+389: di tempatnya malam ini.
+390: Saya fikir anda boleh datang sebagai teman wanita saya.
+391: Apa?
+392: Adakah anda sebenarnya meminta saya menjadi teman wanita anda sekarang?
+393: Ya.
+394: Bagaimanapun, saya perlukan awak.
+395: Saya tidak baik dalam situasi sosial seperti itu.
+396: Ada sesuatu yang serius dengan anda.
+397: Saya tidak akan digunakan lagi.
+398: Kenapa awak tidak tanya gadis itu pagi ini, okay?
+399: Dia kelihatan seperti dia mungkin mahu pergi ke beberapa orang bodoh,
+400: parti makan malam pengap.
+401: Anda sebenarnya tidak mengenali saya.
+402: Semua yang anda tahu ialah saya gadis ...
+403: <i> Sudah tentu saya tahu Shayla. </i>
+404: <i> Saya menggodam e-melnya sebaik sahaja dia berpindah ke depan. </i>
+405: <i> Dengan penipuan pancingan data yang mudah, </i>
+406: <i> Saya memiliki kata laluannya dengan mudah. ​​</i>
+407: Saya tidak bercakap mengenai perkara yang anda boleh cari dalam talian.
+408: Saya bercakap mengenai saya yang sebenar.
+409: Beritahu saya, kemudian.
+410: Tidak. Lupakan ia.
+411: Saya mahu tahu.
+412: <i> Apa ini? </i>
+413: Saya hanya meletakkan semua elemen ...
+414: <i> - Ia cantik. - Bersama-sama. </i>
+415: <i> Saya tidak pernah melihatnya sebelum ini. </i>
+416: <i> - Dia mesti ... - Tidak pernah diposkan dalam talian. </i>
+417: Um, saya maksudkan, banyak daripada mereka tidak ...
+418: mereka tidak selesai.
+419: <i> Dia mendapat maze peribadi sendiri juga. </i>
+420: Mengambil banyak keping yang berbeza,
+421: um, dari pelbagai perkara,
+422: seperti dari gambar atau lukisan saya dan ...
+423: Seperti, ada yang ini.
+424: Um, ia benar-benar f ... ingih,
+425: tetapi, seperti, ia mempunyai segalanya ... anak-anak dan ...
+426: <i> Bug Shayla sentiasa sukar difahami oleh saya. </i>
+427: <i> Mungkin ini sahaja. </i>
+428: <i> Ingin normal tetapi terperangkap dalam pinggir luar, </i>
+429: <i> tidak mengetahui cara untuk mengambil bahagian. </i>
+430: <i> Sama seperti saya. </i>
+431: Bolehkah saya mencium awak?
+432: Masa depan, jangan tanya.
+433: Ia lumpuh.
+434: <i> Bugs biasanya mendapat rap buruk. </i>
+435: <i> Tetapi kadang-kadang ... </i>
+436: Jangan biarkan aku turun, okay?
+437: <i> Apabila pepijat akhirnya diketahui sendiri, </i>
+438: <i> ia boleh menggembirakan, </i>
+439: <i> seperti anda membuka kunci sesuatu. </i>
+440: <i> peluang besar </i>
+441: <i> menunggu untuk dimanfaatkan. </i>
+442: Encik. Wellick?
+443: Hey.
+444: Apa lagi namanya?
+445: Anwar.
+446: Saya tidak tahu awak datang ke tempat seperti ini.
+447: Saya tidak.
+448: Apa maksud awak? Anda berada di sini sekarang.
+449: Saya di sini kerana anda.
+450: Apa? Maaf, saya tidak dapat.
+451: Saya fikir awak cantik. Saya mahu membawa kamu ke rumah.
+452: Tunggu, saya fikir awak sudah berkahwin.
+453: <i> Kerana, sememangnya, satu-satunya tujuan bug, </i>
+454: <i> itu hanya sebab kewujudan </i>
+455: <i> menjadi kesilapan yang perlu diperbetulkan, </i>
+456: <i> untuk membantu anda salah. </i>
+457: <i> Dan apa yang lebih baik daripada itu? </i>
+458: Jadi, Elliot,
+459: adakah anda fikir anda perlu memperkenalkan kami?
+460: Oh, um, Shayla, ini adalah Angela dan Ollie.
+461: Anda, uh, anda kelihatan cantik petang ini.
+462: Apa, lelaki?
+463: Anda hanya datang ke sini?
+464: Saman bagus.
+465: Terima kasih, dude.
+466: - Shit. - Apa yang ada dengan awak?
+467: Anda telah mengecewakan sepanjang malam.
+468: Mungkin kita harus mencuba bel pintu lagi.
+469: Hei, lelaki.
+470: Berapa lamakah kamu berdiri di sini?
+471: Bel bel pintu rosak. Saya sepatutnya memberi amaran kepada anda.
+472: Masuk. Saya Harry, dengan cara.
+473: - Angela. Selamat menemui anda. - Baik bertemu dengan anda.
+474: - Sentiasa senang meletakkan wajah ... - Hei.
+475: Dengan nombor lencana pekerja, bukan?
+476: Ollie, berapa lama kamu bersama?
+477: - 2 dan setengah tahun. - 2 tahun.
+478: Baiklah.
+479: Elliot, berapa lama kau dan Shayla bersama?
+480: Well, uh, um,
+481: J ... hanya hari ini.
+482: * Kenangan berlalu *
+483: * Jadi percuma dan mudah *
+484: * Pertama dan terakhir ... *
+485: Baiklah, memasak tetamu yang cukup.
+486: Mari kita periksa grill sebenar, adakah kita?
+487: Elliot, saya boleh menggunakan bantuan anda.
+488: Jadi saya mempunyai pengakuan.
+489: Saya mempunyai pentadbir SYS di pusat data di Dulles
+490: semak pelayan itu lagi.
+491: <i> Gideon, apa yang kamu lakukan? </i>
+492: Sudah tentu tidak ada apa-apa.
+493: Saya tidak tahu apakah ada yang mencurigakan.
+494: Maksud saya, apakah motivasi yang mungkin anda dapat
+495: untuk berbuat apa-apa? Saya rasa saya hanya menjadi ...
+496: <i> Gideon perlu membiarkannya pergi. </i>
+497: <i> Jika dia datang berhampiran sarang burung hantu ini, </i>
+498: <i> Saya tidak pasti saya boleh menyelamatkannya daripadanya. </i>
+499: <i> Saya perlu membunuh sebarang kecurigaan yang tersisa. </i>
+500: Anda tidak lain hanyalah pekerja keras untuk Allsafe,
+501: jadi saya minta maaf.
+502: Selepas perbualan di pesawat,
+503: Saya tahu apa yang dipertaruhkan ... seluruh syarikat.
+504: Saya bimbang bahawa fail DAT saya dapati
+505: tidak betul.
+506: Saya tidak
+507: ingin mendapatkan harapan anda sekiranya saya salah.
+508: Itulah sebabnya saya tidak memberitahu anda sebelum mesyuarat.
+509: <i> Shit. </i>
+510: <i> Saya perlu membiarkan dia memeluk saya, bukan? </i>
+511: Anda seorang jurutera cemerlang, Elliot,
+512: dan anda tidak boleh meragui kemahiran anda
+513: tidak peduli berapa banyak tekanan yang saya pakai.
+514: Dan anda tidak perlu menyimpan sesuatu dari saya.
+515: Saya peduli dengan anda.
+516: <i> Daripada Fail Campuran Basil E. Frankweiler. </i>
+517: Di sinilah saya mendapat idea, ingat?
+518: Saya mahu menjadi Claudia Kincaid begitu buruk.
+519: Walaupun namanya keren.
+520: Ingat, kami fikir kami pergi ke The Met,
+521: entah bagaimana kita akhirnya di The Queens Museum sebaliknya?
+522: Tiada Peta Google pada masa itu.
+523: Saya suka melarikan diri dengan anda.
+524: Entah bagaimana apabila anda berusia lapan tahun,
+525: melarikan diri boleh menjadi menyeronokkan.
+526: <i> Kehidupan normal. </i>
+527: <i> Senyum, pesta makan malam, </i>
+528: <i> cerita zaman kanak-kanak. </i>
+529: <i> Saya dapat membiasakan diri dengan ini, </i>
+530: <i> mungkin juga menyukainya. </i>
+531: Apa yang salah?
+532: Skandal penggodaman Corp terus berlaku
+533: dengan melepaskan e-mel terbaru ini.
+534: Maklumat yang dibentangkan dari dump terkini
+535: bahawa Terry Colby adalah salah seorang daripada tiga eksekutif peringkat tinggi
+536: terlibat dalam penutupan
+537: daripada yang dipublikasikan secara meluas
+538: Skandal sisa toksik perbandaran Washington.
+539: Jika laporan ini benar,
+540: Colby mungkin menghadapi lebih dakwaan.
+541: Dalam 24 bulan berikutnya
+542: selepas kebocoran sisa yang dikatakan beracun pada tahun 1993,
+543: 26 pekerja mati akibat jenis leukemia yang sama.
+544: Evil Corp, bagaimanapun, berjaya mendapatkan tuntutan mahkamah tindakan kelas
+545: difailkan oleh mangsa yang dibebaskan,
+546: mendakwa tidak ada kaitan bukti langsung
+547: kilang mereka kepada diagnosis.
+548: Sekarang e-mel ini menunjukkan bahawa Colby sebenarnya sedar
+549: tahap keracunan berbahaya
+550: dan menyimpan rahsia itu
+551: "tidak akan menjadi kos efektif untuk memulihkan sistem semasa
+552: di tempat walaupun terdapat kemungkinan tuntutan undang-undang ".
+553: Encik. Colby tidak dapat memberi komen, tetapi peguamnya ...
+554: <i> Maze sempurna saya </i>
+555: <i> runtuh di hadapan mataku. </i>
+556: Pembuangan data bukti lanjut Colby telah ditubuhkan,
+557: tetapi mereka tidak menunjukkan siapa.
+558: <i> Tiada apa-apa untuk bersembunyi di belakang. </i>
+559: <i> Saya tidak fikir ia wujud, tetapi ada. </i>
+560: <i> Is. </i>
+561: <i> Encik. Robot akhirnya menemui pepijat saya. </i>
+562: Menghubungkan tahap sisa di Washington Township
+563: kepada penyakit mangsa.
+564: Penganalisis undang-undang menyokong tuntutan itu
+565: bahawa tidak ada cukup bukti ...
+566: Apa yang berlaku?
+567: Itulah bagaimana ibu saya, um, dan ayah Elliot ...
+568: - Saya perlu pergi. - Tunggu tunggu.
+569: - Izinkan saya datang bersama anda. - Tidak, saya lebih suka anda tidak.
+570: Bukti dalam skandal Township Washington.
+571: Terry Colby masih disiasat
+572: kerana dakwaan beliau terlibat dengan ...
+573: Dihentikan kerana tiada bukti
+574: menghubungkan tahap sisa di Washington Township ...
+575: Evil Corp ...
+576: Jangan kelihatan sedih.
+577: Dia melakukan ini kepada dirinya sendiri.
+578: Dia memberi masuk Dia seorang pengecut.
+579: Dia lemah dan menyedihkan.
+580: Dan pada akhirnya, itulah yang membunuh bapanya.
+581: Mengapa kamu menangis?
+582: Jangan tanya banyak pertanyaan.
+583: Saya rindu dia.
+584: Tidak ada gunanya.
+585: Tetapi saya lakukan.
+586: Kemudian awak lemah seperti dia.
+587: Kamu tidak sedih?
+588: Mengapa saya perlu?
+589: Malam yang indah.
+590: Cuaca bagus,
+591: dan saya menikmati rokok saya.
+592: <i> Bugs memaksa perisian untuk menyesuaikan diri, </i>
+593: <i> berkembang menjadi sesuatu yang baru kerana itu. </i>
+594: <i> Bekerja di sekelilingnya atau bekerjasama. </i>
+595: <i> Tidak kira apa, ia berubah. </i>
+596: <i> Ia menjadi sesuatu yang baru. </i>
+597: <i> Versi seterusnya. </i>
+598: <i> Peningkatan yang tidak dapat dielakkan. </i>
+599: Anda seorang makhluk yang pelik.
+600: Saya hanya seorang ahli perniagaan.
+601: Dan itu sepertimana bersih kerana saya akan mendapatkannya.
+602: Anda perlu melakukan yang lain di bilik mandi.
+603: Saya tidak keberatan menjadi sedikit kotor.
+604: Saya buat.
+605: Anda mesti menyertai saya.
+606: Ya, saya akan berada di sana dalam satu minit.
+607: Hey.
+608: Saya minta maaf bahawa saya berlari seperti itu.
+609: Adakah anda bercakap dengannya?
+610: Tidak. Dia tidak ada di rumah.
+611: Baiklah, saya di sini.
+612: Saya ingin bercakap dengan anda tentang segala-galanya,
+613: tidak malam ini, okay?
+614: Jadi anda bercakap dengannya, tetapi tidak dengan teman lelaki anda?
+615: Ia berbeza, Ollie.
+616: Kedua-dua ibu bapa kita mati kerana ...
+617: Itulah bagaimana kita mengenal satu sama lain.
+618: Saya benar-benar tidak mahu bercakap tentang perkara ini sekarang.
+619: Bagaimana jika saya lakukan?
+620: Bagaimana jika anda melakukan apa?
+621: Mahu bercakap.
+622: Mengenai ...
+623: sesuatu.
+624: Apa yang kamu cakapkan?
+625: Saya perlu memberitahu anda sesuatu.
+626: Saya tidak tahu kenapa anda menyerahkan diri anda melalui ini.
+627: Anda tidak perlu melihatnya.
+628: Baiklah? Ia tidak bermakna apa-apa.
+629: Baiklah, saya tahu saya terdengar seperti rekod yang rusak,
+630: tapi saya sayang kamu, dan saya mahu bersama kamu.
+631: Berhenti bercakap.
+632: Beritahu saya apa yang anda perlukan
+633: supaya saya menetapkan ini, dan saya akan melakukannya.
+634: Kita perlu berpecah.
+635: Angela, teruskan.
+636: Apa pilihan yang kamu berikan kepada saya, Ollie?
+637: Lihat, saya tahu saya mempunyai masalah.
+638: Saya tidak menolaknya.
+639: Mungkin masalah saya
+640: Saya tidak boleh bersama seorang lelaki dengan masalah anda.
+641: Di mana CD itu?
+642: Di dalam beg saya ... dalam beg saya. Mengapa?
+643: Dia mempunyai akaun bank saya, Ollie.
+644: - Dan akaun bank ayah saya. - Bagaimana mereka ...
+645: Akaun kami dikaitkan kerana pinjaman pelajar saya.
+646: Saya menggunakan komputer riba anda untuk mengaksesnya.
+647: Dia mempunyai keselamatan sosial ayah saya,
+648: nombor kad kreditnya, semuanya.
+649: Baiklah.
+650: Baiklah, itu buruk,
+651: tapi saya pasti polis akan memikirkan cara ...
+652: Jika kita tidak melakukan apa yang dikatakan lelaki ini
+653: dan kami pergi ke polis, maka dia akan menjual
+654: maklumat kami kepada pembida tertinggi,
+655: dan saya dan ayah saya betul-betul kacau.
+656: Adakah anda tahu betapa sukarnyanya
+657: untuk kembali dari kecurian identiti yang besar seperti ini?
+658: Apa yang kamu katakan?
+659: Angela, adakah anda gila?
+660: Tidak, kita tidak boleh menjangkiti rangkaian Allsafe sahaja
+661: kerana ini.
+662: Saya akan kehilangan pekerjaan saya.
+663: Dan ada.
+664: Anda juga akan kehilangan pekerjaan anda,
+665: jika itu penting.
+666: Selain itu, walaupun kita meletakkan CD itu,
+667: siapa yang mengatakan lelaki ini tidak akan melakukan semua ini?
+668: Hei.
+669: Hei, hei, datang ke sini.
+670: Lihatlah saya.
+671: Kita akan memikirkannya.
+672: Okay?
+673: Anda betul. Anda betul.
+674: Saya minta maaf.
+675: Saya hanya takut.
+676: Saya tidak mahu berpisah dengan anda.
+677: Maafkan saya mengatakannya.
+678: Oh.
+679: Saya sangat mencintaimu.
+680: <i> Ini adalah admin, Dulles. </i>
+681: Ya, ini Gideon Goddard di Allsafe Security.
+682: Saya perlu bercakap dengan Sean Skyler mengenai CS30 pelayan lagi.
+683: <i> Pegang sila. Saya akan memindahkan anda. </i>
+684: * *
+685: ___
+686: ___
+687: ___
+688: ___
+689: ___
+690: ___
+691: ___
+692: ___
+693: ___
+694: ___
+695: ___
+696: ___
+697: ___
+698: ___
+699: ___
+700:___ 
+701:___ 
+702:___ 
+703:___ 
+704:___ 
+705:___ 
+706:___ 
+707:___ 
+708:* * 
