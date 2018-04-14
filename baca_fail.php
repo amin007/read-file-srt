@@ -30,6 +30,6 @@ foreach($files as $key => $file1):
 	//echo '<hr size=7>' . $key2 . ':' . $dir1 . '/' . $key . '/' . $file . '<hr>';
 	echo '<hr size=7>' . $k++ . ':' . $dir1 . '/' . $key . '/' . $file . '<hr>';
 	$papar = new bacaSrt;
-	$papar->mulaBaca($dir1 . '/' . $key . '/' . $file);
+	$papar->mulaBaca($dir1 . '/' . $key . '/' . $file, $key);
 endforeach;
 endforeach;//*/
