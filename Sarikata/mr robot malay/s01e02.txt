@@ -1,0 +1,763 @@
+1: Apa yang saya katakan kepada anda adalah rahsia teratas,
+2: Evil Corp.
+3: Tyrell Wellick.
+4: Anda mahu melakukan ini bersama-sama?
+5: Pure Molly ...
+6: Tidak, Shayla.
+7: Saya memerlukan anda untuk datang ke AllSafe.
+8: Shit. Mereka berada dalam rangkaian?
+9: Inilah dia. Fsociety.
+10: Mereka memberitahu saya untuk meninggalkannya di sini.
+11: Siapa awak?
+12: Saya fikir anda mesti datang dengan saya.
+13: Ya, itulah Darlene.
+14: Anda akan mengubah suai fail itu
+15: meletakkan IP Colby di sana.
+16: Anda berbuat demikian,
+17: anda telah menetapkan gerakan revolusi terbesar yang pernah dilihat oleh dunia.
+18: sumber telah mengesahkan hacks itu
+19: sebahagiannya terikat dengan terminal Colby.
+20: Tuan, masuk ke dalam kereta.
+21: Bon soir, Elliot.
+22: "Berikan seorang lelaki pistol dan dia boleh merompak sebuah bank,
+23: tetapi berikan seorang lelaki sebuah bank, dan dia boleh merompak dunia. "
+24: Ia adalah ungkapan yang bodoh, sebenarnya.
+25: sedikit reductive, tetapi masih ...
+26: Saya suka,
+27: kerana sebab yang sama kebanyakan orang membencinya,
+28: kerana kepada saya ia bermakna itu
+29: kuasa milik orang yang mengambilnya.
+30: Tiada apa-apa kaitan dengan kerja keras mereka, cita-cita kuat,
+31: atau kelayakan yang sah, tidak.
+32: Kehendak sebenar sering kali menjadi satu-satunya perkara yang diperlukan.
+33: Saya minta maaf untuk membawa anda seperti ini.
+34: Secara teknikal apa yang kita lakukan mungkin dianggap tidak sah,
+35: itulah sebabnya saya dikelilingi
+36: oleh sebelas peguam yang paling menjengkelkan.
+37: Elliot Alderson ...
+38: Saya mahu menawarkan anda
+39: kedudukan di sini di Evil Corp.
+40: Saya mahu anda mengetuai bahagian keselamatan siber kami.
+41: Kecuali saya tidak boleh menawarkan apa-apa secara rasmi kepada anda
+42: kerana kami tidak bersaing dengan majikan anda, Allsafe.
+43: Tetapi jika kamu berbuat demikian, kamu ...
+44: ketika kamu melakukan ini ...
+45: anda akan menjadi jutawan dalam tempoh lima tahun akan datang.
+46: Apa yang kamu katakan?
+47: Bolehkah saya ...
+48: Bolehkah saya memikirkannya?
+49: Tuan-tuan, saya perlukan bilik.
+50: Ya, terima kasih. Ya, ya.
+51: Anda tahu,
+52: Evil Corp baru sahaja menamakan saya CTO interim.
+53: Ia tidak akan lama sehingga ia rasmi.
+54: Saya akan menjadi eksekutif termuda yang pernah dilihat oleh syarikat ini.
+55: Saya harus mengesan penggodam ini di luar sana
+56: hanya untuk berterima kasih kepada mereka.
+57: Dalam satu cara, ia ...
+58: Apa perkataan dalam bahasa Inggeris?
+59: Serendipitous? Betul kan?
+60: Anda tahu, menjelang akhir suku tahun,
+61: kita akan mengubah keseluruhan rangkaian kita
+62: dan menyatukan protokol keselamatan kami.
+63: Kami akan mengendalikan segala-galanya secara dalaman,
+64: yang bermaksud semua vendor kami, termasuk Allsafe,
+65: akan dipotong longgar.
+66: Dan tidak rahsia lagi bahawa apabila Allsafe kehilangan kita sebagai pelanggan,
+67: mereka akan menjadi fini.
+68: Dan apabila itu berlaku,
+69: Saya mahu anda berada di mana anda berada:
+70: di sini dengan saya.
+71: Ini adalah pilihan penting yang anda buat, Elliot.
+72: Saya hanya mahu anda tahu semua fakta
+73: sebelum anda membuat keputusan muktamad anda.
+74: Saya fikir saya gembira di mana saya berada.
+75: Saya fikir saya akan bertanya.
+76: Panggil nombor ini jika anda perlu berhubung dengan Encik Wellick.
+77: Anda boleh menghubungi saya Encik X.
+78: Ayolah, anda tidak pernah melihat JFK?
+79: filem Oliver Stone?
+80: Tuan, saya harus jujur. Itu memalukan.
+81: Lakukanlah kebaikan dan nontonnya.
+82: Dan bayar, demi Kristus.
+83: Bagaimanapun, anda boleh menghubungi saya Encik Sutherland buat masa sekarang.
+84: Jangan teragak-agak untuk menghubungi saya apabila anda sudah bersedia.
+85: Kami sentiasa dekat.
+86: Saya akan menetapkan tarikh sekarang ...
+87: - Tidak, kita tidak. - Untuk kemudian.
+88: Saya mesti pergi, terima kasih banyak.
+89: - Anda akan dapat saya? - Tidak.
+90: - Bolehkan saya naik? - Jangan berhenti.
+91: - Saya akan datang. - Tidak, anda tidak akan datang.
+92: Satu lagi masa. Okay, saya mesti pergi.
+93: Ayuh.
+94: - Segala sesuatu yang baik? - Yeah, dia hanya menjalar.
+95: Saya benci ketika majikan anda tidak dapat memberi petunjuk.
+96: Hei, adakah radiator awak merosakkan?
+97: Kerana ia seperti 3,000 darjah di apartmen saya.
+98: Hei, adakah anda baik-baik saja? Awak kelihatan.
+99: Walaupun kita berada di sini, anda fikir jika saya mendapat reup?
+100: Sedikit awal untuk reup, tidakkah anda fikir?
+101: Saya menyimpang dari jadual sedikit.
+102: Whoa, tidak pernah fikir saya akan melihat hari itu, Encik Stricty Pants,
+103: tapi okie dokie.
+104: Oh, ya. Sial, saya keluar daripada yang lain.
+105: Tidak, hanya morfin itu. Ia bagus.
+106: Uh, tidak, awak membuat saya berjanji tidak akan memberikan ini kepada anda
+107: kecuali saya mempunyai Subs Anda.
+108: - Shayla. - Tidak, Elliot.
+109: Janji perkara, okay?
+110: Saya mengambil hati ini.
+111: Oh, Tuhanku.
+112: Baiklah, tetapi anda perlu berjanji bahawa anda tidak akan melakukan banyak perkara
+113: sehingga saya mendapat med penarikan anda, okey?
+114: Saya akan jumpa Fernando nanti atau sesuatu.
+115: Tidak, anda perlu mengatakannya.
+116: Saya berjanji.
+117: Hei, lelaki.
+118: Apa, anda fikir saya terlupa tentang anda?
+119: Percayalah, saya memerlukan anda sekarang lebih dari sebelumnya.
+120: Kita perlu bekerja.
+121: Hacking Tyrell Wellick, anda fikir ia akan menjadi rumit,
+122: tetapi tidak ... Pelayan mel korporat Evil Corp,
+123: mereka tidak menepuk apa-apa sejak Shellshock.
+124: Dia bahkan tidak menggunakan pengesahan dua langkah.
+125: Kata laluannya hanyalah nama sulung isterinya
+126: dan tarikh kemerdekaan Sweden, 6-6.
+127: Satu enam jauh dari yang jelas, tetapi masih,
+128: ini amalan noob yang tidak baik.
+129: e-mel ini ...
+130: Kehidupannya ... itu bagus, bahagia, sempurna.
+131: Ini tidak masuk akal.
+132: Adakah dia tahu saya akan menggodamnya?
+133: Adakah dia membiarkan saya?
+134: Saya perlu menghapus segala-galanya.
+135: Saya tahu, saya tahu, mengambil lebih daripada yang saya perlu.
+136: Saya melanggar peraturan saya, tetapi datang, ia adalah minggu lepas.
+137: Ayuh.
+138: Lelaki saya, anda mesti ...
+139: Anda mesti ada di sini?
+140: Yo, anda mesti melakukan perniagaan anda di sini, bukan?
+141: Anda mendapat ini. Anda mendapat ini.
+142: Terry Colby, ketua pegawai teknologi ...
+143: Penangkapan Terry Colby adalah di fikiran semua orang.
+144: Skrin. Mungkin juga perkara yang sama sekarang ini.
+145: Bagaimana saya kembali bekerja selepas ini?
+146: Bagaimana saya boleh memberi tumpuan kepada apa-apa?
+147: Dan bilakah Encik Robot akan menghubungi saya lagi?
+148: Apa yang dia tunggu?
+149: Adakah saya hanya memusnahkan kehidupan seorang lelaki tanpa sebab?
+150: Saya akan bercakap dengan HR mengenai bonggol gaji untuk anda.
+151: - Oh, tolong. - Tidak tidak.
+152: Ambil kenaikan.
+153: Ia tidak akan banyak, tetapi ia adalah yang terbaik yang boleh saya lakukan sekarang.
+154: Elliot ...
+155: Anda menyelamatkan syarikat itu.
+156: Sekarang ...
+157: Kenapa anda tidak memberitahu saya mengenai fail itu?
+158: Anda boleh masuk ke sini pada bila-bila masa sebelum mesyuarat
+159: untuk mengatakan anda mendapati sesuatu, tetapi anda tidak.
+160: Saya harus jujur. Saya mendapati jenis yang ingin tahu.
+161: Ya, saya tidak tahu apa yang saya ada.
+162: Boleh dengan mudah menjadi fail sampah.
+163: C'mon ...
+164: Anda tidak pasti apa-apa
+165: kecuali ada sesuatu yang pasti.
+166: Mungkin anda tidak kenal saya dengan baik.
+167: Tanpa mengira,
+168: Saya masih memerlukan anda untuk kekal di atasnya, sekarang lebih dari sebelumnya.
+169: Maksud saya, siapa tahu apa yang penggodam fsociety akan lakukan seterusnya.
+170: Apa yang dia katakan?
+171: - Apa yang anda katakan? - Orang yang bekerja dengan Colby.
+172: Siapa tahu betapa jauhnya dumps data ini akan mendapat,
+173: dan Evil Corp ...
+174: Apa maksudnya?
+175: Ada twist.
+176: Anda biasanya satu langkah di hadapan saya.
+177: Mereka memukul ibu ibu semasa pelanggaran itu.
+178: Berpengalaman terabytes bernilai e-mel dan fail.
+179: Mereka mengancam untuk membuang segala-galanya
+180: melainkan FBI membebaskan Colby.
+181: Mereka mengeluarkan video pagi ini.
+182: Hello, Evil Corp Kami adalah fsociety.
+183: Selama bertahun-tahun, kami telah menonton anda.
+184: Penyalahgunaan kewangan terhadap golongan miskin;
+185: rasuah kerajaan anda;
+186: perlindungan anda terhadap pembunuhan rakyat biasa yang tidak bersalah,
+187: semua demi keuntungan.
+188: Inilah sebabnya kami di fsociety memutuskan bahawa anda mesti mati.
+189: Kita berniat jahat dan bermusuhan. Kami tidak berkompromi.
+190: Kita tidak henti-henti.
+191: Kami tidak akan berhenti sehingga setiap tentakel
+192: keganasan jahat anda dihirup di saraf.
+193: Tetapi kita juga tidak tanpa belas kasihan.
+194: Hack terbaru kami adalah amaran terakhir kami.
+195: Memenuhi tuntutan kami, dan kami akan mempertimbangkan untuk tidak memusnahkan anda.
+196: Pertama, lepaskan pemimpin kami Terry Colby
+197: dari penjara tidak sah anda dengan serta-merta.
+198: Kedua, lepaskan semua orang di dunia
+199: dari penjara hutang yang tidak sah lagi.
+200: Ketiga, membubarkan perbadanan anda
+201: dan mendermakan semua aset anda kepada badan amal di seluruh dunia.
+202: Cadangan ini tidak boleh dirunding.
+203: Orang ramai menyedari bahawa mereka tidak mempunyai kebebasan pilihan
+204: selagi awak wujud.
+205: Rakyat bangun,
+206: tidak lagi menerima perhambaan ekonomi anda.
+207: Temui tuntutan ini, atau kami akan membunuh anda.
+208: Perhatikan diri sendiri.
+209: Main lagi.
+210: Yo, yo, yo, yo, album saya jatuh.
+211: Yo, sila beli CD saya. Hanya kos yang anda suka 20.
+212: Yo, ia akan memberi anda perasaan, ya, saya bersumpah.
+213: CD percuma. Apa yang saya minta ialah anda Tweet.
+214: Membantu jangkauan media sosial saya.
+215: Anda tahu, seperti, "Saya mahu menubuhkan mesyuarat ini.
+216: Ia seperti yang sangat, seperti ... "
+217: Oh, Elliot!
+218: Hei, tahniah, lelaki.
+219: Allsafe adalah seluruh internet hari ini kerana anda.
+220: Dude, kita patut meraikannya. Kami mempunyai Groupon ini
+221: untuk empat di Morton pada Khamis.
+222: Pasangan lain yang kami pergi dengan sepenuhnya diselamatkan.
+223: Mengapa kamu tidak datang?
+224: Steak mereka adalah badass. Ia $ 29.95 ...
+225: Saya tidak pasti bahawa Elliot akan menyukainya.
+226: Ya, okay.
+227: Ya? Baik. Awesome, man.
+228: Dan, hei, kenapa kita tidak membuatnya tarikh berlipat ganda?
+229: Saya mendengar bahawa anda mempunyai teman wanita.
+230: Ollie, kamu tidak sepatutnya berkata apa-apa.
+231: Babe, ia sejuk. Elliot okay dengannya.
+232: Ya, ok, pasti. Saya perlu pergi.
+233: Um, jiran saya mengeluh tentang anjing yang menyalak lagi.
+234: Sejak bila dia mempunyai seekor anjing?
+235: Anda kelihatan seperti pasangan yang cantik.
+236: Yo, album saya hanya jatuh,
+237: Anda suka rap, hip-hop?
+238: Yo, tahi ini dalam, lirik, puitis.
+239: Yo, gadis anda akan menyukai ini, lelaki saya, saya bersumpah.
+240: Ayo, bro, awak telah berada di luar bangunan kami selama dua minggu sekarang.
+241: Baiklah, anda tahu, saya akan mengambilnya,
+242: jika anda meninggalkan kami sendiri.
+243: Terima kasih, terima kasih, lelaki, terima kasih.
+244: Dan saya akan tweet, tetapi hanya jika saya suka, bukan?
+245: Saya hanya mempunyai 48 orang pengikut, tetapi ia berkembang.
+246: - Tidak syak lagi, tidak syak lagi. - Sesetengah pembuat ...
+247: Saya rasa anda, saya merasakan anda.
+248: - Ya. - Baiklah.
+249: Yo, saya menghargai, lelaki, betul-betul.
+250: - Anda mempunyai hari yang baik. - Ya, awak juga.
+251: Terima kasih banyak. Semak trek dua keluar.
+252: - Jejaki dua. - Baiklah, lelaki.
+253: Ini bukan sebahagian daripada rancangan itu.
+254: Dumps data? Melepaskan Terry Colby?
+255: Tiada yang masuk akal.
+256: Perlu memotong semua hubungan dengan fsociety.
+257: Perlu putuskan sambungan.
+258: Kita perlu memanggil sakit dan menipu ...
+259: Dude! Nabi Isa! Saya telanjang, asshole!
+260: Jangan tengok saya!
+261: Kenapa awak ada di pancuran saya?
+262: Nah, saya menunggu awak.
+263: Anda sepatutnya datang malam tadi.
+264: - Adakah anda lupa? - Datang? Di mana?
+265: Baiklah, semua orang akan datang kemudian.
+266: Saya mencuri pakaian kamu.
+267: Pakaian saya mempunyai kesan merangkap di atasnya.
+268: Yesus, saya hanya kacau dengan kamu.
+269: barangan saya hanya dalam basuh.
+270: Saya akan meminjam buat masa ini.
+271: Oh, dengan cara ini,
+272: anjing anda bertembung di atas katil anda.
+273: Anda mesti berjalan perkara itu.
+274: Hei, tolong ambil Flipper seketika.
+275: Dia mungkin memerlukan berjalan kaki atau sesuatu.
+276: Dia terus berlari ke mana-mana.
+277: Sudah tentu dia perlu berjalan kaki, Elliot.
+278: Dia anjing yang friggin.
+279: Yo, saya mahu berhenti dan mendapatkan froyo sebelum kita pergi.
+280: Uh, saya akan kembali nanti.
+281: - Saya berhutang anda. - Ya, masa yang besar.
+282: Bagaimana anda tahu di mana saya tinggal?
+283: Mengapa saya tidak tahu di mana anda tinggal?
+284: Saya tidak tahu. Saya tidak tahu di mana anda tinggal.
+285: Saya tidak tinggal di mana-mana pada masa ini.
+286: Lelucon yang saya kencan bercadang untuk saya, bolehkah anda percaya?
+287: Maksud saya, apa yang menjadi asshole.
+288: Anyways, kami masuk ke perjuangan besar ini, dan ...
+289: Apa yang saya buat?
+290: Anak ayam ini keluar dari batchit fikirannya yang gila.
+291: Saya harus kembali, memberitahu Gideon semuanya.
+292: Dia akan faham, kan?
+293: Dia akan tahu apa yang perlu dilakukan.
+294: It's whats. Dia akan membawa saya kembali.
+295: Dia hanya perlu mendapatkan keseluruhannya
+296: "Cinta adalah selama-lamanya" omong kosong.
+297: Saya akan melakukan perbuatan saya hilang seminit,
+298: dan kemudian dia akan datang kepada deria.
+299: - Berdirilah dengan jelas dari pintu penutup. - Anda tahu, itu perkara kami.
+300: Pantas!
+301: Bolehkah dia melihat mereka juga?
+302: Apa?
+303: Saya suka tinggal di kaki saya.
+304: Bercakap, itu, seperti, salah satu perkara yang paling menjengkelkan ...
+305: Tetapi bagaimana jika Tyrell mendapati? Apa yang akan dia lakukan?
+306: Shit, pada dasarnya tiada senario di mana
+307: Saya tidak terbunuh atau pergi ke penjara.
+308: Kerana saya mahukan penyu, dan dia seperti, "Tidak ..."
+309: Saya mungkin perlu menunggang dengan anda selama beberapa malam.
+310: It's cool, bukan?
+311: Serius?
+312: Baik! Saya akan kemalangan di Mobley.
+313: Jangan suka anjing lagi.
+314: Terutama orang-orang yang bersarang di tempat tidur anda.
+315: Maksud saya, bagaimana anda hidup seperti itu, dengan jujur?
+316: Bagaimana anda pergi tidur apabila anda tahu bahawa ada ...
+317: Untuk semua yang kita tahu,
+318: Saya boleh masuk ke dalam perangkap sekarang.
+319: Kita boleh mati kedua saya berjalan melalui pintu itu.
+320: Ayo, anak kecil. Kami mendapat banyak perkara di kedai.
+321: Perkara-perkara besar.
+322: Man of the hour. Ambillah.
+323: Itik Goddamn.
+324: Hei, hey, man!
+325: Apa itu ... Oh. Shit, maaf, maaf, dude.
+326: Um, okay.
+327: Bagaimanapun, kerja yang hebat, lelaki.
+328: Betapa hebatnya.
+329: Baiklah, lelaki. Betul.
+330: - Sangat sejuk. - Hebat.
+331: Jadi sekarang kita semua sedang berjalan di antara satu sama lain,
+332: bolehkah kita mendengar rancangan itu?
+333: Di mana kita berada bersama dengan Steel Mountain?
+334: Jika saya tidak salah,
+335: garis-garis ini tidak selamat 100% lagi,
+336: dan kami masih belum membuat projek Colby hilang.
+337: Serius?
+338: Sudah berminggu-minggu. Sebarang pautan atau jejak
+339: sudah dimiliki sekarang.
+340: Garis yang bersih, Boss, saya bersumpah.
+341: - Terima kasih. - Maksud saya, um ...
+342: jika ia membuatkan anda berasa lebih baik, Romero dan saya boleh menyemak ...
+343: Hebat! Buat saya berasa hebat.
+344: Saya akan kembali ke sini, mengumpul fikiran saya.
+345: Apa urusannya?
+346: Ah, dia seorang wanita yang rumit.
+347: Kebanyakan coder malware adalah. Adakah saya betul?
+348: Dia muncul di apartmen saya.
+349: Kenapa dia tahu di mana saya tinggal?
+350: Jangan fokus kepada dia.
+351: Itu akan seperti memasuki lubang K yang tidak baik, anda tidak akan bangun.
+352: Sebaliknya, saya memerlukan anda memberi tumpuan kepada fasa seterusnya projek kami.
+353: Komet, tumbuhan gas asli di sekitar Albany?
+354: Kami akan meniupnya.
+355: kenapa kamu meniup ...
+356: Kilang komet bersebelahan dengan Steel Mountain.
+357: Yang, sebagaimana yang anda ketahui,
+358: ialah kemudahan penyimpanan di luar tapak dan data
+359: untuk setiap perbadanan di S & P,
+360: termasuk semua kegemaran ...
+361: - Evil Corp. - Bingo!
+362: Anda akan menghancurkan sandaran pita mereka.
+363: Mereka akan melihat sesuatu seperti itu.
+364: Mereka sentiasa berwaspada sejak hack.
+365: Daripada apa yang saya dengar, mereka telah menangkap penggodam mereka.
+366: - Tidakkah mereka? - Tidak, mereka tidak.
+367: - Tyrell Wellick tahu. - Apa yang mereka mahukan dia tahu!
+368: Dia adalah robot korporat seperti yang lain.
+369: Selain itu, seluruh syarikat akan terasa bahang
+370: dari semua dump data yang telah kami simpan untuk mereka ...
+371: dan manusia, adakah kita mempunyai beberapa barang.
+372: Sesetengah perkauman eksekutif lama yang baik,
+373: seksisme, Fasisme.
+374: Percayalah, kita akan menjadi "ism" begitu banyak di sekeliling mereka
+375: mereka tidak dapat melihat lurus.
+376: Dan meminta pelepasan Colby sebagai tebusan adalah genius.
+377: Itu hanya akan menjadikan perhatiannya lebih besar,
+378: mematikan kami.
+379: Ide yang sedikit kemas adalah idea Trenton.
+380: Dia mungkin kelihatan tidak bersalah, tetapi saya akan berhati-hati.
+381: Dia mendapat beberapa Allah Akbar di dalamnya.
+382: Dan sementara yang sedang berlaku,
+383: anda akan menggunakan pelepasan keselamatan Allsafe anda
+384: untuk menggodam Comel PLC, meningkatkan tekanan,
+385: menyebabkan letupan paip gas
+386: membuat Steel Mountain pergi kablooey bersama-sama dengan jiwa Evil Corp.
+387: Mereka tahu tentang semua ini?
+388: Anda yang pertama.
+389: Pekerja?
+390: Sesiapa yang tinggal di sekitar kilang ...
+391: Mereka semua mati?
+392: Kami akan memberi mereka permulaan yang baik.
+393: Bunyi beberapa penggera. Mereka akan baik-baik saja.
+394: Anda meletupkan saluran paip gas.
+395: Dunia adalah tempat yang berbahaya, Elliot,
+396: bukan kerana orang-orang yang melakukan kejahatan,
+397: tetapi kerana orang-orang yang melihat dan tidak melakukan apa-apa.
+398: Ini perang.
+399: Orang akan mati. C'est la mort.
+400: Dan apabila kita meletupkan saluran paip itu,
+401: Cacing Darlene akan menendang gigi tinggi
+402: di pusat Data A.S.
+403: yang anda membantu kami memasang, terima kasih banyak.
+404: Backup berlebihan di pusat data timur mereka di China ...
+405: Tentera Darat Gelap meliputi kita.
+406: Tentera Darat? Kenapa, lelaki?
+407: Mereka tidak mendapat kod. Mereka menggodam sesiapa sahaja:
+408: pengganas, Korea Utara, Iran, Rusia ...
+409: Ini bermakna mereka membenci kapitalisme A.S. sama seperti sesiapa sahaja.
+410: Last but not least.
+411: Steel Mountain.
+412: Dilema penggodam.
+413: Apa yang perlu dilakukan apabila sekumpulan data yang anda ingin hancurkan
+414: betul-betul di luar grid?
+415: Saya tidak membunuh sesiapa pun.
+416: Beritahu saya satu perkara, Elliot.
+417: Adakah anda seorang atau sifar?
+418: Itulah soalan yang perlu anda tanya sendiri.
+419: Adakah anda seorang ya atau tidak?
+420: Adakah anda akan bertindak atau tidak?
+421: Yo ... awak telah menatap skrin komputer
+422: terlalu lama, homie.
+423: Kehidupan tidak binari itu.
+424: Bukankah itu?
+425: Pasti, ada kelabu ...
+426: tetapi apabila kamu datang ke sana, pada terasnya,
+427: di bawah setiap pilihan, ada satu atau satu sifar.
+428: Anda sama ada melakukan sesuatu atau tidak.
+429: Kamu berjalan keluar pintu itu, kamu telah memutuskan untuk tidak melakukan apa-apa,
+430: untuk mengatakan tidak, yang bermaksud anda tidak kembali.
+431: Kamu pergi, kamu tidak lagi menjadi sebahagian daripada ini.
+432: Anda menjadi sifar.
+433: Jika anda tinggal,
+434: jika anda mahu mengubah dunia,
+435: awak menjadi ya.
+436: Anda menjadi satu.
+437: Jadi, saya akan bertanya kepada anda lagi:
+438: adakah anda satu atau satu sifar?
+439: Seorang lelaki yang tidak bersalah berada di penjara kerana apa yang saya buat.
+440: Ayuh, janganlah anak kita sendiri!
+441: Ini tiada kaitan dengan Colby.
+442: Ini bukanlah mengenai revolusi saya.
+443: Ini lebih daripada itu untuk awak.
+444: Ini mengenai bagaimana orang-orang bajingan itu perlahan membunuh ayah kamu
+445: dan bagaimana anda mahu dia melakukan sesuatu mengenainya.
+446: Tetapi dia tidak. Kerana dia adalah sifar,
+447: sama seperti kau sekarang.
+448: F ...- anda.
+449: Hilang lagi?
+450: Saya tidak membunuh sesiapa pun. Tinggalkan saya ini.
+451: Anda tidak akan hilang dari ini.
+452: Kita boleh melakukannya dengan atau tanpa anda,
+453: tetapi anda sebahagian daripada cara sama ada!
+454: Ya, walaupun hoodie bodoh anda tidak dapat melindungi anda, anjing!
+455: Ini adalah kesilapan.
+456: Saya perlu menghidupkan mereka. Sekiranya saya menghidupkannya?
+457: Adakah saya akan menghadapi masalah? Sial, dia betul.
+458: Saya bersalah sekarang. Tidak, kita boleh bersalah.
+459: Anda berada di sini dengan saya, jadi mula memikirkan penyelesaian sekarang.
+460: Shayla?
+461: Yo, Shayla.
+462: Yo, bro.
+463: Bolehkah saya membantu anda dengan sesuatu?
+464: Saya, uh ... hanya perlu bercakap dengan Shayla.
+465: Oh, gadis kamu.
+466: Dia dalam tab mandi.
+467: Shayla.
+468: Yo, dia akan keluar dalam satu minit.
+469: Boleh duduk dan tunggu jika anda mahu.
+470: Saya rasa kita perlu menyemaknya, pastikan dia baik-baik saja.
+471: Anda seorang lelaki lucu. Saya suka awak.
+472: Jangan biadap.
+473: Duduk dan dinginkan.
+474: Tidak, betul.
+475: Anda hanya melakukan ini.
+476: Hanya nigga saya tahu bahawa mengambil meds pengeluaran semasa dia menggunakan.
+477: Itu bijak.
+478: Mungkin juga yakin diri anda bukan penagih.
+479: Oh, najis.
+480: Lupa untuk memperkenalkan diri saya. Saya Fernan ...
+481: Fernando Vera, pembekal Shayla.
+482: Salah satu manusia terburuk yang pernah saya peretis.
+483: Kata laluannya? "Eatadick6969."
+484: Selain sejumlah besar wang yang dibelanjakannya pada lucah dan webcam,
+485: dia melakukan semua transaksi dadahnya melalui e-mel, IM, Twitter.
+486: Hakikat bahawa polis belum menangkapnya lagi di luar saya.
+487: Jika mereka mempunyai separuh sel otak,
+488: mereka akan dapat memecahkan kod sederhana gengnya,
+489: jika ia boleh dipanggil itu.
+490: Selepas hanya beberapa jam masa tweetsnya
+491: dengan artikel berita berkaitan,
+492: Saya fikir bahawa "biskut" dan "clickety"
+493: senapang yang jelas dirujuk.
+494: "Makanan," "kerang laut" atau "gas" untuk peluru.
+495: Dan yang paling utama: "Rock tidur lebih awal."
+496: Saya tidak pernah membuat sambungan terus kepada hit,
+497: tetapi matematik senjata dan peluru
+498: biasanya menambah satu perkara.
+499: Saya berfikir tentang membalikkannya,
+500: tapi dia hanya pembekal Shayla.
+501: Saya bawa dia, saya kehilangan ubat saya,
+502: dan dengan semua yang berlaku sekarang, saya tidak boleh memilikinya.
+503: Anda mendapat begitu, walaupun?
+504: Bagaimanapun, bro,
+505: Saya tidak perlu risau.
+506: Hanya buat setitik untuk anda.
+507: Apa nama awak?
+508: Elliot.
+509: Apa maksudnya?
+510: Apa, anda tidak pernah Googled itu?
+511: Man, anda harus berbuat demikian.
+512: Maksud nama seseorang itu penting, bro.
+513: Yo, dia baik! Dia baik.
+514: Percayalah.
+515: Berhati-hati dengan kotoran itu sendiri.
+516: Anda mengingatkan saya tentang saya ketika saya masih muda,
+517: tertekan dan cemberut.
+518: Matlamat fakta, cuba membunuh diri sendiri, beberapa kali.
+519: Tidak boleh mendapatkan hak yang betul itu.
+520: Biologi bukan saman saya yang kuat.
+521: Saya benci diri saya, lelaki. Masih buat.
+522: Pemikiran bahawa najis adalah kelemahan untuk masa yang lama.
+523: Kemudian saya menyedari bahawa kotoran adalah kuasa saya.
+524: Orang berjalan-jalan, bertindak seperti mereka tahu apa maksud kebencian.
+525: Nah, tidak ada seorangpun, sehingga kamu membenci diri sendiri.
+526: maksud saya ...
+527: benar-benar membenci diri sendiri.
+528: Itu kuasa.
+529: Anda tidak takut kepada saya, adakah anda?
+530: Itu bagus.
+531: Bermakna saya tidak membuang masa saya membuat kawan dengan anda.
+532: Anda tidak memerlukan ini, kan?
+533: Manusia keberanian anda dapat bertahan dengan sedikit penarikan diri.
+534: Ya tahu, anda satu-satunya sebab mengapa saya bertemu dengan Shayla.
+535: Saya satu-satunya nigga di bandar yang membawa segala-galanya,
+536: termasuk Suboxone berharga anda.
+537: Jadi, dengan cara yang pelik, saya harus berterima kasih kepada anda.
+538: Anda membawanya ke saya.
+539: Bintang anda mengorbit dengan lombong, secara graviti,
+540: membawa saya cinta dalam hidup saya, Elliot.
+541: Maksud saya, ini, kita?
+542: Berada di sini?
+543: Ini ...
+544: makna yang indah.
+545: Tetapi jangan salah, gadis itu di sana ...
+546: saya adalah.
+547: Saya tidak tahu apa yang saya akan lakukan tanpa dia.
+548: Sekarang, saya tidak tahu apa jenis perkiraan
+549: kau ada dengannya sebelum ini, tetapi kini kami berteman ...
+550: Saya percaya anda menghormati sempadan ini.
+551: Rasa saya?
+552: Seorang lelaki yang terdahulu hari ini memberi saya pandangan yang sama.
+553: Hanya perkara yang saya katakan ialah,
+554: ada masa pintar untuk ketakutan, bro ...
+555: dan masa bodoh.
+556: Shayla?
+557: Pilih kunci.
+558: Setiap sukan kegemaran penggodam.
+559: Sistem yang sempurna untuk retak,
+560: kebanyakannya kerana tidak seperti sistem maya,
+561: apabila anda memecahkannya, anda boleh merasakannya.
+562: Anda boleh melihatnya. Anda boleh mendengarnya.
+563: Shayla.
+564: Bangunlah.
+565: Apa yang berlaku?
+566: Kau baik-baik saja?
+567: Kenapa itu asshole di sini?
+568: Kenapa saya di dalam tab mandi?
+569: Saya tidak tahu, um ... Saya memberitahunya saya memerlukan pil anda.
+570: Dia datang. Kami merokok sedikit.
+571: Anda ingat hubungan seks dengannya?
+572: Apa? Tidak.
+573: Tetapi dia pasti tidak.
+574: Baiklah, mari kita pergi.
+575: - Dapatkan dompet anda, pastikan ... - Berhenti.
+576: Saya tidak pergi ke mana-mana, okay?
+577: Apa maksud awak?
+578: Oh, dia hanya akan pergi dengannya?
+579: Anda tidak boleh kembali kepadanya. Hei, saya tidak memerlukan pil.
+580: - Cari orang lain. - Saya tidak boleh.
+581: Dia memberi saya tawaran yang sangat baik untuk perpecahan.
+582: Saya membuat wang yang baik.
+583: Ada lagi,
+584: tangan yang tidak dapat dilihat di tempat kerja, mengawal kita,
+585: walaupun ia mendorong kita melepasi tahap kesakitan kita.
+586: Ia tidak akan berhenti.
+587: Bagaimana jika dia melakukannya semula?
+588: Janji saya, awak tidak akan buat apa-apa?
+589: Saya serius, Elliot.
+590: Tiada apa yang perlu dilakukan di sini.
+591: Ia tidak seperti saya mempunyai pilihan.
+592: Adakah anda fikir tidur di sini malam ini?
+593: Pilihan.
+594: Mungkin hak Encik Robot.
+595: Itulah apa yang dikatakan ini, yesses dan nos hidup.
+596: Tetapi adakah kita memutuskan mereka atau adakah mereka memutuskan kita?
+597: Fernando Vera. Saya menyingkirkannya,
+598: Saya menghilangkan pembekal pengedar dadah saya.
+599: Saya menyingkirkan morfin.
+600: Dan kesakitan yang saya tunggu dalam datang tergesa-gesa.
+601: Pasti, saya boleh cuba mencari peniaga lain,
+602: tetapi seperti Vera berkata, tiada seorang pun di jalan-jalan yang menyumbang Suboxone.
+603: Saya boleh kembali ke skrip pemalsuan secara digital,
+604: tetapi farmas menghabiskan banyak doh yang melindungi barang-barang mereka.
+605: Kebanyakan tempat hanya mengambil skrip kertas.
+606: Terus mendapat pengisian semula legit tidak realistik,
+607: dan tidak menjadi peminat.
+608: Jadi saya keluar dari ayam belanda sejuk atau biarkan Vera wujud.
+609: Saya tahu apa yang anda fikirkan. Jawapannya terlalu jelas.
+610: Vera mungkin telah meraba Shayla sebelum ini,
+611: tetapi dia tamat merogol.
+612: Sama seperti Shayla, dia tidak meninggalkan pilihan saya.
+613: Dia tidak boleh dibenarkan wujud lagi.
+614: Mungkin kita harus bermula dengan perasaan awak.
+615: Tidak baik.
+616: Apa yang tidak baik sekarang?
+617: Semua.
+618: Humor saya dengan beberapa spesifik.
+619: Bagaimana kita tahu jika kita berada dalam kawalan?
+620: Kita tidak hanya membuat yang terbaik
+621: dari apa yang datang kepada kita, dan itulah.
+622: Cuba sentiasa memilih antara dua pilihan.
+623: Seperti dua lukisan di ruang tunggu.
+624: Atau ... Coke dan Pepsi.
+625: McDonald's atau Burger King?
+626: Hyundai atau Honda?
+627: Ini semua sebahagian daripada kabur yang sama, bukan?
+628: Hanya cukup fokus.
+629: Ini ilusi pilihan.
+630: Separuh daripada kita tidak boleh memilih sendiri ...
+631: kabel, gas, elektrik kita.
+632: Air yang kita minum, insurans kesihatan kita.
+633: Walaupun kita lakukan, apakah itu penting?
+634: Anda tahu, jika pilihan kami ialah Blue Cross atau Blue Shield,
+635: apa f ...- adalah perbezaan?
+636: Sebenarnya, bukan mereka ... tidakkah mereka sama?
+637: Tidak, lelaki ...
+638: pilihan kami adalah prabayar untuk kami,
+639: lama dahulu.
+640: Saya minta maaf kerana anda tidak mempunyai kawalan.
+641: Pemikiran saya melakukan sesuatu yang baik.
+642: Saya adalah sebahagian daripada projek ... ini.
+643: Pemikiran saya akan menjadi sebahagian daripada sesuatu yang istimewa.
+644: Dan sekarang?
+645: Sekarang ...
+646: Ternyata menjadi kesilapan,
+647: seperti segala yang lain.
+648: Apa gunanya, betul?
+649: Mungkin juga, hanya ... anda tidak berbuat apa-apa.
+650: Mungkin juga tidak melakukan apa-apa.
+651: Anda telah membangkitkan isu ini sebelum ini,
+652: isu ini tidak berasa seperti anda berada dalam kawalan.
+653: Adakah anda ingat?
+654: Apabila kami bercakap tentang ayah anda.
+655: Anda bercakap tentang bagaimana dia memilih untuk tidak melakukan apa-apa
+656: ketika dia bertarung dengan kansernya.
+657: Anda memberitahunya dia boleh bertempur dengan syarikat yang menyebabkannya.
+658: Dia boleh memberitahu orang tentangnya.
+659: Dia boleh mendapatkan penjagaan yang lebih baik daripada apa yang dia dapatkan.
+660: Sebaliknya, dia tidak berbuat apa-apa.
+661: Mungkin ayah anda merasakan cara yang sama seperti yang anda lakukan sekarang.
+662: Lagipun, seperti yang anda katakan, apa gunanya?
+663: - Ia berbeza. - Apa yang berbeza
+664: adakah anda telah menemui pilihan, Elliot.
+665: Itulah kuasa yang anda miliki. Itulah kawalan yang anda miliki.
+666: Anda tidak perlu mengambil apa yang memberi hidup kepada anda.
+667: Ayuh.
+668: Beritahu saya apa yang berlaku dengan anda.
+669: Saya tidak dapat membantu anda jika anda menghalang saya dalam gelap.
+670: Tutup!
+671: Tutup!
+672: Anda mempunyai beg di bawah matamu.
+673: Anda berteriak. Anda gelisah.
+674: Untuk bulan yang lalu, saya telah melihat anda
+675: tergelincir ke pola lama, tingkah laku lama.
+676: Apa yang berlaku?
+677: Dia masih tidak menjawab.
+678: Baiklah, kita hanya perlu bertanya kepadanya esok.
+679: Setiap kali saya cuba bermain atau merobeknya,
+680: ia hanya membekukan komputer saya dan mengeluarkannya semula.
+681: Dia tidak baik-baik saja.
+682: Dia bertindak sedemikian di tempat kerja hari ini.
+683: Adakah anda mengatakan sesuatu, babe?
+684: Sesuatu yang salah.
+685: Adakah saya perlu pergi ke sana?
+686: Dan hanya ...
+687: Masuk ke dia?
+688: Uh ... datang.
+689: Itu tidak masuk akal.
+690: Anda tahu dia sentiasa menjadi pelik, bukan?
+691: Saya sangat bimbang tentang dia.
+692: Rakan Arizona saya Fred memukul saya.
+693: Dia mahu mengambil minuman.
+694: Tidak perlu terlalu lama.
+695: Baiklah.
+696: "Hasrat yang mendalam, kerinduan ...
+697: kedua-dua mereka tidak pernah merasakan cinta sedemikian,
+698: kedekatan sedemikian, sambungan seperti itu. "
+699: Menemukan cara untuk melakukannya tanpa ...
+700: Duduklah.
+701: Saya tahu bagaimana untuk mengambil sandaran
+702: tanpa meniup pipeline.
+703: Anda tahu, Elliot, saya benar-benar berasa seperti kami selesaikan
+704: perkara ini di antara kita. Bukankah kamu pergi?
+705: Saya lakukan.
+706: Bukankah saya katakan bahawa jika kamu berjalan pergi,
+707: anda tidak lagi menjadi sebahagian daripada ini?
+708: Saya mempunyai rancangan sebenar ...
+709: Jika anda mahu saya membiarkan anda kembali,
+710: ada pemahaman yang perlu kita hadapi,
+711: hutang yang perlu anda bayar,
+712: kerana, ingatlah, anda berjalan pergi.
+713: Saya fikir anda tidak percaya hutang.
+714: Tidak benar. Saya percaya hutang.
+715: Saya percaya untuk memadamkannya.
+716: Apa yang anda mahu?
+717: Saya mahu anda beritahu saya mengenai ayah anda.
+718: Anda tidak akan masuk ke dalam kepala saya, lelaki.
+719: Daud Koresh anda tidak akan bekerja padaku.
+720: Beritahu saya bagaimana dia mati.
+721: Kenapa, lelaki? Sesuatu memberitahu saya
+722: anda sudah melihat bahawa kotoran juga.
+723: Saya ingin mendengarnya daripada anda.
+724: Jadi saya buat ini ...
+725: kita kembali ke arked,
+726: membincangkan rancangan itu dengan yang lain?
+727: Saya tidak tahu apa yang anda mahu saya katakan.
+728: Kami rapat. Sangat rapat.
+729: Dia kawan baik saya.
+730: Bekerja di Evil Corp sepanjang hayatnya.
+731: Dia salah seorang jurutera komputer yang terbaik.
+732: Dan dari biru, dia dipecat.
+733: Tiada siapa yang tahu mengapa.
+734: Kemudian suatu hari dia memberitahu saya.
+735: Beliau mempunyai leukemia.
+736: Saya bersumpah untuk tidak memberitahu sesiapa pun,
+737: terutama ibu saya.
+738: Jadi saya tidak.
+739: Beberapa bulan berlalu ...
+740: dia menjadi sakit dan sakit.
+741: Akhirnya, saya bimbang ...
+742: memberitahu ibu saya.
+743: Apabila dia mengetahui, dia marah.
+744: Bermula berteriak.
+745: Saya ingat saya cuba memeluknya, beritahu dia saya minta maaf, dan ...
+746: terus menghancurkan saya dan mendorong saya keras
+747: Saya jatuh ke belakang dari tingkap.
+748: Saya jatuh, dan saya memecahkan lengan saya.
+749: Tidak pernah bercakap dengan saya selepas itu.
+750: Tidak dapat melihat saya.
+751: Bahkan malam dia mati.
+752: Kita baik?
+753: Saya faham bagaimana rasanya kehilangan ibu bapa.
+754: Ia menyayat hati.
+755: Adakah anda fikir dia betul?
+756: Mengenai apa?
+757: Sakit kamu pada hari itu?
+758: Apa yang kamu lakukan kepadanya?
+759: Anda rasa anda patut?
+760: Saya tidak berbuat apa-apa kepadanya.
+761: Saya cuba membantunya.
+762: Untuk mengkhianati kepercayaannya.
+763: saya berusia lapan tahun ...
