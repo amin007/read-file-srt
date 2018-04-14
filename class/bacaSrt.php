@@ -10,7 +10,7 @@ class bacaSrt
 {
 #------------------------------------------------------------------------------------------------------#
 	//function __construct($dir)
-	public function mulaBaca($dir)
+	public function mulaBaca($dir, $dirName)
 	{
 		//$lines   = file('test.srt');
 		# C:\xampp\htdocs\belajar\baca-fail\srt\Mr Robot\Mr. Robot - season 1
@@ -21,14 +21,13 @@ class bacaSrt
 		$subText = $subTime = '';
 
 		$subs = $this->bacaLines($lines, $subs, $state, $subNum, $subText, $subTime);
-		$this->bacaSubs($subs);
+		$this->bacaSubs($subs, $dirName);
 	}
 #------------------------------------------------------------------------------------------------------#
 	public function bacaLines($lines, $subs, $state, $subNum, $subText, $subTime)
-	{		
+	{
 		foreach($lines as $line) 
-		{
-			##-----------------------------------------------------------------------------
+		{	##-----------------------------------------------------------------------------
 			switch($state) 
 			{
 				case SRT_STATE_SUBNUMBER:
@@ -48,17 +47,12 @@ class bacaSrt
 						$sub->text   = $subText;
 						$subText     = '';
 						$state       = SRT_STATE_SUBNUMBER;
-							
 						$subs[]      = $sub;
-					} else {
-						//$subText .= $line;
+					} else {//$subText .= $line;
 						$subText .= htmlspecialchars($line, ENT_QUOTES);
 					}
 					break;
-			}
-			##-----------------------------------------------------------------------------
-			//list($subs, $state, $subNum, $subText, $subTime, $sub) =
-			//	$this->pilihLines($line, $subs, $state, $subNum, $subText, $subTime);
+			}##-----------------------------------------------------------------------------
 		}
 		#------------------------------------------------------------------------------------------------------#
 		if ($state == SRT_STATE_TEXT) {
@@ -72,15 +66,12 @@ class bacaSrt
 		return $subs;
 	}
 #------------------------------------------------------------------------------------------------------#
-#------------------------------------------------------------------------------------------------------#
-	public function pilihLines($line, $subs, $state, $subNum, $subText, $subTime)
+	public function pilihIf($sub, $state, $subNum, $subText, $subTime)
 	{
-			
-		return array($subs, $state, $subNum, $subText, $subTime, $sub);
+		return array($sub, $state, $subNum, $subText, $subTime);
 	}
 #------------------------------------------------------------------------------------------------------#
-#------------------------------------------------------------------------------------------------------#
-	public function bacaSubs($subs)
+	public function bacaSubs($subs, $dirName)
 	{
 		//echo '<pre>'; print_r($subs); echo '</pre>';
 		foreach($subs as $sub) 
