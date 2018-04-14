@@ -79,8 +79,8 @@ class bacaSrt
 			//echo $sub->number . ' begins at ' . $sub->startTime .
 			//' and ends at ' . $sub->stopTime . '.  The text is: <br /><pre>' .
 			//$sub->text . "</pre><br />\n";
-			echo ($sub->number % 100 == '0') ? '<br><br>' : '';
 			echo $sub->number . ':' . $sub->text . "<br>\n";
+			echo ( isset($sub->number) && $sub->number % 100 == '0') ? '<br><br>' : '';
 		}
 	}
 #------------------------------------------------------------------------------------------------------#
