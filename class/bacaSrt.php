@@ -21,7 +21,8 @@ class bacaSrt
 		$subText = $subTime = '';
 
 		$subs = $this->bacaLines($lines, $subs, $state, $subNum, $subText, $subTime);
-		$this->bacaSubs($subs, $dirName);
+		//return $this->bacaSubs($subs, $dirName);
+		return $this->baca2Subs($subs, $dirName);
 	}
 #------------------------------------------------------------------------------------------------------#
 	public function bacaLines($lines, $subs, $state, $subNum, $subText, $subTime)
@@ -43,7 +44,7 @@ class bacaSrt
 					{
 						$sub = new stdClass;
 						$sub->number = $subNum;
-						list($sub->startTime, $sub->stopTime) = explode(' --> ', $subTime);
+						@list($sub->startTime, $sub->stopTime) = explode(' --> ', $subTime);
 						$sub->text   = $subText;
 						$subText     = '';
 						$state       = SRT_STATE_SUBNUMBER;
@@ -66,22 +67,36 @@ class bacaSrt
 		return $subs;
 	}
 #------------------------------------------------------------------------------------------------------#
-	public function pilihIf($sub, $state, $subNum, $subText, $subTime)
-	{
-		return array($sub, $state, $subNum, $subText, $subTime);
-	}
-#------------------------------------------------------------------------------------------------------#
 	public function bacaSubs($subs, $dirName)
 	{
-		//echo '<pre>'; print_r($subs); echo '</pre>';
+		echo '<pre>'; print_r($subs); echo '</pre>';
+		/*$text = '';
 		foreach($subs as $sub) 
 		{
 			//echo $sub->number . ' begins at ' . $sub->startTime .
 			//' and ends at ' . $sub->stopTime . '.  The text is: <br /><pre>' .
 			//$sub->text . "</pre><br />\n";
-			echo $sub->number . ':' . $sub->text . "<br>\n";
-			echo ( isset($sub->number) && $sub->number % 100 == '0') ? '<br><br>' : '';
-		}
+			$text .= $sub->number . ':' . $sub->text . "<br>\n";
+			//echo $sub->number . ':' . $translate . "<br>\n";
+			$text .= ( isset($sub->number) && $sub->number % 100 == '0') ? '<br><br>' : '';
+		}//*/
+
+		//return $text;
+	}
+#------------------------------------------------------------------------------------------------------#
+	public function baca2Subs($subs, $dirName)
+	{
+		//echo '<pre>'; print_r($subs); echo '</pre>';
+		$text = array();
+		foreach($subs as $key=>$sub) 
+		{
+			$string = $sub->number . ':' . $sub->text;
+			$string = trim(preg_replace('/\s+/', ' ', $string));
+			$text[] = $string;
+			//$text .= ( isset($sub->number) && $sub->number % 100 == '0') ? '<br><br>' : '';
+		}//*/
+
+		return ($text);
 	}
 #------------------------------------------------------------------------------------------------------#
 }
