@@ -22,7 +22,7 @@ Perjalanan hidup ini
 20. Bahagia bermaksud ...
 21. Seks bermaksud ...
 22. Namun hanya kepada Allah dan Rasul tempat mengadu.
-33. Solat dapat menenangkan hati yang lara
+23. Solat dapat menenangkan hati yang lara
 24. Hadis nabi didengar setiap subuh dan asar.
 25. Mendengar cinta nabi kepada umat dari besar dari cinta sesama manusia.
 26. Keluar bermusafir dari masjid ke masjid.
