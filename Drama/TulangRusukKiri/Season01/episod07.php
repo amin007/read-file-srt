@@ -32,8 +32,12 @@ Amoi : -#-----------------------------------------------------------------------
 Hero : sekarang kita sudah buat fungsi __construct, lepas ini buat class pilihTemplate
 taip -[tab]function pilihTemplate($template = 0)-[enter]-[tab]-{-[enter]
 Amoi : -[tab]function pilihTemplate($template = 0)-[enter]-[tab]-{-[enter]
-		switch ($template)
-		{
+Hero : ok, sekarang ini kita set nilai default $template = 0
+Amoi : kenapa kena setkan $template = 0?
+Hero : nanti kita akan pulangkan nilai $jenis = A0 yang merujuk kepada bootstrap versi 3.3.7
+Amoi : oh faham faham
+Hero : ok, sekarang taip -[tab]-[tab]switch ($template)-[enter]-[tab]-[tab]{-[enter]
+Amoi : -[tab]-[tab]switch ($template)-[enter]-[tab]-[tab]{-[enter]
 			case 5: $jenis = 'A5';
 			break;
 
