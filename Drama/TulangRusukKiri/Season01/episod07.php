@@ -38,26 +38,20 @@ Hero : nanti kita akan pulangkan nilai $jenis = A0 yang merujuk kepada bootstrap
 Amoi : oh faham faham
 Hero : ok, sekarang taip -[tab]-[tab]switch ($template)-[enter]-[tab]-[tab]{-[enter]
 Amoi : -[tab]-[tab]switch ($template)-[enter]-[tab]-[tab]{-[enter]
-			case 5: $jenis = 'A5';
-			break;
-
-			case 4: $jenis = 'A4';
-			break;
-
-			case 3: $jenis = 'A3';
-			break;
-
-			case 2: $jenis = 'A2';
-			break;
-
-			case 1: $jenis = 'A1';
-			break;
-
-			default: $jenis = 'A0';
-			break;
-		}
-		return $jenis;
-	}
+Hero : lepas tu taip -[tab]-[tab]-[tab]case 5: $jenis = 'A5';-[enter]-[tab]-[tab]-[tab]break;-[enter]-[enter]
+Amoi : -[tab]-[tab]-[tab]case 5: $jenis = 'A5';-[enter]-[tab]-[tab]-[tab]break;-[enter]-[enter]
+Hero : lepas tu taip -[tab]-[tab]-[tab]case 4: $jenis = 'A4';-[enter]-[tab]-[tab]-[tab]break;-[enter]-[enter]
+Amoi : -[tab]-[tab]-[tab]case 4: $jenis = 'A4';-[enter]-[tab]-[tab]-[tab]break;-[enter]-[enter]
+Hero : lepas tu taip -[tab]-[tab]-[tab]case 3: $jenis = 'A3';-[enter]-[tab]-[tab]-[tab]break;-[enter]-[enter]
+Amoi : -[tab]-[tab]-[tab]case 3: $jenis = 'A3';-[enter]-[tab]-[tab]-[tab]break;-[enter]-[enter]
+Hero : lepas tu taip -[tab]-[tab]-[tab]case 2: $jenis = 'A2';-[enter]-[tab]-[tab]-[tab]break;-[enter]-[enter]
+Amoi :  -[tab]-[tab]-[tab]case 2: $jenis = 'A2';-[enter]-[tab]-[tab]-[tab]break;-[enter]-[enter]
+Hero : lepas tu taip -[tab]-[tab]-[tab]case 1: $jenis = 'A1';-[enter]-[tab]-[tab]-[tab]break;-[enter]-[enter]
+Amoi : -[tab]-[tab]-[tab]case 1: $jenis = 'A1';-[enter]-[tab]-[tab]-[tab]break;-[enter]-[enter]
+Hero : lepas tu taip -[tab]-[tab]-[tab]default: $jenis = 'A0';-[enter]-[tab]-[tab]-[tab]break;-[enter]-[enter]
+Amoi : -[tab]-[tab]-[tab]default: $jenis = 'A0';-[enter]-[tab]-[tab]-[tab]break;-[enter]-[enter]
+Hero : ok akhirnya taip -[tab]-[tab]-}-[enter]-[tab]-[tab]return $jenis;-[enter]-[tab]-}-[enter]
+Amoi : ok akhirnya taip -[tab]-[tab]-}-[enter]-[tab]-[tab]return $jenis;-[enter]-[tab]-}-[enter]
 
 #------------------------------------------------------------------------------------------
 	public function paparTemplate($nama, $template, $noInclude = false)
