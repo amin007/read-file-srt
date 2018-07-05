@@ -17,7 +17,7 @@ Hero : kita taip
 Amoi :
 -namespace-Aplikasi-\-Kitab-;-[ruang]-//echo-[ruang]-__NAMESPACE__;-[enter]
 Hero : taip class-[ruang]-Papar-[enter]-{-[enter]
-Amoi : taip class-[ruang]-Papar-[enter]-{-[enter]
+Amoi : class-[ruang]-Papar-[enter]-{-[enter]
 Hero : lepas itu buat garisan panjang kalulistiwa
 -#==========================================================================================
 Amoi : -#==========================================================================================
