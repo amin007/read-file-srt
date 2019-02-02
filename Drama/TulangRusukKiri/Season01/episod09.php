@@ -1,8 +1,8 @@
-Php - people help people
+Konsep pembolehubah
 
-01. 
-02. 
-03. 
+Awek1 : Nanti ada kawan baru masuk rumah sewa kita ini
+Awek2 : Bila dia akan masuk?
+Awek1 : kata tuan rumah 1 jam lagi
 04. 
 05. 
 06. 
