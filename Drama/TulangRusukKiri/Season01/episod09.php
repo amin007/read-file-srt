@@ -3,7 +3,7 @@ Konsep pembolehubah
 Awek1 : Nanti ada kawan baru masuk rumah sewa kita ini
 Awek2 : Bila dia akan masuk?
 Awek1 : kata tuan rumah 1 jam lagi
-04. 
+Awek2 : oh kita kena sambut rakan baru ini
 05. 
 06. 
 07. 
