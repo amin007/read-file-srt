@@ -8,10 +8,10 @@ Awak1 : entahlah lupa hendak tanya tuan rumah, nanti dia datang kita tanyalah
 Awek2 : baiklah kita bersiap2 tunggu kedatangan dia
 Awek3 : Assalamualaikum.
 Awek1 : Waalaikumusalam, masuklah.
-08. 
-09. 
-10. 
-11. 
+Awek3 : Terima kasih, nama saya {awek3}. Nama awak siapa?
+Awek1 : Nama saya {awek1}, ni {awak2}
+Awek3 : Rumah ini ada berapa bilik?
+Awek2 : Rumah ini ada 3 bilik tidur, 3 bilik air, dapur, ruangtamu.
 12. 
 13. 
 14. 
