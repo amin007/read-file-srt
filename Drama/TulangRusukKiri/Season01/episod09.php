@@ -11,8 +11,8 @@ Awek1 : Waalaikumusalam, masuklah.
 Awek3 : Terima kasih, nama saya {awek3}. Nama awak siapa?
 Awek1 : Nama saya {awek1}, ni {awak2}
 Awek3 : Rumah ini ada berapa bilik?
-Awek2 : Rumah ini ada 3 bilik tidur, 3 bilik air, dapur, ruangtamu.
-12. 
+Awek2 : Rumah ini ada ruangtamu, dapur, 3 bilik tidur, 3 bilik air
+Awek2 : Ruangtamu ini ada tv, radio, komputer, sofa, meja makan, kerusi.
 13. 
 14. 
 15. 
