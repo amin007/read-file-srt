@@ -13,12 +13,13 @@ Awek1 : Nama saya {awek1}, ni {awak2}
 Awek3 : Rumah ini ada berapa bilik?
 Awek2 : Rumah ini ada ruangtamu, dapur, 3 bilik tidur, 3 bilik air
 Awek2 : Ruangtamu ini ada tv, radio, komputer, sofa, meja makan, kerusi.
-13. 
-14. 
-15. 
-16. 
-17. 
-18. 
+Awek1 : Dapur pula ada peti sejuk, mesin basuh, oven, ketuhar.
+Awek2 : Di atas ada bilik tidur, {awek3) ambil bilik tidur 3 ya?
+Awek3 : Baiklah, kejap saya angkut beg dari luar.
+Awek1 : Laa kenapa tidak cakap ada beg di luar?
+Awek3 : Hehehe banyak ikutkan beg yang saya bawa dari kampung.
+
+18.
 19. 
 20. 
 21. 
