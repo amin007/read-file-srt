@@ -47,7 +47,7 @@ Bersambung...
 
 # episod 03 - Konsep fail
 > Sinopsis : episod kali ini menerangkan konsep fail secara asasnya.
-tempat berlaku dalam pejabat hero daa
+tempat berlaku dalam pejabat hero daa.
 Jenis monolog aka hero bercakap dalam hati.
 
 ## Skrip - belum ada idea!!!
