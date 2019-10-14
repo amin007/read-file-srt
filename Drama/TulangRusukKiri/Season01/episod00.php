@@ -137,7 +137,7 @@ tetapi hanya berselisih sahaja, ceh dramalah sangat
 
 Bersambung...
 #-------------------------------------------------------------------------------------------------
-# episod 11 - Konsep route
+# episod 11 - Konsep route/peta
 Sinopsis : episod kali ini menerangkan konsep route dalam framework secara asasnya.
 Dalam bab ini, heroin ajak kawan2 teman pergi bandar dan kebetulan berjumpa dengan hero.
 
@@ -145,6 +145,7 @@ Dalam bab ini, heroin ajak kawan2 teman pergi bandar dan kebetulan berjumpa deng
 Awek3 : awak boleh teman kita jalan2 area bandar ini?
 Awek2 : awak mahu pergi mana?
 
+Bersambung...
 #-------------------------------------------------------------------------------------------------
 #-------------------------------------------------------------------------------------------------
 #-------------------------------------------------------------------------------------------------
