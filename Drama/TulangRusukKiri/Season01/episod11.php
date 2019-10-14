@@ -1,7 +1,8 @@
-Php - people help people
+Konsep class
 
-01. 
-02. 
+Awek1 : hari ini rasanya hendak masa apa ya?
+Awek2 : masak kek nak?
+Awek3 : kek apa hendak masak?
 03. 
 04. 
 05. 

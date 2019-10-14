@@ -1,6 +1,6 @@
-Php - people help people
+Konsep function
 
-01. 
+Awek3 : Banyak sangat barang dalam dapur ini, tak tahu nak guna macam mana
 02. 
 03. 
 04. 
