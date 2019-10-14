@@ -221,13 +221,16 @@ Bersambung...
 Dalam bab ini, heroin ajak kawan2 teman pergi bandar dan kebetulan berjumpa dengan hero.
 Boleh rujuk fail episod04.php yang asal.
 
-## Skrip
+## Skrip Babak 1
 ```
-Babak 1.
 Awek3 : awak boleh teman kita jalan2 area bandar ini?
 Awek2 : awak mahu pergi mana?
+...
+Bersambung...
+```
 
-Babak 2
+## Skrip Babak 2
+```
 01. Hero : Ok sekarang kita akan taip class Peta
 02. Amoi : Baik, apa yang kena taip
 03. Hero : Ikut apa yang kita cakap. Mula2 taip simbol lebih besar-soalan-p-h-p-[enter]
