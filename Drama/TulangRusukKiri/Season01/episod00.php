@@ -3,7 +3,7 @@ https://github.com/amin007/read-file-srt/blob/master/Drama/TulangRusukKiri/Seaso
 Sinopsis Tulang Rusuk Kiri
 Pengembaraan hero mencari cinta hatinya
 Gunakan konsep oop aka pengaturcaraan berasaskan objek
-dalam menerangkan programming kepada orang awam.
+dalam menerangkan konsep programming kepada orang awam.
 
 satu episod 5 minit
 5 minit * 60 saat = 300 saat
