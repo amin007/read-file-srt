@@ -16,20 +16,23 @@ satu line skrip dalam 10 saat
 
 jadi kena buat 30 line skrip untuk dapatkan 300 saat punya cerita
 
-
+===
 # episod 01 - Perjalanan hidup ini
 
 > Sinopsis : episod kali ini menerangkan sifat hero katanya.
 Jenis monolog aka hero bercakap dalam hati.
 
 ## Skrip
+```
 Dalam hidup ini, hero hanya seorang diri di dunia yang luas.
 Ikutkan boleh sahaja hidup seorang diri tanpa libarkan orang lain.
 Terkadang kala cemburu orang lain ada pasangannya.
 ...
 
 Bersambung...
+```
 
+===
 # episod 02 - Konsep programming
 
 > Sinopsis : episod kali ini menerangkan konsep programming secara asasnya.
