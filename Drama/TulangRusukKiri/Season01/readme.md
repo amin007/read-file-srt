@@ -466,7 +466,12 @@ Bersambung ...
 > Sinopsis : episod kali ini menerangkan konsep model/tanya dalam framework secara asasnya.
 Boleh rujuk fail episod06.php yang asal.
 
-## Skrip - belum ada idea!!!
+## Skrip Babak 1 - belum ada idea!!!
+```
+Bersambung...
+```
+
+## Skrip Babak 2 - belum ada idea!!!
 ```
 Bersambung...
 ```
@@ -476,7 +481,12 @@ Bersambung...
 > Sinopsis : episod kali ini menerangkan konsep view/papar dalam framework secara asasnya.
 Boleh rujuk fail episod07.php yang asal.
 
-## Skrip - belum ada idea!!!
+## Skrip Babak 1 - belum ada idea!!!
+```
+Bersambung...
+```
+
+## Skrip Babak 2 - belum ada idea!!!
 ```
 Bersambung...
 ```
