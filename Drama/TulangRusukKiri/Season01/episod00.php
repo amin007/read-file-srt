@@ -105,6 +105,7 @@ Bersambung...
 Sinopsis : episod kali ini menerangkan konsep penganturcaraan berasaskan objek secara asasnya.
 heroin berbual dengan rakan dalam rumah tentang pokok bunga jiran depan rumah.
 
+## Skrip
 Awek3 : banyak pokok bunga dekat rumah depan itu ya?
 Awek1 : makcik depan itu memang rajin tanam pokok bunga.
 Awek2 : nanti ada masa kita pergi rumah makcik itu ya lihat pokok bunga
