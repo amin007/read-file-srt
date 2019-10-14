@@ -47,7 +47,7 @@ Jenis monolog aka hero bercakap dalam hati.
 
 Bersambung ...
 #-------------------------------------------------------------------------------------------------
-# episod 03 - Konsep folder
+# episod 04 - Konsep folder
 Sinopsis : episod kali ini menerangkan konsep folder secara asasnya.
 tempat berlaku dalam kedai buku/perpuskataan
 Jenis monolog aka hero bercakap dalam hati.
