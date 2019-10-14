@@ -147,9 +147,34 @@ Awek2 : awak mahu pergi mana?
 
 Bersambung...
 #-------------------------------------------------------------------------------------------------
+# episod 12 - Konsep controller/kawal
+Sinopsis : episod kali ini menerangkan konsep controller/kawal dalam framework secara asasnya.
+
+# Skrip - belum ada idea!!!
+
+Bersambung...
 #-------------------------------------------------------------------------------------------------
+# episod 13 - Konsep model/tanya
+Sinopsis : episod kali ini menerangkan konsep model/tanya dalam framework secara asasnya.
+
+# Skrip - belum ada idea!!!
+
+Bersambung...
+
 #-------------------------------------------------------------------------------------------------
+# episod 14 - Konsep view/papar
+Sinopsis : episod kali ini menerangkan konsep view/papar dalam framework secara asasnya.
+
+# Skrip - belum ada idea!!!
+
+Bersambung...
 #-------------------------------------------------------------------------------------------------
+# episod 15 - Slogan php - people help people
+Sinopsis : episod kali ini menerangkan slogan php - people help people.
+
+# Skrip - belum ada idea!!!
+
+Bersambung...
 #-------------------------------------------------------------------------------------------------
 #-------------------------------------------------------------------------------------------------
 #-------------------------------------------------------------------------------------------------
