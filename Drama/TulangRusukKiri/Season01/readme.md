@@ -84,8 +84,9 @@ tempat berlaku dalam pejabat hero daa.
 Jenis monolog aka hero bercakap dalam hati.
 
 ## Skrip - belum ada idea!!!
-
+```
 Bersambung ...
+```
 
 **************************************************************************************************
 # episod 04 - Konsep folder
