@@ -1,3 +1,5 @@
+https://github.com/amin007/read-file-srt/blob/master/Drama/TulangRusukKiri/Season01/episod00.php
+
 Sinopsis Tulang Rusuk Kiri
 Pengembaraan hero mencari cinta hatinya
 Gunakan konsep oop aka pengaturcaraan berasaskan objek
