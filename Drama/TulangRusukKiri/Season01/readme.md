@@ -47,8 +47,9 @@ Ada kalanya undang-undang akan diubah atau digubal mengikut peredaran masa
 
 Bersambung...
 
-
+*****
 # episod 03 - Konsep fail
+
 > Sinopsis : episod kali ini menerangkan konsep fail secara asasnya.
 tempat berlaku dalam pejabat hero daa.
 Jenis monolog aka hero bercakap dalam hati.
@@ -57,8 +58,9 @@ Jenis monolog aka hero bercakap dalam hati.
 
 Bersambung ...
 
-
+*****
 # episod 04 - Konsep folder
+
 > Sinopsis : episod kali ini menerangkan konsep folder secara asasnya.
 tempat berlaku dalam kedai buku/perpuskataan
 Jenis monolog aka hero bercakap dalam hati.
@@ -67,7 +69,7 @@ Jenis monolog aka hero bercakap dalam hati.
 
 Bersambung ...
 
-
+*****
 # episod 05 - Konsep pembolehubah
 
 > Sinopsis : episod kali ini menerangkan konsep pembolehubah secara asasnya.
@@ -82,7 +84,7 @@ Awek2 : oh kita kena sambut rakan baru ini, namanya siapa ya?
 
 Bersambung ...
 
-
+*****
 # episod 06 - Konsep tatasusunan/array
 
 > Sinopsis : episod kali ini menerangkan konsep pembolehubah secara asasnya.
@@ -98,7 +100,7 @@ Awek1 : {awek3}, nak pergi bila
 
 Bersambung...
 
-
+*****
 # episod 07 - Konsep function
 
 > Sinopsis : episod kali ini menerangkan konsep function secara asasnya.
@@ -114,7 +116,7 @@ Awek2 : kejap nak cari manual
 
 Bersambung...
 
-
+*****
 # episod 08 - Konsep penganturcaraan berasaskan objek
 
 > Sinopsis : episod kali ini menerangkan konsep penganturcaraan berasaskan objek secara asasnya.
@@ -130,7 +132,7 @@ Awek1 : kita pergi hujung minggu boleh?
 
 Bersambung...
 
-
+*****
 # episod 09 - Konsep class
 
 > Sinopsis : episod kali ini menerangkan konsep class secara asasnya.
@@ -145,7 +147,7 @@ Awek3 : kek apa hendak masak?
 
 Bersambung...
 
-
+*****
 # episod 10 - Konsep framework
 
 > Sinopsis : episod kali ini menerangkan konsep framework secara asasnya.
@@ -157,7 +159,7 @@ tetapi hanya berselisih sahaja, ceh dramalah sangat
 
 Bersambung...
 
-
+*****
 # episod 11 - Konsep route/peta
 > Sinopsis : episod kali ini menerangkan konsep route dalam framework secara asasnya.
 Dalam bab ini, heroin ajak kawan2 teman pergi bandar dan kebetulan berjumpa dengan hero.
@@ -169,7 +171,7 @@ Awek2 : awak mahu pergi mana?
 
 Bersambung...
 
-
+*****
 # episod 12 - Konsep controller/kawal
 > Sinopsis : episod kali ini menerangkan konsep controller/kawal dalam framework secara asasnya.
 Boleh rujuk fail episod05.php yang asal.
@@ -178,7 +180,7 @@ Boleh rujuk fail episod05.php yang asal.
 
 Bersambung...
 
-
+*****
 # episod 13 - Konsep model/tanya
 > Sinopsis : episod kali ini menerangkan konsep model/tanya dalam framework secara asasnya.
 Boleh rujuk fail episod06.php yang asal.
@@ -187,7 +189,7 @@ Boleh rujuk fail episod06.php yang asal.
 
 Bersambung...
 
-
+*****
 # episod 14 - Konsep view/papar
 > Sinopsis : episod kali ini menerangkan konsep view/papar dalam framework secara asasnya.
 Boleh rujuk fail episod07.php yang asal.
@@ -196,7 +198,7 @@ Boleh rujuk fail episod07.php yang asal.
 
 Bersambung...
 
-
+*****
 # episod 15 - Slogan php - people help people
 > Sinopsis : episod kali ini menerangkan slogan php - people help people.
 
