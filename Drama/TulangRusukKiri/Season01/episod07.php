@@ -57,7 +57,7 @@ Amoi : ok akhirnya taip -[tab]-[tab]-}-[enter]-[tab]-[tab]return $jenis;-[enter]
 	public function paparTemplate($nama, $template, $noInclude = false)
 	{
 		$namafail = explode('/', $nama);
-        $failPapar = GetMatchingFiles(
+		$failPapar = GetMatchingFiles(
 			GetContents(PAPAR . '/' . $namafail[0]),
 			$namafail[1] . '.php');
 		$paparFail = $failPapar[0];
