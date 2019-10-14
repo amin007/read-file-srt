@@ -92,7 +92,7 @@ Bersambung ...
 # episod 04 - Konsep folder
 
 > Sinopsis : episod kali ini menerangkan konsep folder secara asasnya.
-tempat berlaku dalam kedai buku/perpuskataan
+tempat berlaku dalam kedai buku/perpustakaan.
 Jenis monolog aka hero bercakap dalam hati.
 
 ## Skrip - belum ada idea!!!
