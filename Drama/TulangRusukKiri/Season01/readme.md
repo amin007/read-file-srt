@@ -95,7 +95,12 @@ Bersambung ...
 tempat berlaku dalam kedai buku/perpustakaan.
 Jenis monolog aka hero bercakap dalam hati.
 
-## Skrip - belum ada idea!!!
+## Skrip Babak 1 - belum ada idea!!!
+```
+Bersambung ...
+```
+
+## Skrip Babak 2 - belum ada idea!!!
 ```
 Bersambung ...
 ```
