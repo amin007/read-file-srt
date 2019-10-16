@@ -258,6 +258,7 @@ Bersambung ...
 
 **************************************************************************************************
 # episod 11 - Konsep route/peta
+
 > Sinopsis : episod kali ini menerangkan konsep route dalam framework secara asasnya.
 Dalam bab ini, heroin ajak kawan2 teman pergi bandar dan kebetulan berjumpa dengan hero.
 Boleh rujuk fail episod04.php yang asal.
@@ -398,6 +399,7 @@ Bersambung...
 
 **************************************************************************************************
 # episod 12 - Konsep controller/kawal
+
 > Sinopsis : episod kali ini menerangkan konsep controller/kawal dalam framework secara asasnya.
 Boleh rujuk fail episod05.php yang asal.
 
@@ -504,6 +506,7 @@ Bersambung ...
 
 **************************************************************************************************
 # episod 13 - Konsep model/tanya
+
 > Sinopsis : episod kali ini menerangkan konsep model/tanya dalam framework secara asasnya.
 Boleh rujuk fail episod06.php yang asal.
 
@@ -564,6 +567,7 @@ Bersambung...
 
 **************************************************************************************************
 # episod 14 - Konsep view/papar
+
 > Sinopsis : episod kali ini menerangkan konsep view/papar dalam framework secara asasnya.
 Boleh rujuk fail episod07.php yang asal.
 
@@ -692,6 +696,7 @@ Bersambung...
 
 **************************************************************************************************
 # episod 15 - Slogan php - people help people
+
 > Sinopsis : episod kali ini menerangkan slogan php - people help people.
 
 ## Skrip Babak 1 - belum ada idea!!!
