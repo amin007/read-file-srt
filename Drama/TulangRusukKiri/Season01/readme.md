@@ -423,10 +423,10 @@ Hero : hendak debug sahaja supaya kita berada di lokasi fail yang sebenar
 Amoi : oooo. ok ok. lepas itu taip apa?
 Hero : taip class-[ruang]-Kawal-[enter]-{-[enter]
 Amoi : taip class-[ruang]-Kawal-[enter]-{-[enter]
-Hero : lepas itu buat garisan panjang kalulistiwa
+Hero : lepas itu buat garisan panjang khatulistiwa
 -#==========================================================================================
 Amoi : -#==========================================================================================
-ooooooo, ini garisan kalulistiwa ya?
+ooooooo, ini garisan khatulistiwa ya?
 Hero : ya sebab dia panjang sangat hahaha
 Amoi : baik baik saya suka saya suka.
 Hero : lepas ini taip fungsi pula.
@@ -436,7 +436,7 @@ Hero : lepas itu taip -[tab]-[tab]//echo-[ruang]-'<br>class Kawal';-[enter]
 Amoi : -[tab]-[tab]//echo-[ruang]-'<br>class Kawal';-[enter]
 Hero : lepas itu taip -[tab]-[tab]$this->papar = new \Aplikasi\Kitab\Papar();-[enter]
 Amoi : -[tab]-[tab]$this->papar = new \Aplikasi\Kitab\Papar();-[enter]
-Hero : lepas itu tutup fungsi tersebut dan buat garisan kalulistiwa
+Hero : lepas itu tutup fungsi tersebut dan buat garisan khatulistiwa
 Amoi : -[tab]}-[enter]
 #==========================================================================================-[enter]
 Ok $this->papar untuk apa ya?
@@ -483,7 +483,7 @@ Hero : lepas itu taip -[tab]-[tab]-[tab]-[tab]Peta::classTanyaTidakWujud($amaran
 Amoi : -[tab]-[tab]-[tab]-[tab]Peta::classTanyaTidakWujud($amaran);-[enter]
 Hero : lepas itu taip -[tab]-[tab]-[tab]-}-[enter]-[tab]-[tab]-}//*/-[enter]--[tab]-}-[enter]
 Amoi : -[tab]-[tab]-[tab]-}-[enter]-[tab]-[tab]-}//*/-[enter]--[tab]-}-[enter]
-Hero : Ok, buat garisan kalulistiwa.
+Hero : Ok, buat garisan khatulistiwa.
 Amoi : -#------------------------------------------------------------------------------------------
 -[enter]
 Oh, jadi fungsi jemaahTaskil mahu semak sama ada anak-anak class Tanya wujud atau tidak.
@@ -495,7 +495,7 @@ Hero : ini untuk semak sama ada anak-anak class Tanya wujud atau tidak.
 ok pergi website https://github.com/amin007/mvc-melayu/blob/master/Aplikasi/Kelas/Kitab/Kawal.php
 salin fungsi semakPemcam
 Amoi : asyik-asyik salin dan tampal. ok kejap.
-Hero : ok sekarang buat garisan kalulistiwa
+Hero : ok sekarang buat garisan khatulistiwa
 Amoi :
 -#------------------------------------------------------------------------------------------
 -#==========================================================================================
@@ -530,12 +530,12 @@ Hero : hendak debug sahaja supaya kita berada di lokasi fail yang sebenar
 Amoi : oooo. ok ok. lepas itu taip apa?
 Hero : taip class-[ruang]-Tanya-[enter]-{-[enter]
 Amoi : taip class-[ruang]-Tanya-[enter]-{-[enter]
-Hero : lepas itu buat garisan panjang kalulistiwa
+Hero : lepas itu buat garisan panjang khatulistiwa
 -#==========================================================================================
 -#-------------------------------------------------------------------------------------------------
 Amoi : -#==========================================================================================
 -#-------------------------------------------------------------------------------------------------
-kenapa ada 2 garisan kalulistiwa?
+kenapa ada 2 garisan khatulistiwa?
 Hero : dalam class ini, kita akan membentuk data. sama ada kita panggil dari database atau
 kita bentuk sendiri.
 jadi dalam ini kita akan bentuk arahan sql yang biasa orang gunakan.
@@ -596,7 +596,7 @@ Amoi :
 -namespace-Aplikasi-\-Kitab-;-[ruang]-//echo-[ruang]-__NAMESPACE__;-[enter]
 Hero : taip class-[ruang]-Papar-[enter]-{-[enter]
 Amoi : class-[ruang]-Papar-[enter]-{-[enter]
-Hero : lepas itu buat garisan panjang kalulistiwa
+Hero : lepas itu buat garisan panjang khatulistiwa
 -#==========================================================================================
 Amoi : -#==========================================================================================
 Hero : ok, sekarang buat fungsi __construct.
@@ -604,7 +604,7 @@ Taip -[tab]-function __construct()-[enter]-[tab]-{-[enter]
 Amoi : -[tab]-function __construct()-[enter]-[tab]-{-[enter]
 Hero : lepas itu taip -[tab]//echo '<br>1. Anda berada di class Papar<br>';-[enter]-[tab]-}-[enter]
 Amoi : -[tab]//echo '<br>1. Anda berada di class Papar<br>';-[enter]-[tab]-}-[enter]
-Hero : lepas itu buat garisan panjang kalulistiwa
+Hero : lepas itu buat garisan panjang khatulistiwa
 -#-----------------------------------------------------------------------------------------
 Amoi : -#-----------------------------------------------------------------------------------------
 Hero : sekarang kita sudah buat fungsi __construct, lepas ini buat class pilihTemplate
