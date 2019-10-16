@@ -89,9 +89,9 @@ Bersambung ...
 ```
 
 **************************************************************************************************
-# episod 04 - Konsep folder
+# episod 04 - Konsep git dan github
 
-> Sinopsis : episod kali ini menerangkan konsep folder secara asasnya.
+> Sinopsis : episod kali ini menerangkan konsep git dan github secara asasnya.
 tempat berlaku dalam kedai buku/perpustakaan.
 Jenis monolog aka hero bercakap dalam hati.
 
