@@ -77,9 +77,9 @@ Bersambung...
 ```
 
 **************************************************************************************************
-# episod 03 - Konsep fail
+# episod 03 - Konsep fail dan folder
 
-> Sinopsis : episod kali ini menerangkan konsep fail secara asasnya.
+> Sinopsis : episod kali ini menerangkan konsep fail dan folder secara asasnya.
 tempat berlaku dalam pejabat hero daa.
 Jenis monolog aka hero bercakap dalam hati.
 
