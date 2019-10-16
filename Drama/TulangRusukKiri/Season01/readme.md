@@ -83,7 +83,12 @@ Bersambung...
 tempat berlaku dalam pejabat hero daa.
 Jenis monolog aka hero bercakap dalam hati.
 
-## Skrip - belum ada idea!!!
+## Skrip Babak 1 - belum ada idea!!!
+```
+Bersambung ...
+```
+
+## Skrip Babak 2 - belum ada idea!!!
 ```
 Bersambung ...
 ```
@@ -136,6 +141,16 @@ Awek3 : Hehehe banyak ikutkan beg yang saya bawa dari kampung.
 Bersambung ...
 ```
 
+## Skrip Babak 1 - belum ada idea!!!
+```
+Bersambung ...
+```
+
+## Skrip Babak 2 - belum ada idea!!!
+```
+Bersambung ...
+```
+
 **************************************************************************************************
 # episod 06 - Konsep tatasusunan/array
 
@@ -154,6 +169,17 @@ Awek1 : {awek3}, nak pergi bila
 Bersambung...
 ```
 
+## Skrip Babak 1 - belum ada idea!!!
+```
+Bersambung ...
+```
+
+## Skrip Babak 2 - belum ada idea!!!
+```
+Bersambung ...
+```
+
+
 **************************************************************************************************
 # episod 07 - Konsep function
 
@@ -170,6 +196,16 @@ Awek2 : kejap nak cari manual
 ...
 
 Bersambung...
+```
+
+## Skrip Babak 1 - belum ada idea!!!
+```
+Bersambung ...
+```
+
+## Skrip Babak 2 - belum ada idea!!!
+```
+Bersambung ...
 ```
 
 **************************************************************************************************
@@ -190,6 +226,16 @@ Awek1 : kita pergi hujung minggu boleh?
 Bersambung...
 ```
 
+## Skrip Babak 1 - belum ada idea!!!
+```
+Bersambung ...
+```
+
+## Skrip Babak 2 - belum ada idea!!!
+```
+Bersambung ...
+```
+
 **************************************************************************************************
 # episod 09 - Konsep class
 
@@ -207,6 +253,16 @@ Awek3 : kek apa hendak masak?
 Bersambung...
 ```
 
+## Skrip Babak 1 - belum ada idea!!!
+```
+Bersambung ...
+```
+
+## Skrip Babak 2 - belum ada idea!!!
+```
+Bersambung ...
+```
+
 **************************************************************************************************
 # episod 10 - Konsep framework
 
@@ -218,6 +274,16 @@ tetapi hanya berselisih sahaja, ceh dramalah sangat
 ## Skrip - belum ada idea!!!
 ```
 Bersambung...
+```
+
+## Skrip Babak 1 - belum ada idea!!!
+```
+Bersambung ...
+```
+
+## Skrip Babak 2 - belum ada idea!!!
+```
+Bersambung ...
 ```
 
 **************************************************************************************************
@@ -661,6 +727,16 @@ Bersambung...
 ## Skrip - belum ada idea!!!
 ```
 Bersambung...
+```
+
+## Skrip Babak 1 - belum ada idea!!!
+```
+Bersambung ...
+```
+
+## Skrip Babak 2 - belum ada idea!!!
+```
+Bersambung ...
 ```
 
 **************************************************************************************************
