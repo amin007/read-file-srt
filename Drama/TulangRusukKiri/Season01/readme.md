@@ -77,25 +77,35 @@ Bersambung...
 ```
 
 **************************************************************************************************
-# episod 03 - Konsep fail
+# episod 03 - Konsep fail dan folder
 
-> Sinopsis : episod kali ini menerangkan konsep fail secara asasnya.
+> Sinopsis : episod kali ini menerangkan konsep fail dan folder secara asasnya.
 tempat berlaku dalam pejabat hero daa.
 Jenis monolog aka hero bercakap dalam hati.
 
-## Skrip - belum ada idea!!!
+## Skrip Babak 1 - belum ada idea!!!
+```
+Bersambung ...
+```
+
+## Skrip Babak 2 - belum ada idea!!!
 ```
 Bersambung ...
 ```
 
 **************************************************************************************************
-# episod 04 - Konsep folder
+# episod 04 - Konsep git dan github
 
-> Sinopsis : episod kali ini menerangkan konsep folder secara asasnya.
+> Sinopsis : episod kali ini menerangkan konsep git dan github secara asasnya.
 tempat berlaku dalam kedai buku/perpustakaan.
 Jenis monolog aka hero bercakap dalam hati.
 
-## Skrip - belum ada idea!!!
+## Skrip Babak 1 - belum ada idea!!!
+```
+Bersambung ...
+```
+
+## Skrip Babak 2 - belum ada idea!!!
 ```
 Bersambung ...
 ```
@@ -106,7 +116,7 @@ Bersambung ...
 > Sinopsis : episod kali ini menerangkan konsep pembolehubah secara asasnya.
 tempat berlaku dalam rumah heroin dengan kawan-kawannya.
 
-## Skrip
+## Skrip Babak 1
 ```
 Awek1 : Nanti ada kawan baru masuk rumah sewa kita ini
 Awek2 : Bila dia akan masuk?
@@ -131,13 +141,18 @@ Awek3 : Hehehe banyak ikutkan beg yang saya bawa dari kampung.
 Bersambung ...
 ```
 
+## Skrip Babak 2 - belum ada idea!!!
+```
+Bersambung ...
+```
+
 **************************************************************************************************
 # episod 06 - Konsep tatasusunan/array
 
 > Sinopsis : episod kali ini menerangkan konsep pembolehubah secara asasnya.
 tempat berlaku dalam rumah heroin dengan kawan-kawannya.
 
-## Skrip
+## Skrip Babak 1
 ```
 Awek3 : {awek2}, awak boleh temankan kita pergi kedai perabut?
 Awek2 : awak nak cari apa dalam kedai perabut?
@@ -149,13 +164,18 @@ Awek1 : {awek3}, nak pergi bila
 Bersambung...
 ```
 
+## Skrip Babak 2 - belum ada idea!!!
+```
+Bersambung ...
+```
+
 **************************************************************************************************
 # episod 07 - Konsep function
 
 > Sinopsis : episod kali ini menerangkan konsep function secara asasnya.
 tempat berlaku dalam rumah heroin dengan kawan-kawannya.
 
-## Skrip
+## Skrip Babak 1
 ```
 Awek3 : banyak betul peralatan dalam dapur rumah ini, tak tahu nak guna macam mana
 Awek1 : kami suka memasak, setiap peralatan sesuai dengan resepi makanan tertentu
@@ -167,13 +187,18 @@ Awek2 : kejap nak cari manual
 Bersambung...
 ```
 
+## Skrip Babak 2 - belum ada idea!!!
+```
+Bersambung ...
+```
+
 **************************************************************************************************
 # episod 08 - Konsep penganturcaraan berasaskan objek
 
 > Sinopsis : episod kali ini menerangkan konsep penganturcaraan berasaskan objek secara asasnya.
 heroin berbual dengan rakan dalam rumah tentang pokok bunga jiran depan rumah.
 
-## Skrip
+## Skrip Babak 1
 ```
 Awek3 : banyak pokok bunga dekat rumah depan itu ya?
 Awek1 : makcik depan itu memang rajin tanam pokok bunga.
@@ -185,6 +210,11 @@ Awek1 : kita pergi hujung minggu boleh?
 Bersambung...
 ```
 
+## Skrip Babak 2 - belum ada idea!!!
+```
+Bersambung ...
+```
+
 **************************************************************************************************
 # episod 09 - Konsep class
 
@@ -193,13 +223,19 @@ tempat berlaku dalam rumah heroin dengan kawan-kawannya.
 mereka tengah fikir hendak masak apa pada hari minggu.
 masing2 akan tentukan tugas yang perlu dilakukan.
 
-## Skrip
+## Skrip Babak 1
 ```
 Awek1 : hari minggu ini rasanya hendak masak apa ya?
 Awek2 : masak kek nak?
 Awek3 : kek apa hendak masak?
+...
 
 Bersambung...
+```
+
+## Skrip Babak 2 - belum ada idea!!!
+```
+Bersambung ...
 ```
 
 **************************************************************************************************
@@ -210,13 +246,19 @@ dalam dunia pengaturcaraan, kita ada konsep mcv iaitu model,control dan view.
 dalam bab ini heroin akan berjumpa dengan hero katanya.
 tetapi hanya berselisih sahaja, ceh dramalah sangat
 
-## Skrip - belum ada idea!!!
+## Skrip Babak 1 - belum ada idea!!!
 ```
-Bersambung...
+Bersambung ...
+```
+
+## Skrip Babak 2 - belum ada idea!!!
+```
+Bersambung ...
 ```
 
 **************************************************************************************************
 # episod 11 - Konsep route/peta
+
 > Sinopsis : episod kali ini menerangkan konsep route dalam framework secara asasnya.
 Dalam bab ini, heroin ajak kawan2 teman pergi bandar dan kebetulan berjumpa dengan hero.
 Boleh rujuk fail episod04.php yang asal.
@@ -357,6 +399,7 @@ Bersambung...
 
 **************************************************************************************************
 # episod 12 - Konsep controller/kawal
+
 > Sinopsis : episod kali ini menerangkan konsep controller/kawal dalam framework secara asasnya.
 Boleh rujuk fail episod05.php yang asal.
 
@@ -380,10 +423,10 @@ Hero : hendak debug sahaja supaya kita berada di lokasi fail yang sebenar
 Amoi : oooo. ok ok. lepas itu taip apa?
 Hero : taip class-[ruang]-Kawal-[enter]-{-[enter]
 Amoi : taip class-[ruang]-Kawal-[enter]-{-[enter]
-Hero : lepas itu buat garisan panjang kalulistiwa
+Hero : lepas itu buat garisan panjang khatulistiwa
 -#==========================================================================================
 Amoi : -#==========================================================================================
-ooooooo, ini garisan kalulistiwa ya?
+ooooooo, ini garisan khatulistiwa ya?
 Hero : ya sebab dia panjang sangat hahaha
 Amoi : baik baik saya suka saya suka.
 Hero : lepas ini taip fungsi pula.
@@ -393,7 +436,7 @@ Hero : lepas itu taip -[tab]-[tab]//echo-[ruang]-'<br>class Kawal';-[enter]
 Amoi : -[tab]-[tab]//echo-[ruang]-'<br>class Kawal';-[enter]
 Hero : lepas itu taip -[tab]-[tab]$this->papar = new \Aplikasi\Kitab\Papar();-[enter]
 Amoi : -[tab]-[tab]$this->papar = new \Aplikasi\Kitab\Papar();-[enter]
-Hero : lepas itu tutup fungsi tersebut dan buat garisan kalulistiwa
+Hero : lepas itu tutup fungsi tersebut dan buat garisan khatulistiwa
 Amoi : -[tab]}-[enter]
 #==========================================================================================-[enter]
 Ok $this->papar untuk apa ya?
@@ -440,7 +483,7 @@ Hero : lepas itu taip -[tab]-[tab]-[tab]-[tab]Peta::classTanyaTidakWujud($amaran
 Amoi : -[tab]-[tab]-[tab]-[tab]Peta::classTanyaTidakWujud($amaran);-[enter]
 Hero : lepas itu taip -[tab]-[tab]-[tab]-}-[enter]-[tab]-[tab]-}//*/-[enter]--[tab]-}-[enter]
 Amoi : -[tab]-[tab]-[tab]-}-[enter]-[tab]-[tab]-}//*/-[enter]--[tab]-}-[enter]
-Hero : Ok, buat garisan kalulistiwa.
+Hero : Ok, buat garisan khatulistiwa.
 Amoi : -#------------------------------------------------------------------------------------------
 -[enter]
 Oh, jadi fungsi jemaahTaskil mahu semak sama ada anak-anak class Tanya wujud atau tidak.
@@ -452,7 +495,7 @@ Hero : ini untuk semak sama ada anak-anak class Tanya wujud atau tidak.
 ok pergi website https://github.com/amin007/mvc-melayu/blob/master/Aplikasi/Kelas/Kitab/Kawal.php
 salin fungsi semakPemcam
 Amoi : asyik-asyik salin dan tampal. ok kejap.
-Hero : ok sekarang buat garisan kalulistiwa
+Hero : ok sekarang buat garisan khatulistiwa
 Amoi :
 -#------------------------------------------------------------------------------------------
 -#==========================================================================================
@@ -463,6 +506,7 @@ Bersambung ...
 
 **************************************************************************************************
 # episod 13 - Konsep model/tanya
+
 > Sinopsis : episod kali ini menerangkan konsep model/tanya dalam framework secara asasnya.
 Boleh rujuk fail episod06.php yang asal.
 
@@ -486,12 +530,12 @@ Hero : hendak debug sahaja supaya kita berada di lokasi fail yang sebenar
 Amoi : oooo. ok ok. lepas itu taip apa?
 Hero : taip class-[ruang]-Tanya-[enter]-{-[enter]
 Amoi : taip class-[ruang]-Tanya-[enter]-{-[enter]
-Hero : lepas itu buat garisan panjang kalulistiwa
+Hero : lepas itu buat garisan panjang khatulistiwa
 -#==========================================================================================
 -#-------------------------------------------------------------------------------------------------
 Amoi : -#==========================================================================================
 -#-------------------------------------------------------------------------------------------------
-kenapa ada 2 garisan kalulistiwa?
+kenapa ada 2 garisan khatulistiwa?
 Hero : dalam class ini, kita akan membentuk data. sama ada kita panggil dari database atau
 kita bentuk sendiri.
 jadi dalam ini kita akan bentuk arahan sql yang biasa orang gunakan.
@@ -523,6 +567,7 @@ Bersambung...
 
 **************************************************************************************************
 # episod 14 - Konsep view/papar
+
 > Sinopsis : episod kali ini menerangkan konsep view/papar dalam framework secara asasnya.
 Boleh rujuk fail episod07.php yang asal.
 
@@ -551,7 +596,7 @@ Amoi :
 -namespace-Aplikasi-\-Kitab-;-[ruang]-//echo-[ruang]-__NAMESPACE__;-[enter]
 Hero : taip class-[ruang]-Papar-[enter]-{-[enter]
 Amoi : class-[ruang]-Papar-[enter]-{-[enter]
-Hero : lepas itu buat garisan panjang kalulistiwa
+Hero : lepas itu buat garisan panjang khatulistiwa
 -#==========================================================================================
 Amoi : -#==========================================================================================
 Hero : ok, sekarang buat fungsi __construct.
@@ -559,7 +604,7 @@ Taip -[tab]-function __construct()-[enter]-[tab]-{-[enter]
 Amoi : -[tab]-function __construct()-[enter]-[tab]-{-[enter]
 Hero : lepas itu taip -[tab]//echo '<br>1. Anda berada di class Papar<br>';-[enter]-[tab]-}-[enter]
 Amoi : -[tab]//echo '<br>1. Anda berada di class Papar<br>';-[enter]-[tab]-}-[enter]
-Hero : lepas itu buat garisan panjang kalulistiwa
+Hero : lepas itu buat garisan panjang khatulistiwa
 -#-----------------------------------------------------------------------------------------
 Amoi : -#-----------------------------------------------------------------------------------------
 Hero : sekarang kita sudah buat fungsi __construct, lepas ini buat class pilihTemplate
@@ -651,11 +696,17 @@ Bersambung...
 
 **************************************************************************************************
 # episod 15 - Slogan php - people help people
+
 > Sinopsis : episod kali ini menerangkan slogan php - people help people.
 
-## Skrip - belum ada idea!!!
+## Skrip Babak 1 - belum ada idea!!!
 ```
-Bersambung...
+Bersambung ...
+```
+
+## Skrip Babak 2 - belum ada idea!!!
+```
+Bersambung ...
 ```
 
 **************************************************************************************************
