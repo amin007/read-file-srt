@@ -4,9 +4,10 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-<meta name="description" content="">
-<meta name="author" content="">
-<title>List Folder</title>
+<meta name="description" content="Pengembaraan hero mencari cinta hatinya.
+Gunakan konsep oop aka pengaturcaraan berasaskan objek dalam menerangkan konsep programming kepada orang awam.">
+<meta name="author" content="Amin007 Ledang">
+<title>Drama TulangRusukKiri</title>
 <link href="https://use.fontawesome.com/releases/v5.4.2/css/all.css" rel="stylesheet" type="text/css">
 <link href="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" rel="stylesheet" type="text/css">
 </head>
