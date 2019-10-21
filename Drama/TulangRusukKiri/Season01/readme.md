@@ -271,45 +271,45 @@ Bersambung...
 
 ## Skrip Babak 2
 ```
-01. Hero : Ok sekarang kita akan taip class Peta
-02. Amoi : Baik, apa yang kena taip
-03. Hero : Ikut apa yang kita cakap. Mula2 taip simbol lebih besar-soalan-p-h-p-[enter]
-04. Amoi : <-?-p-h-p-[enter] ok lepas itu
-05. Hero : Taip  /-*-ruang-Ini-ruang-class-ruang-untuk-[enter]
-06. Amoi : ruang itu apa?
-07. Hero : space daa
-08. Amoi : ooo, jadi taip /-*-ruang-Ini-ruang-class-ruang-untuk-[enter]
-09. Hero : ok pandai pun, ok sekarang Taip ruang-*-ruang-1. membaca $url dari fungsi dpt_url() dari fail fungsi.php-[enter]
-10. Amoi : ruang-*-ruang-1. membaca $url dari fungsi dpt_url() dari fail fungsi.php-[enter]
-11. Hero : taip Taip ruang-*-ruang-ruang-ruang-ruang-dan masukkan dalam $url-[enter]
-12. Amoi : kenapa space banyak sangat?
-13. Hero : kita nak samakan "membaca" dan "dan" dalam baris yang sama agar senang mata hendak baca
-14. Amoi : ok ok, jadi taip ruang-*-ruang-ruang-ruang-ruang-dan masukkan dalam $url-[enter]
-15. Hero : ok bijak-bijak anak siapalah ini ya. ok sekarang Taip ruang-*-ruang2. semak sama ada nilai $url[0] kosong tak-[enter]
-16. Amoi : anak makbapak sayalah. {muka senyum}. ok taip ruang-*-ruang2. semak sama ada nilai $url[0] kosong tak-[enter]
-17. Hero : Taip pula ruang-*-ruang3. dapatkan fail dalam folder KAWAL yang serupa dengan $url[0]-[enter]
-18. Amoi : ruang-*-ruang3. dapatkan fail dalam folder KAWAL yang serupa dengan $url[0]-[enter]
-19. Hero : Taip ruang-*-ruang4. semak sama ada dalam folder KAWAL $fail benar2 wujud-[enter]
-20. Amoi : ruang-*-ruang4. semak sama ada dalam folder KAWAL $fail benar2 wujud-[enter]
-21. Hero : ok tutup komen dengan taip *-/-[enter]
-22. Amoi : *-/-[enter]. laa tadi baru taip komen sahaja ya, panjang ceritanya
-23. Hero : nanti senang akan datang orang lain tengok koding kita tahu class ini buat benda apa.
-24. Amoi : baiklah. lepas ini taip apa
-25. Hero : ok sekarang taip namespace Aplikasi\Kitab; //echo __NAMESPACE__;-[enter]
-26. Amoi : namespace Aplikasi\Kitab; //echo __NAMESPACE__;-[enter]
-27. Hero : taip pula class-ruang-Peta-[enter]-{-[enter]
-28. Amoi : class-ruang-Peta-[enter]-{-[enter]. oh baris ini baru masuk nama class ya.
-29. Hero : macam itulah. sekarang buat garisan panjang-panjang macam ini.
-30. Hero : #==================================================================================================================
-31. Amoi : #==================================================================================================================
-32. Amoi : Panjangnya hendak taip garisan, ini untuk apa.
-33. Hero : Nanti kita boleh perasan bila mula dan akhir class Peta ini terutama bab {} dan bila mahu tambah fungsi kemudian hari nanti
-34. Amoi : Baiklah. lepas ini taip apa.
-35. Hero : Ok sekarang kita buat fungsi __construct(). Jadi apabila php panggil class Peta, maka fungsi ini automatik dipanggil untuk buat kerja.
-36. Hero : ok taip tab-function __construct()-[enter]
-37. Amoi : ok t-a-b-function __construct()-[enter]
-38. Hero : Bukan taip t-a-b, tekan buang keyboard [tab] atas [caps lock] itu
-40. Amoi : ooo, kenapa kena guna [tab]
+001. Hero : Ok sekarang kita akan taip class Peta
+002. Amoi : Baik, apa yang kena taip
+003. Hero : Ikut apa yang kita cakap. Mula2 taip simbol lebih besar-soalan-p-h-p-[enter]
+004. Amoi : <-?-p-h-p-[enter] ok lepas itu
+005. Hero : Taip  /-*-ruang-Ini-ruang-class-ruang-untuk-[enter]
+006. Amoi : ruang itu apa?
+007. Hero : space daa
+008. Amoi : ooo, jadi taip /-*-ruang-Ini-ruang-class-ruang-untuk-[enter]
+009. Hero : ok pandai pun, ok sekarang Taip ruang-*-ruang-1. membaca $url dari fungsi dpt_url() dari fail fungsi.php-[enter]
+010. Amoi : ruang-*-ruang-1. membaca $url dari fungsi dpt_url() dari fail fungsi.php-[enter]
+011. Hero : taip Taip ruang-*-ruang-ruang-ruang-ruang-dan masukkan dalam $url-[enter]
+012. Amoi : kenapa space banyak sangat?
+013. Hero : kita nak samakan "membaca" dan "dan" dalam baris yang sama agar senang mata hendak baca
+014. Amoi : ok ok, jadi taip ruang-*-ruang-ruang-ruang-ruang-dan masukkan dalam $url-[enter]
+015. Hero : ok bijak-bijak anak siapalah ini ya. ok sekarang Taip ruang-*-ruang2. semak sama ada nilai $url[0] kosong tak-[enter]
+016. Amoi : anak makbapak sayalah. {muka senyum}. ok taip ruang-*-ruang2. semak sama ada nilai $url[0] kosong tak-[enter]
+017. Hero : Taip pula ruang-*-ruang3. dapatkan fail dalam folder KAWAL yang serupa dengan $url[0]-[enter]
+018. Amoi : ruang-*-ruang3. dapatkan fail dalam folder KAWAL yang serupa dengan $url[0]-[enter]
+019. Hero : Taip ruang-*-ruang4. semak sama ada dalam folder KAWAL $fail benar2 wujud-[enter]
+020. Amoi : ruang-*-ruang4. semak sama ada dalam folder KAWAL $fail benar2 wujud-[enter]
+021. Hero : ok tutup komen dengan taip *-/-[enter]
+022. Amoi : *-/-[enter]. laa tadi baru taip komen sahaja ya, panjang ceritanya
+023. Hero : nanti senang akan datang orang lain tengok koding kita tahu class ini buat benda apa.
+024. Amoi : baiklah. lepas ini taip apa
+025. Hero : ok sekarang taip namespace Aplikasi\Kitab; //echo __NAMESPACE__;-[enter]
+026. Amoi : namespace Aplikasi\Kitab; //echo __NAMESPACE__;-[enter]
+027. Hero : taip pula class-ruang-Peta-[enter]-{-[enter]
+028. Amoi : class-ruang-Peta-[enter]-{-[enter]. oh baris ini baru masuk nama class ya.
+029. Hero : macam itulah. sekarang buat garisan panjang-panjang macam ini.
+030. Hero : #==================================================================================================================
+031. Amoi : #==================================================================================================================
+032. Amoi : Panjangnya hendak taip garisan, ini untuk apa.
+033. Hero : Nanti kita boleh perasan bila mula dan akhir class Peta ini terutama bab {} dan bila mahu tambah fungsi kemudian hari nanti
+034. Amoi : Baiklah. lepas ini taip apa.
+035. Hero : Ok sekarang kita buat fungsi __construct(). Jadi apabila php panggil class Peta, maka fungsi ini automatik dipanggil untuk buat kerja.
+036. Hero : ok taip tab-function __construct()-[enter]
+037. Amoi : ok t-a-b-function __construct()-[enter]
+038. Hero : Bukan taip t-a-b, tekan buang keyboard [tab] atas [caps lock] itu
+039. Amoi : ooo, kenapa kena guna [tab]
 41. Hero : senang mata hendak baca koding nanti, dapat bezakan class dan fungsi
 42. Amoi : ok. buang t-a-b, tekan [tab]
 43. Hero : wow terbaik. ok sekarang taip [tab]-{-[enter]
