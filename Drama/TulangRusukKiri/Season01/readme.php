@@ -45,7 +45,8 @@ echo $Parsedown->text($markdown);
 ?>
 
 <!-- Footer
-================================================== --
+==================================================
+https://hackerthemes.com/bootstrap-cheatsheet/
 </footer -->
 
 <!-- khas untuk jquery dan js2 lain
