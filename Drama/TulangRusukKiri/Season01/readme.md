@@ -65,10 +65,10 @@ Jenis monolog aka hero bercakap dalam hati.
 
 ## Skrip
 ```
-Hidup ini terikat dengan peraturan dunia dan akhirat.
-Banyak undang-undang yang perlu dipatuhi.
-Ada kalanya undang-undang akan dilanggar.
-Ada kalanya undang-undang akan diubah atau digubal mengikut peredaran masa
+01. Hidup ini terikat dengan peraturan dunia dan akhirat.
+02. Banyak undang-undang yang perlu dipatuhi.
+03. Ada kalanya undang-undang akan dilanggar.
+04. Ada kalanya undang-undang akan diubah atau digubal mengikut peredaran masa
 ...
 
 Bersambung...
@@ -116,24 +116,24 @@ tempat berlaku dalam rumah heroin dengan kawan-kawannya.
 
 ## Skrip Babak 1
 ```
-Awek1 : Nanti ada kawan baru masuk rumah sewa kita ini
-Awek2 : Bila dia akan masuk?
-Awek1 : kata tuan rumah 1 jam lagi
-Awek2 : oh kita kena sambut rakan baru ini, namanya siapa ya?
-Awak1 : entahlah lupa hendak tanya tuan rumah, nanti dia datang kita tanyalah
-Awek2 : baiklah kita bersiap2 tunggu kedatangan dia
-Awek3 : Assalamualaikum.
-Awek1 : Waalaikumusalam, masuklah.
-Awek3 : Terima kasih, nama saya {awek3}. Nama awak siapa?
-Awek1 : Nama saya {awek1}, ni {awak2}
-Awek3 : Rumah ini ada berapa bilik?
-Awek2 : Rumah ini ada ruangtamu, dapur, 3 bilik tidur, 3 bilik air
-Awek2 : Ruangtamu ini ada tv, radio, komputer, sofa, meja makan, kerusi.
-Awek1 : Dapur pula ada peti sejuk, mesin basuh, oven, ketuhar.
-Awek2 : Di atas ada bilik tidur, {awek3) ambil bilik tidur 3 ya?
-Awek3 : Baiklah, kejap saya angkut beg dari luar.
-Awek1 : Laa kenapa tidak cakap ada beg di luar?
-Awek3 : Hehehe banyak ikutkan beg yang saya bawa dari kampung.
+01. Awek1 : Nanti ada kawan baru masuk rumah sewa kita ini
+02. Awek2 : Bila dia akan masuk?
+03. Awek1 : kata tuan rumah 1 jam lagi
+04. Awek2 : oh kita kena sambut rakan baru ini, namanya siapa ya?
+05. Awak1 : entahlah lupa hendak tanya tuan rumah, nanti dia datang kita tanyalah
+06. Awek2 : baiklah kita bersiap2 tunggu kedatangan dia
+07. Awek3 : Assalamualaikum.
+08. Awek1 : Waalaikumusalam, masuklah.
+09. Awek3 : Terima kasih, nama saya {awek3}. Nama awak siapa?
+10. Awek1 : Nama saya {awek1}, ni {awak2}
+11. Awek3 : Rumah ini ada berapa bilik?
+12. Awek2 : Rumah ini ada ruangtamu, dapur, 3 bilik tidur, 3 bilik air
+13. Awek2 : Ruangtamu ini ada tv, radio, komputer, sofa, meja makan, kerusi.
+14. Awek1 : Dapur pula ada peti sejuk, mesin basuh, oven, ketuhar.
+15. Awek2 : Di atas ada bilik tidur, {awek3) ambil bilik tidur 3 ya?
+16. Awek3 : Baiklah, kejap saya angkut beg dari luar.
+17. Awek1 : Laa kenapa tidak cakap ada beg di luar?
+18. Awek3 : Hehehe banyak ikutkan beg yang saya bawa dari kampung.
 ...
 
 Bersambung ...
@@ -152,11 +152,11 @@ tempat berlaku dalam rumah heroin dengan kawan-kawannya.
 
 ## Skrip Babak 1
 ```
-Awek3 : {awek2}, awak boleh temankan kita pergi kedai perabut?
-Awek2 : awak nak cari apa dalam kedai perabut?
-Awek3 : kita hendak cari almarilah, nak susun baju-baju kita.
-Awek2 : kalau begitu ajak {awek1} sekali macam itu
-Awek1 : {awek3}, nak pergi bila
+01. Awek3 : {awek2}, awak boleh temankan kita pergi kedai perabut?
+02. Awek2 : awak nak cari apa dalam kedai perabut?
+03. Awek3 : kita hendak cari almarilah, nak susun baju-baju kita.
+04. Awek2 : kalau begitu ajak {awek1} sekali macam itu
+05. Awek1 : {awek3}, nak pergi bila
 ...
 
 Bersambung...
@@ -175,11 +175,11 @@ tempat berlaku dalam rumah heroin dengan kawan-kawannya.
 
 ## Skrip Babak 1
 ```
-Awek3 : banyak betul peralatan dalam dapur rumah ini, tak tahu nak guna macam mana
-Awek1 : kami suka memasak, setiap peralatan sesuai dengan resepi makanan tertentu
-Awek2 : ya, sudu Avon pun ada macam2 jenis, sesuai dengan makanan tertentu
-Awek3 : awak berdua boleh terangkan penggunaan peralatan tersebut
-Awek2 : kejap nak cari manual
+01. Awek3 : banyak betul peralatan dalam dapur rumah ini, tak tahu nak guna macam mana
+02. Awek1 : kami suka memasak, setiap peralatan sesuai dengan resepi makanan tertentu
+03. Awek2 : ya, sudu Avon pun ada macam2 jenis, sesuai dengan makanan tertentu
+04. Awek3 : awak berdua boleh terangkan penggunaan peralatan tersebut
+05. Awek2 : kejap nak cari manual
 ...
 
 Bersambung...
@@ -198,11 +198,11 @@ heroin berbual dengan rakan dalam rumah tentang pokok bunga jiran depan rumah.
 
 ## Skrip Babak 1
 ```
-Awek3 : banyak pokok bunga dekat rumah depan itu ya?
-Awek1 : makcik depan itu memang rajin tanam pokok bunga.
-Awek2 : nanti ada masa kita pergi rumah makcik itu ya lihat pokok bunga
-Awek3 : bila hendak pergi ya?
-Awek1 : kita pergi hujung minggu boleh?
+01. Awek3 : banyak pokok bunga dekat rumah depan itu ya?
+02. Awek1 : makcik depan itu memang rajin tanam pokok bunga.
+03. Awek2 : nanti ada masa kita pergi rumah makcik itu ya lihat pokok bunga
+04. Awek3 : bila hendak pergi ya?
+05. Awek1 : kita pergi hujung minggu boleh?
 ...
 
 Bersambung...
@@ -223,9 +223,9 @@ masing2 akan tentukan tugas yang perlu dilakukan.
 
 ## Skrip Babak 1
 ```
-Awek1 : hari minggu ini rasanya hendak masak apa ya?
-Awek2 : masak kek nak?
-Awek3 : kek apa hendak masak?
+01. Awek1 : hari minggu ini rasanya hendak masak apa ya?
+02. Awek2 : masak kek nak?
+03. Awek3 : kek apa hendak masak?
 ...
 
 Bersambung...
@@ -263,8 +263,8 @@ Boleh rujuk fail episod04.php yang asal.
 
 ## Skrip Babak 1
 ```
-Awek3 : awak boleh teman kita jalan2 area bandar ini?
-Awek2 : awak mahu pergi mana?
+01. Awek3 : awak boleh teman kita jalan2 area bandar ini?
+02. Awek2 : awak mahu pergi mana?
 ...
 Bersambung...
 ```
@@ -408,14 +408,12 @@ Bersambung...
 
 ## Skrip Babak 2 - Taip kelas Kawal
 ```
-Hero : Ok sekarang kita akan buat class Kawal.
+001. Hero : Ok sekarang kita akan buat class Kawal.
 Taip -lebih besar-soalan-php-[enter]
-Amoi : -<-?-php-[enter]
+002. Amoi : -<-?-php-[enter]
 ok lepas itu taip apa?
-Hero : kita taip
--namespace-Aplikasi-\-Kitab-coma bertitik-[ruang]-//echo-[ruang]-__NAMESPACE__;-[enter]
-Amoi :
--namespace-Aplikasi-\-Kitab-;-[ruang]-//echo-[ruang]-__NAMESPACE__;-[enter]
+003. Hero : kita taip -namespace-Aplikasi-\-Kitab-coma bertitik-[ruang]-//echo-[ruang]-__NAMESPACE__;-[enter]
+004. Amoi : -namespace-Aplikasi-\-Kitab-;-[ruang]-//echo-[ruang]-__NAMESPACE__;-[enter]
 Kenapa kena echo __NAMESPACE__?
 Hero : hendak debug sahaja supaya kita berada di lokasi fail yang sebenar
 Amoi : oooo. ok ok. lepas itu taip apa?
