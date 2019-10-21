@@ -1,6 +1,6 @@
 # Sinopsis Tulang Rusuk Kiri
 
-https://github.com/amin007/read-file-srt/blob/master/Drama/TulangRusukKiri/Season01/readme.md
+[Pautan Utama](https://github.com/amin007/read-file-srt/blob/master/Drama/TulangRusukKiri/Season01/readme.md)
 
 Pengembaraan hero mencari cinta hatinya
 
