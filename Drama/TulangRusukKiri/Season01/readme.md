@@ -310,37 +310,37 @@ Bersambung...
 037. Amoi : ok t-a-b-function __construct()-[enter]
 038. Hero : Bukan taip t-a-b, tekan buang keyboard [tab] atas [caps lock] itu
 039. Amoi : ooo, kenapa kena guna [tab]
-41. Hero : senang mata hendak baca koding nanti, dapat bezakan class dan fungsi
-42. Amoi : ok. buang t-a-b, tekan [tab]
-43. Hero : wow terbaik. ok sekarang taip [tab]-{-[enter]
-44. Amoi : terima kasih {muka tersenyum lagi}. ok taip [tab]-{-[enter]
-45. Hero : sekarang taip [tab]-[tab]-# 1. capai fungsi dpt_url() dan masukkan dalam $url-[enter]
-46. Amoi : [tab]-[tab]-# 1. capai fungsi dpt_url() dan masukkan dalam $url-[enter]
-47. Lepas itu taip [tab]-[tab]-$url = dpt_url(); //echo '<br>$url->'; print_r($url) . '';-[enter]-[enter]
-48. Amoi : [tab]-[tab]-$url = dpt_url(); //echo '<br>$url->'; print_r($url) . '';-[enter]-[enter]
-49. Hero : Ok sekarang taip [tab]-[tab]-# 2. semak sama ada $url[0] kosong * jika ya : $url[0] == 'index';-[enter]
-50. Amoi : [tab]-[tab]-# 2. semak sama ada $url[0] kosong * jika ya : $url[0] == 'index';-[enter]
-51. Hero : taip pula [tab]-[tab]-$url[0] = (empty($url[0])) ? 'index' : $url[0];-[enter]
-52. Amoi : [tab]-[tab]-$url[0] = (empty($url[0])) ? 'index' : $url[0];-[enter]
-53. Hero : lepas itu taip [tab]-[tab]-$Url[0] = '\\Aplikasi\Kawal\\' . huruf('Besar', $url[0]);-[enter]-[enter]
-54. Amoi : [tab]-[tab]-$Url[0] = '\\Aplikasi\Kawal\\' . huruf('Besar', $url[0]);-[enter]-[enter]
-55. Amoi : Apa beza $url dan $Url?
-56. Hero : $Url adalah untuk cari nama class dalam folder Aplikasi\Kelas\Utama\Kawal
-57. Hero : $url adalah untuk cari nama fungsi dalam nama class tersebut. jika nilai $url[0] kosong, kita set 'index'
-58. Amoi : ok ok saya faham. lepas itu kena taip apa?
-59. Hero : ok sekarang taip [tab]-[tab]-/* 3. dapatkan fail dalam folder KAWAL yang serupa dengan $url[0]-[enter]
-60. Hero : [tab]-[tab]-[ruang]* dan masukkan dalam $fail-[enter]
-61. Hero : [tab]-[tab]-[ruang]*/-[enter]
-62. Amoi : peh lajunya cakap. kejap-kejap.
-63. Amoi : taip [tab]-[tab]-/* 3. dapatkan fail dalam folder KAWAL yang serupa dengan $url[0]-[enter]
-64. Amoi : [tab]-[tab]-[ruang]* dan masukkan dalam $fail-[enter]
-65. Amoi : [tab]-[tab]-[ruang]*/-[enter], {bernafas tercungap-cungap}
-66. Hero : Oh boleh ingat ya? Power
-67: Amoi : tengok kakilah.
-68. Hero : ok sekarang taip
-69. Hero : [tab]-[tab]-$failKawal = GetMatchingFiles(GetContents(KAWAL),$url[0] . '.php');-[enter]
-70. Hero : [tab]-[tab]-$fail = $failKawal[0];-[enter]
-71. Hero : [tab]-[tab]-$this->debugPembolehubah($failKawal, $fail, $url, $Url);-[enter]
+040. Hero : senang mata hendak baca koding nanti, dapat bezakan class dan fungsi
+041. Amoi : ok. buang t-a-b, tekan [tab]
+042. Hero : wow terbaik. ok sekarang taip [tab]-{-[enter]
+043. Amoi : terima kasih {muka tersenyum lagi}. ok taip [tab]-{-[enter]
+044. Hero : sekarang taip [tab]-[tab]-# 1. capai fungsi dpt_url() dan masukkan dalam $url-[enter]
+045. Amoi : [tab]-[tab]-# 1. capai fungsi dpt_url() dan masukkan dalam $url-[enter]
+046. Amoi : Lepas itu taip [tab]-[tab]-$url = dpt_url(); //echo '<br>$url->'; print_r($url) . '';-[enter]-[enter]
+047. Amoi : [tab]-[tab]-$url = dpt_url(); //echo '<br>$url->'; print_r($url) . '';-[enter]-[enter]
+048. Hero : Ok sekarang taip [tab]-[tab]-# 2. semak sama ada $url[0] kosong * jika ya : $url[0] == 'index';-[enter]
+049. Amoi : [tab]-[tab]-# 2. semak sama ada $url[0] kosong * jika ya : $url[0] == 'index';-[enter]
+050. Hero : taip pula [tab]-[tab]-$url[0] = (empty($url[0])) ? 'index' : $url[0];-[enter]
+051. Amoi : [tab]-[tab]-$url[0] = (empty($url[0])) ? 'index' : $url[0];-[enter]
+052. Hero : lepas itu taip [tab]-[tab]-$Url[0] = '\\Aplikasi\Kawal\\' . huruf('Besar', $url[0]);-[enter]-[enter]
+053. Amoi : [tab]-[tab]-$Url[0] = '\\Aplikasi\Kawal\\' . huruf('Besar', $url[0]);-[enter]-[enter]
+054. Amoi : Apa beza $url dan $Url?
+055. Hero : $Url adalah untuk cari nama class dalam folder Aplikasi\Kelas\Utama\Kawal
+056. Hero : $url adalah untuk cari nama fungsi dalam nama class tersebut. jika nilai $url[0] kosong, kita set 'index'
+057. Amoi : ok ok saya faham. lepas itu kena taip apa?
+058. Hero : ok sekarang taip [tab]-[tab]-/* 3. dapatkan fail dalam folder KAWAL yang serupa dengan $url[0]-[enter]
+059. Hero : [tab]-[tab]-[ruang]* dan masukkan dalam $fail-[enter]
+060. Hero : [tab]-[tab]-[ruang]*/-[enter]
+061. Amoi : peh lajunya cakap. kejap-kejap.
+062. Amoi : taip [tab]-[tab]-/* 3. dapatkan fail dalam folder KAWAL yang serupa dengan $url[0]-[enter]
+063. Amoi : [tab]-[tab]-[ruang]* dan masukkan dalam $fail-[enter]
+064. Amoi : [tab]-[tab]-[ruang]*/-[enter], {bernafas tercungap-cungap}
+065. Hero : Oh boleh ingat ya? Power
+066. Amoi : tengok kakilah.
+067. Hero : ok sekarang taip
+068. Hero : [tab]-[tab]-$failKawal = GetMatchingFiles(GetContents(KAWAL),$url[0] . '.php');-[enter]
+069. Hero : [tab]-[tab]-$fail = $failKawal[0];-[enter]
+070. Hero : [tab]-[tab]-$this->debugPembolehubah($failKawal, $fail, $url, $Url);-[enter]
 72. Amoi : [tab]-[tab]-$failKawal = GetMatchingFiles(GetContents(KAWAL),$url[0] . '.php');-[enter]
 73. Amoi : [tab]-[tab]-$fail = $failKawal[0];-[enter]
 74. Amoi : [tab]-[tab]-$this->debugPembolehubah($failKawal, $fail, $url, $Url);-[enter]
