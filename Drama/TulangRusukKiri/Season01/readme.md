@@ -277,9 +277,9 @@ Bersambung ...
 ```
 
 **************************************************************************************************
-# episod 08 - Konsep penganturcaraan berasaskan objek
+# episod 08 - Konsep pengaturcaraan berasaskan objek
 
-> Sinopsis : episod kali ini menerangkan konsep penganturcaraan berasaskan objek secara asasnya.
+> Sinopsis : episod kali ini menerangkan konsep pengaturcaraan berasaskan objek secara asasnya.
 heroin berbual dengan rakan dalam rumah tentang pokok bunga jiran depan rumah.
 
 ## Skrip Babak 1
