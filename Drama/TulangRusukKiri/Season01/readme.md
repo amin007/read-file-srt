@@ -282,6 +282,49 @@ Bersambung ...
 > Sinopsis : episod kali ini menerangkan konsep pengaturcaraan berasaskan objek secara asasnya.
 heroin berbual dengan rakan dalam rumah tentang pokok bunga jiran depan rumah.
 
+## Penerangan dari website [Zakree](http://www.ukm.my/zakree/memahami-pengaturcaraan-berorientasikan-objek)
+```
+Tidak sukar memahami pengaturcaraan berorientasikan objek atau object-oriented (O-O) jika kita memahami beberapa konsep asas mengenainya.
+
+Bayangkan yang ibu anda sedang membuat karipap. Ibu anda hanya menggunakan satu acuan untuk menghasilkan banyak karipap.
+Setiap karipap yang terhasil, bentuknya sama, saiznya juga sama, rasanya juga inshaa Allah sama.
+
+Bayangkan pula jika anda hendak menghasilkan imej yang mengandungi objek karipap yang banyak.
+Mula-mula kamu buat satu imej karipap dahulu dengan menggunakan perisian Photoshop misalnya.
+Kemudian bila siap,anda hanya perlu ‘copy and paste’ sahajakan.
+Imej yang pertama itulah yang menjadi acuan atau model kepada banyak imej karipap lain.
+
+Acuan yang digunakan untuk membentuk membuat karipap itu, bolehlah kita samakan dengan "class".
+Dari satu acuan, kita dapat membentuk  banyak karipap.
+Samalah juga dengan class, dari satu class kita dapat hasilkan banyak object atau juga dipanggil instance.
+Setiap instance atau object adalah terhasil dari suatu class.
+
+Kalau nak guna istilah pengaturcaraan O-O pasal kueh, bila anda lihat suatu kueh yang serupa dengan bentuk karipap yang standard,
+anda akan kata, "Objek ini adalah suatu instance suatu class yang dipanggil karipap."
+Selain Karipap, ada class Semprit, class Tat, class Kuaci dan sebagainya.
+Suatu konsep O-O lagi adalah inheritance atau warisan.
+Dari satu acuan, kesemua instance yang terhasil dari acuan (class) tersebut, memiliki sifat dan ciri yang sama seperti class asalnya.
+
+Apa yang boleh kita simpulkan dari analogi di atas, setiap class ada ciri-ciri atau parameter nya yang tersendiri.
+Misalnya, saiz, inti, warna dan sebagainya..
+
+Di dalam Java, banyak jenis class telah dicipta sebagai "acuan". Tak yah buat class baru, anda hanya perlu bagi arahan sahaja.
+Namun, untuk class yang unik untuk menyelesaikan masalah anda, class baru perlu dicipta.
+Misalnya, class Karipap. Tak dop class Karipap kat dalam library Java.
+Bila dah siap class Karipap, untuk cipta objek baru, anda hanya perlu taip
+
+new Karipap()
+
+Konvensyen: Nama class bermula dengan huruf besar. Nama objek bermula dengan huruf kecil.
+Misalnya Karipap adalah nama class, tetapi karipap1 adalah nama objek.
+
+Untuk membina class, ada tiga komponen penting iaitu:
+
+Pembolehubah (Variables)/Medan (Fields)
+Pembina (Constructors)
+Metod atau Kaedah (Methods)
+```
+
 ## Skrip Babak 1
 ```
 01. Awek3 : banyak pokok bunga dekat rumah depan itu ya?
