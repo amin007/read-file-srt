@@ -69,6 +69,32 @@ Jenis monolog aka hero bercakap dalam hati.
 02. Banyak undang-undang yang perlu dipatuhi.
 03. Ada kalanya undang-undang akan dilanggar.
 04. Ada kalanya undang-undang akan diubah atau digubal mengikut peredaran masa
+05.
+06.
+07.
+08.
+09.
+10.
+11.
+12.
+13.
+14.
+15.
+16.
+17.
+18.
+19.
+20.
+21.
+22.
+23.
+24.
+25.
+26.
+27.
+28.
+29.
+30.
 ...
 
 Bersambung...
@@ -83,11 +109,71 @@ Jenis monolog aka hero bercakap dalam hati.
 
 ## Skrip Babak 1 - belum ada idea!!!
 ```
+01.
+02.
+03.
+04.
+05.
+06.
+07.
+08.
+09.
+10.
+11.
+12.
+13.
+14.
+15.
+16.
+17.
+18.
+19.
+20.
+21.
+22.
+23.
+24.
+25.
+26.
+27.
+28.
+29.
+30.
 Bersambung ...
 ```
 
 ## Skrip Babak 2 - belum ada idea!!!
 ```
+01.
+02.
+03.
+04.
+05.
+06.
+07.
+08.
+09.
+10.
+11.
+12.
+13.
+14.
+15.
+16.
+17.
+18.
+19.
+20.
+21.
+22.
+23.
+24.
+25.
+26.
+27.
+28.
+29.
+30.
 Bersambung ...
 ```
 
