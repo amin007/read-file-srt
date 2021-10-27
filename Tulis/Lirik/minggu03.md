@@ -10,7 +10,7 @@ selepas 2 kali suntik vaksin
 | 3-2-3 | mengapa polis menahan   |
 | 2-2   | saya ini                |
 +-------+-------------------------+
-| 1-3   | dah vaksinkah           |
+| 1-3   | dah vaksinkah?          |
 | 3-2-2 | kenapa encik tanya      |
 | 3-2-3 | inilah syarat diminta   |
 | 2-2   | pihak kami              |
@@ -39,17 +39,6 @@ selepas 2 kali suntik vaksin
 +-------+-------------------------+
 
 +-------+-------------------------+
-| 4-4   | kami-pergi ke-PPV       |
-| 4-2   | jururawat suntik        |
-| 3-3   | cecair di-dalam         |
-| 3-3   | ke-badan kami-ni        |
-+-------+-------------------------+
-| 3-3   | disuntik didewan        |
-| 2-2   | sudah vaksin            |
-| 2-2   | dua kali                |
-+-------+-------------------------+
-
-+-------+-------------------------+
 | 4-4   | kami-bukan anti-vaksin  |
 | 4-2   | kami-bukan takut        |
 | 3-3   | seia sekata             |
@@ -58,4 +47,15 @@ selepas 2 kali suntik vaksin
 | 3-3   | marilah bersatu         |
 | 2-2   | demi negara             |
 | 2-2   | demi nusa               |
++-------+-------------------------+
+
++-------+-------------------------+
+| 4-4   | kami-pergi ke-PPV       |
+| 4-2   | jururawat comel         |
+| 3-3   | menyuntik cecair        |
+| 3-3   | ke-badan kami-ni        |
++-------+-------------------------+
+| 3-3   | saya-dan mereka         |
+| 2-2   | sudah vaksin            |
+| 2-2   | dua kali                |
 +-------+-------------------------+
