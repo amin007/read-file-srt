@@ -11,7 +11,13 @@
 
 # Jenis persoalan yang bermain di fikiran
 1. apakah idea senarai isi kandungan yang dapat dicadangkan bagi menulis buku - Di Mana makan tengahari yang sedap dan murah?
-2. beritahu saya, apakah yang orang tidak suka terhadap buku makanan di malaysia
-3. beritahu senarai cara menceritakan Minum petang di tepi parit
+2. beritahu saya, apakah yang orang tidak suka terhadap buku - makanan di malaysia
+3. beritahu senarai cara menceritakan - Minum petang di tepi parit
+4. apakah soalan yang perlu ditanyakan kepada - makan malam bersama keluarga tercinta
+5. apakah analisa anda mengenai - makan tengah malam bersama sahabat baik selamanya
+6. 
+7. 
+
+
 ___
 Bersambung...
