@@ -15,9 +15,7 @@
 3. beritahu senarai cara menceritakan - Minum petang di tepi parit
 4. apakah soalan yang perlu ditanyakan kepada - makan malam bersama keluarga tercinta
 5. apakah analisa anda mengenai - makan tengah malam bersama sahabat baik selamanya
-6. 
-7. 
-
+6. bagaimana untuk menceritakan hal tentang - Berbuka di masjid-masjid terpilih
 
 ___
 Bersambung...
