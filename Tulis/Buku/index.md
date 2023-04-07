@@ -16,6 +16,10 @@
 4. apakah soalan yang perlu ditanyakan kepada - makan malam bersama keluarga tercinta
 5. apakah analisa anda mengenai - makan tengah malam bersama sahabat baik selamanya
 6. bagaimana untuk menceritakan hal tentang - Berbuka di masjid-masjid terpilih
+7. Saya mahu menulis tentang seorang lelaki bujang berumur lebih 40 tahun. Berikan bab-bab yang menarik perhatian gadis bujang yang berusia 21 hingga 30 tahun.
+8. Saya mahu menulis tentang minuman. Berikan bab-bab yang menarik perhatian pembaca di kalangan mereka yang berumur 18 hingga 40 tahun.
+
+
 
 ___
 Bersambung...
