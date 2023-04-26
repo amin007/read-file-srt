@@ -14,7 +14,7 @@
     * Pecahan tajuk/Subtajuk
     * Teks
     * Ilustrasi
-*Bahagian akhiran
+* Bahagian akhiran
     * Lampiran
     * Bibliografi
     * Glosari
