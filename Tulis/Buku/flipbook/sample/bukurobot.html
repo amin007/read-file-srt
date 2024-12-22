@@ -1,0 +1,73 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<meta name="description" content="">
+<meta name="author" content="">
+<title>Robot dan Manusia: Dunia Baharu</title>
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+<link href="https://use.fontawesome.com/releases/v5.6.3/css/all.css" rel="stylesheet" type="text/css">
+<link href="style.css" rel="stylesheet" type="text/css">
+</head>
+<body>
+
+<!-- Navigation Buttons -->
+<button id="prev-btn">
+<i class="fas fa-arrow-circle-left"></i>
+</button>
+
+<!-- Flipbook Start -->
+<div id="book" class="book">
+<!-- Dynamically Adding Pages -->
+<script>
+const titles = [
+"Kebangkitan Amin Ledang", "Memahami Emosi dengan Cara Robot", "Penat dan Lelah: Pandangan Baru",
+"Kegembiraan: Manusia dan Robot Bersatu", "Hubungan Robot dengan Robot", "Hubungan Robot dan Manusia Semakin Erat",
+"Logik dan Emosi: Gabungan Dua Dunia", "Kisah Cinta dan Konflik", "Kerjasama Manusia dan Robot dalam Dunia Kerja",
+"Cabaran Budaya dan Etika Kerja", "R&D: Menguji Idea Baru", "Johor: Pemimpin Masa Depan Robotik",
+"Pengaruh Negeri Lain", "Malaysia dan Masa Depan Ekonomi", "Robot Tentera dan Isu Moral",
+"Robot dengan Nilai Islam", "Soal Hidup dan Mati", "Robot Tua dan Penat", "Apa yang Membezakan Robot dan Manusia?",
+"Satu Negara Robot?", "Robot dan Islam", "Pendidikan Bersama Robot", "Seni dan Jiwa di Era Robot",
+"Juara Lagu dan Isu Hakcipta AI", "Drama, Filem, dan Revolusi AI", "Ekstremisme Teknologi dan Ekonomi Berdasarkan Kebahagiaan",
+"Robot dan Alam Sekitar", "Peranan Robot dalam Konflik Sosial", "Kenangan dan Renungan Amin Ledang",
+"Dunia Baru, Harapan Baru", "Nanoteknologi: Dunia Kecil yang Membawa Perubahan Besar",
+"Membersihkan Kolesterol dengan Teknologi Nano DNA"
+];
+
+const book = document.querySelector("#book");
+titles.forEach((title, index) => {
+const paper = document.createElement("div");
+paper.className = "paper";
+paper.id = "p${index + 1}";
+
+const front = document.createElement("div");
+front.className = "front";
+const frontContent = document.createElement("div");
+frontContent.className = "front-content";
+frontContent.innerHTML = "<h1>${title}</h1>";
+front.appendChild(frontContent);
+
+const back = document.createElement("div");
+back.className = "back";
+const backContent = document.createElement("div");
+backContent.className = "back-content";
+backContent.innerHTML = "<p>Isi bab ${index + 1} akan diletakkan di sini.</p>";
+back.appendChild(backContent);
+
+paper.appendChild(front);
+paper.appendChild(back);
+book.appendChild(paper);
+});
+</script>
+</div>
+
+<!-- Navigation Buttons -->
+<button id="next-btn">
+<i class="fas fa-arrow-circle-right"></i>
+</button>
+
+<!-- Scripts -->
+<script type="text/javascript" src="mainBookRobot2.js"></script>
+</body>
+</html>
