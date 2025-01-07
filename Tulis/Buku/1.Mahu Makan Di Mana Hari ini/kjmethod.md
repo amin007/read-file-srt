@@ -25,25 +25,51 @@
 
 # F2 - Ini pulak lokasi cari makanana/minuman ikut konsep kj method
 
-| No  | Idea       | No  | Idea      | No  | Idea      | No  | Idea       | No  | Idea       |
-|-----|------------|-----|-----------|-----|-----------|-----|------------|-----|------------|
-| 1   | Warung     | 21  | Kopitiam  | 41  | Lereng    | 61  | Stesen     | 81  | Berhantu   |
-| 2   | Restoran   | 22  | Kedai     | 42  | Bukit     | 62  | Berputar   | 82  | Rumah      |
-| 3   | Gerai      | 23  | Mamak     | 43  | Perahu    | 63  | Kelab      | 83  | Kampung    |
-| 4   | Kafe       | 24  | Penjaja   | 44  | Pasar     | 64  | Plaza      | 84  | Dalam      |
-| 5   | Bazar      | 25  | Tradisi   | 45  | Kereta    | 65  | Sepanjang  | 85  | Rimba      |
-| 6   | Jalan      | 26  | Tepi      | 46  | Parkir    | 66  | Sudut      | 86  | Pulau      |
-| 7   | Taman      | 27  | Laman     | 47  | Pekan     | 67  | Lot        | 87  | Kolam      |
-| 8   | Tebing     | 28  | Pasar     | 48  | Lebuhraya | 68  | Resort     | 88  | Pandang    |
-| 9   | Sungai     | 29  | Pusat     | 49  | Persiaran | 69  | Pulau      | 89  | Jambatan   |
-| 10  | Pantai     | 30  | Medan     | 50  | Lapangan  | 70  | Ais        | 90  | Bumbung    |
-| 11  | Bandar     | 31  | Padang    | 51  | Taman     | 71  | Mall       | 91  | Udara      |
-| 12  | Gunung     | 32  | Roti      | 52  | Pantai    | 72  | Lot        | 92  | Stadium    |
-| 13  | Kelapa     | 33  | Pekan     | 53  | Belakang  | 73  | Medan      | 93  | Bangunan   |
-| 14  | Laut       | 34  | Hutan     | 54  | Kebun     | 74  | Dalam      | 94  | Terbuka    |
-| 15  | Lapangan   | 35  | Lot       | 55  | Kereta    | 75  | Dataran    | 95  | Tempat     |
-| 16  | Padang     | 36  | Pekan     | 56  | Pelabuhan | 76  | Puncak     | 96  | Angkasa    |
-| 17  | Plaza      | 37  | Hutan     | 57  | Tepi      | 77  | Keliling   | 97  | Gelap      |
-| 18  | Kedai      | 38  | Rumah     | 58  | Kawasan   | 78  | Tapak      | 98  | Tempat     |
-| 19  | Jalan      | 39  | Bandar    | 59  | Sungai    | 79  | Bandar     | 99  | Menara     |
-| 20  | Rimba      | 40  | Pekan     | 60  | Restoran  | 80  | Pantai     | 100 | Keliling   |
+| No  | Idea     | No  | Idea      | No  | Idea      | No  | Idea       | No  | Idea       |
+|-----|----------|-----|-----------|-----|-----------|-----|------------|-----|------------|
+| 1   | Warung   | 21  | Kopitiam  | 41  | Lereng    | 61  | Stesen     | 81  | Berhantu   |
+| 2   | Restoran | 22  | Kedai     | 42  | Bukit     | 62  | Berputar   | 82  | Rumah      |
+| 3   | Gerai    | 23  | Mamak     | 43  | Perahu    | 63  | Kelab      | 83  | Kampung    |
+| 4   | Kafe     | 24  | Penjaja   | 44  | Pasar     | 64  | Plaza      | 84  | Dalam      |
+| 5   | Bazar    | 25  | Tradisi   | 45  | Kereta    | 65  | Sepanjang  | 85  | Rimba      |
+| 6   | Jalan    | 26  | Tepi      | 46  | Parkir    | 66  | Sudut      | 86  | Pulau      |
+| 7   | Taman    | 27  | Laman     | 47  | Pekan     | 67  | Lot        | 87  | Kolam      |
+| 8   | Tebing   | 28  | Pasar     | 48  | Lebuhraya | 68  | Resort     | 88  | Pandang    |
+| 9   | Sungai   | 29  | Pusat     | 49  | Persiaran | 69  | Pulau      | 89  | Jambatan   |
+| 10  | Pantai   | 30  | Medan     | 50  | Lapangan  | 70  | Ais        | 90  | Bumbung    |
+| 11  | Bandar   | 31  | Padang    | 51  | Taman     | 71  | Mall       | 91  | Udara      |
+| 12  | Gunung   | 32  | Roti      | 52  | Pantai    | 72  | Lot        | 92  | Stadium    |
+| 13  | Kelapa   | 33  | Pekan     | 53  | Belakang  | 73  | Medan      | 93  | Bangunan   |
+| 14  | Laut     | 34  | Hutan     | 54  | Kebun     | 74  | Dalam      | 94  | Terbuka    |
+| 15  | Lapangan | 35  | Lot       | 55  | Kereta    | 75  | Dataran    | 95  | Tempat     |
+| 16  | Padang   | 36  | Pekan     | 56  | Pelabuhan | 76  | Puncak     | 96  | Angkasa    |
+| 17  | Plaza    | 37  | Hutan     | 57  | Tepi      | 77  | Keliling   | 97  | Gelap      |
+| 18  | Kedai    | 38  | Rumah     | 58  | Kawasan   | 78  | Tapak      | 98  | Tempat     |
+| 19  | Jalan    | 39  | Bandar    | 59  | Sungai    | 79  | Bandar     | 99  | Menara     |
+| 20  | Rimba    | 40  | Pekan     | 60  | Restoran  | 80  | Pantai     | 100 | Keliling   |
+
+# F3 - Tentang **makanan dan emosi** menggunakan *Kawakita Jiro (KJ) Method*
+
+| No | Idea      | No | Idea         | No | Idea         | No | Idea          | No | Idea        |
+|----|-----------|----|--------------|----|--------------|----|---------------|----|-------------|
+| 1  | Kenyang   | 21 | Bahagia      | 41 | Segar        | 61 | Kemanisan     | 81 | Melankolik  |
+| 2  | Pedas     | 22 | Kecewa       | 42 | Kelegaan     | 62 | Hampa         | 82 | Ketawa      |
+| 3  | Manis     | 23 | Gembira      | 43 | Penyesalan   | 63 | Kasih         | 83 | Meriah      |
+| 4  | Masam     | 24 | Terharu      | 44 | Mengidam     | 64 | Teruja        | 84 | Resah       |
+| 5  | Lemak     | 25 | Sedih        | 45 | Ketagihan    | 65 | Mengimbau     | 85 | Geram       |
+| 6  | Masin     | 26 | Sempurna     | 46 | Syukur       | 66 | Syahdu        | 86 | Harapan     |
+| 7  | Pahit     | 27 | Menyesal     | 47 | Rindu        | 67 | Berani        | 87 | Kasihan     |
+| 8  | Hangat    | 28 | Teruja       | 48 | Santai       | 68 | Bimbang       | 88 | Jatuh cinta |
+| 9  | Sejuk     | 29 | Marah        | 49 | Penghargaan  | 69 | Kejutan       | 89 | Bingung     |
+| 10 | Lembut    | 30 | Bangga       | 50 | Tenang       | 70 | Selesa        | 90 | Kesal       |
+| 11 | Rangup    | 31 | Malu         | 51 | Nikmat       | 71 | Dendam        | 91 | Lapar       |
+| 12 | Hangus    | 32 | Terkejut     | 52 | Ketenangan   | 72 | Mengalir      | 92 | Kepuasan    |
+| 13 | Kenyal    | 33 | Terkilan     | 53 | Cinta        | 73 | Bingung       | 93 | Kecundang   |
+| 14 | Gebu      | 34 | Ghairah      | 54 | Bersemangat  | 74 | Sayang        | 94 | Bersemangat |
+| 15 | Segar     | 35 | Berpuas hati | 55 | Nafsu        | 75 | Kemurungan    | 95 | Tidak puas  |
+| 16 | Cair      | 36 | Kebanggaan   | 56 | Ketenteraman | 76 | Kesenangan    | 96 | Bertenaga   |
+| 17 | Manja     | 37 | Kering       | 57 | Berbunga     | 77 | Cemburu       | 97 | Lemah       |
+| 18 | Bersahaja | 38 | Lemau        | 58 | Puas hati    | 78 | Rasa sayang   | 98 | Mengantuk   |
+| 19 | Berselera | 39 | Tidak puas   | 59 | Ceria        | 79 | Terhibur      | 99 | Kemesraan   |
+| 20 | Membara   | 40 | Menyelerakan | 60 | Kegembiraan  | 80 | Rasa bersalah | 100| Mengidam    |
+
