@@ -25,6 +25,21 @@
 <div id="book" class="book">
 	<!-- =============================================================================================== -->
 	<!-- Dynamically Adding Pages -->
+<!-- Cover Page -->
+	<div class="paper" id="p1">
+		<div class="front">
+			<div class="front-content">
+				<h1>Robot dan Manusia: Dunia Baharu</h1>
+				<p>Oleh: [Nama Penulis]</p>
+			</div><!-- class="front-content" -->
+		</div><!-- class="front" -->
+		<div class="back">
+			<div class="back-content">
+				<p>"Sebuah kisah tentang harapan, teknologi, dan masa depan di mana manusia dan robot saling melengkapi."</p>
+			</div><!-- class="back-content" -->
+		</div><!-- class="back" -->
+	</div><!-- id="p1" class="paper" -->
+	<!-- =============================================================================================== -->
 <?php
 $style ='';
 $style2 = 'style="background-color: #ffff00; border-width:1px; border-style: solid; border-color: #000000; height: 500px"';
@@ -59,17 +74,20 @@ $titles = [
 "Peranan Robot dalam Konflik Sosial",
 "Kenangan dan Renungan Amin Ledang",
 "Dunia Baru, Harapan Baru",
-"Nanoteknologi: Dunia Kecil yang Membawa Perubahan Besar",
-"Membersihkan Kolesterol dengan Teknologi Nano DNA"
+"Nanoteknologi: Dunia Kecil yang Membawa Perubahan Besar"
 ];
 
+$kira = 2;
 foreach ($titles as $index => $title):
-echo "\n" . '<!-- Paper ' . ($index + 1) . ' -->'
-. "\n" . '<div class="paper" id="p' . ($index + 1) . '">'
+echo "\n" . '<!-- Paper ' . ($index + $kira) . ' -->'
+. "\n" . '<div class="paper" id="p' . ($index + $kira) . '">'
 . "" . '<div class="front">'
 . "" . '<div class="front-content">'
+. "" . '<div class="content">'
+. "" . '<strong>Bab ' . ($index + 1) . '</strong>'
 . "" . '<h1>' . $title . '</h1>'
-. "" . '</div><!--  id="f' . ($index + 1) . '" class="front-content" -->'
+. "" . '</div><!-- class="content" -->'
+. "" . '</div><!--  id="f' . ($index + $kira) . '" class="front-content" -->'
 . "" . '</div><!-- class="front" -->'
 . "\n" . '<div class="back">'
 . "" . '<div class="back-content">'
@@ -77,13 +95,27 @@ echo "\n" . '<!-- Paper ' . ($index + 1) . ' -->'
 . '<div class="content">'
 . '<p>Isi bab ' . ($index + 1) . ' akan diletakkan di sini.</p>'
 . '</div><!-- class="content" -->'
-. "" . '</div><!-- id="b' . ($index + 1) . '" class="back-content" -->'
+. "" . '</div><!-- id="b' . ($index + $kira) . '" class="back-content" -->'
 . "" . '</div><!-- class="back" -->'
-. "\n" . '</div><!-- id="p' . ($index + 1) . '" class="paper" -->'
+. "\n" . '</div><!-- id="p' . ($index + $kira) . '" class="paper" -->'
 . "\n" . '<!-- =============================================================================================== -->'
 . "\n";
 endforeach;
+$pAkhir = $index + 3;
 ?>
+	<!-- Back Cover -->
+	<div class="paper" id="p<?php echo $pAkhir ?>">
+		<div class="front">
+			<div class="front-content">
+			</div><!-- class="front-content" -->
+		</div><!-- class="front" -->
+		<div class="back">
+			<div class="back-content">
+				<h1>Terima Kasih Kerana Membaca</h1>
+			</div><!-- class="back-content" -->
+		</div><!-- class="back" -->
+	</div><!-- id="cover" class="paper" -->
+<!-- =============================================================================================== -->
 </div><!-- id="book" class="book" -->
 <!-- Book End -->
 <!-- =============================================================================================== -->
