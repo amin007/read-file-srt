@@ -121,6 +121,8 @@ box-shadow: 0 10px 30px var(--shadow);
 	</div>
 
 	<div class="layout">
+		<aside class="toc" id="toc"><h4>Senarai Bab</h4><div id="toc-list">Memuat turun senarai ...</div></aside>
+
 		<div class="viewer"><!-- StPageFlip container -->
 			<div id="flipbook" style="width:820px; height:520px;"></div>
 		</div>
