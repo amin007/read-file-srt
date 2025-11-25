@@ -61,7 +61,7 @@ endfor; echo "\r\n"; ?>
 		<section class="page page-cover page-cover-bottom" data-density="hard">
 			<div class="page-content">
 				<h2>SUDAH TAMAT</h2>
-  			</div><!-- / class="page-content" -->
+			</div><!-- / class="page-content" -->
 		</section><!-- /  class="page" -->
 	<!-- ========================================================================================== -->
 	</div><!-- / class="flip-book html-book demo-book" -->
