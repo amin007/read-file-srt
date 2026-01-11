@@ -112,7 +112,7 @@ genre sastera Melayu mengikut piawaian bahasa yang betul:
 Dengarlah kisah sebuah cerita,\
 Tentang makhluk halus di mata,\
 *Abadaba* namanya diberi warta,\
-Membawa penyakit seantero kota.\
+Membawa penyakit seantero kota. \
 
 
 Ia membiak di tempat yang cemar,\
@@ -124,10 +124,10 @@ Kesihatan diri pasti terjejas pudar.
 ### 3. Gurindam (Dua Baris, Syarat dan Jawab)
 
 Apabila diri mengabaikan cuci,\
-*Abadaba* datang singgah di sisi.\
+*Abadaba* datang singgah di sisi. \
 
 Jika kebersihan tiada dijaga,\
-Penyakit hinggap merana raga.\
+Penyakit hinggap merana raga. \
 
 ---------------------------------------------------------------------------------------------------
 ### 4. Sajak (Bebas dan Simbolik)
@@ -136,14 +136,14 @@ Penyakit hinggap merana raga.\
 Di celah jemari yang rakus\
 Kau bersembunyi tanpa suara\
 Halus tak terlihat mata\
-Namun bisamu melumpuhkan karsa.\
+Namun bisamu melumpuhkan karsa. \
 
 Kami sering terlupa\
 Bahawa yang kecil itu berbahaya\
 Maka di air yang mengalir\
 Kami basuh keangkuhan ini\
 Agar kau hanyut\
-Bersama duka yang tak diundang.\
+Bersama duka yang tak diundang. \
 
 ---------------------------------------------------------------------------------------------------
 ### 5. Seloka (Sindiran Jenaka)
@@ -153,7 +153,7 @@ Bedak tebal menutup daki,\
 *Abadaba* ketawa menari-nari,\
 Masuk ke liang menjamu diri,\
 Badan gatal garu tak berhenti,\
-Barulah hendak menyesal hati.\
+Barulah hendak menyesal hati. \
 
 ---------------------------------------------------------------------------------------------------
 ### 6. Mentera (Bahasa Berulang dan Magis)
@@ -172,7 +172,7 @@ Adat hidup menjaga diri,\
 Bersih pakaian bersihlah hati,\
 *Abadaba* dijauh pantang sekali,\
 Sakit dicegah sebelum menjadi,\
-Itulah pusaka nenek moyang kami.\
+Itulah pusaka nenek moyang kami. \
 
 ---------------------------------------------------------------------------------------------------
 ### 8. Nazam (Keagamaan/Pujian)
