@@ -1,10 +1,11 @@
 [//]: =============================================================================================
+
 ---------------------------------------------------------------------------------------------------
 # Keterangan Projek Kamus Zine (Sumber Terbuka)
 
 Kamus Zine ialah projek **suku kata bahasa Melayu** berasaskan sumber terbuka. Setiap perkataan
-dipecahkan mengikut suku kata supaya mudah dibaca, diucap, dan digunakan dalam ** pantun, sajak,
-puisi, syair, gurindam, seloka, peribahasa, mentera, teromba, nazam,** dan bentuk puisi lain.
+dipecahkan mengikut suku kata supaya mudah dibaca, diucap, dan digunakan dalam pantun, sajak,
+puisi, syair, gurindam, seloka, peribahasa, mentera, teromba, nazam, dan bentuk puisi lain.
 
 ---------------------------------------------------------------------------------------------------
 ## Fokus Projek
@@ -75,7 +76,7 @@ rel="stylesheet">
 </div><!-- / class="container mt-5" -->
 ```
 
-Dengan Bootstrap, kita boleh buat **card, modal, search filter, dan responsif mobile** terus dari JSON.
+Dengan Bootstrap, kita boleh buat card, modal, search filter, dan responsif mobile terus dari JSON.
 
 ---------------------------------------------------------------------------------------------------
 ## Cara Contribute
@@ -85,7 +86,7 @@ Dengan Bootstrap, kita boleh buat **card, modal, search filter, dan responsif mo
 3. Tambah perkataan, contoh ayat, atau fail audio.
 4. **Push** perubahan dan buat **Pull Request**.
 
-Semua sumbangan akan direkod supaya **bahasa Melayu tradisional terus hidup dalam era digital**.
+Semua sumbangan akan direkod supaya bahasa Melayu tradisional terus hidup dalam era digital.
 ---------------------------------------------------------------------------------------------------
 
 [//]: =============================================================================================
