@@ -1,26 +1,19 @@
------------------------------------------------------------
+---------------------------------------------------------------------------------------------------
 # Keterangan Projek Kamus Zine (Sumber Terbuka)
 
-Kamus Zine ialah projek **suku kata bahasa Melayu**
-berasaskan sumber terbuka. Setiap perkataan dipecahkan
-mengikut suku kata supaya mudah dibaca, diucap, dan
-digunakan dalam ** pantun, sajak, puisi, syair, gurindam,
-seloka, peribahasa, mentera, teromba, nazam,**
-dan bentuk puisi lain.
+Kamus Zine ialah projek **suku kata bahasa Melayu** berasaskan sumber terbuka. Setiap perkataan
+dipecahkan mengikut suku kata supaya mudah dibaca, diucap, dan digunakan dalam ** pantun, sajak,
+puisi, syair, gurindam, seloka, peribahasa, mentera, teromba, nazam,** dan bentuk puisi lain.
 
------------------------------------------------------------
-
+---------------------------------------------------------------------------------------------------
 ## Fokus Projek
 
-* Menyediakan repositori **perkataan tradisional dan
-jarang AI**.
+* Menyediakan repositori **perkataan tradisional dan jarang AI**.
 * Menyimpan suku kata, rima, sejarah, dan contoh ayat.
 * Menyokong audio sebutan untuk interaktiviti.
-* Memudahkan pembangun, penyelidik, dan penulis kreatif
-menggunakan data.
+* Memudahkan pembangun, penyelidik, dan penulis kreatif menggunakan data.
 
------------------------------------------------------------
-
+---------------------------------------------------------------------------------------------------
 ## Struktur Data (JSON)
 
 ```json
@@ -34,8 +27,7 @@ menggunakan data.
 }
 ```
 
------------------------------------------------------------
-
+---------------------------------------------------------------------------------------------------
 ## PHP & Web Integration
 
 Kamus Zine mudah dihubungkan ke **PHP** supaya data JSON
@@ -59,8 +51,7 @@ foreach ($kamus as $kata)
 ?>
 ```
 
------------------------------------------------------------
-
+---------------------------------------------------------------------------------------------------
 ## Bootstrap Interface
 
 Kamu boleh guna **Bootstrap 5** untuk paparan interaktif dan cantik. Contoh ringkas:
@@ -83,11 +74,9 @@ rel="stylesheet">
 </div><!-- / class="container mt-5" -->
 ```
 
-Dengan Bootstrap, kita boleh buat **card, modal, search
-filter, dan responsif mobile** terus dari JSON.
+Dengan Bootstrap, kita boleh buat **card, modal, search filter, dan responsif mobile** terus dari JSON.
 
------------------------------------------------------------
-
+---------------------------------------------------------------------------------------------------
 ## Cara Contribute
 
 1. **Fork** repositori ini.
@@ -95,28 +84,25 @@ filter, dan responsif mobile** terus dari JSON.
 3. Tambah perkataan, contoh ayat, atau fail audio.
 4. **Push** perubahan dan buat **Pull Request**.
 
-Semua sumbangan akan direkod supaya **bahasa Melayu
-tradisional terus hidup dalam era digital**.
------------------------------------------------------------
+Semua sumbangan akan direkod supaya **bahasa Melayu tradisional terus hidup dalam era digital**.
 
 ===========================================================
 
 # Perkataan Bermula Dengan AB
 
-===========================================================
-
------------------------------------------------------------
+---------------------------------------------------------------------------------------------------
 Berdasarkan definisi **a.ba.da.ba** sebagai hama atau
 kuman, berikut adalah penceritaan kreatif dalam pelbagai
 genre sastera Melayu mengikut piawaian bahasa yang betul:
------------------------------------------------------------
+---------------------------------------------------------------------------------------------------
 ### 1. Pantun (Empat Kerat)
 
 Atuk lepak pondok terbiar
 Kucing duduk atas riba
 Kawasan kotor jangan dibiar
-Tempat bersarang **abadaba**.
------------------------------------------------------------
+Tempat bersarang **abadaba**
+
+---------------------------------------------------------------------------------------------------
 ### 2. Syair (Empat Baris Serangkap, Rima *a-a-a-a*)
 
 Dengarlah kisah sebuah cerita,
@@ -128,7 +114,7 @@ Ia membiak di tempat yang cemar,
 Membuatkan badan menjadi nanar,
 Jika kebersihan tidak dicanang benar,
 Kesihatan diri pasti terjejas pudar.
------------------------------------------------------------
+---------------------------------------------------------------------------------------------------
 ### 3. Gurindam (Dua Baris, Syarat dan Jawab)
 
 Apabila diri mengabaikan cuci,
@@ -137,8 +123,9 @@ Apabila diri mengabaikan cuci,
 Jika kebersihan tiada dijaga,
 Penyakit hinggap merana raga.
 
+---------------------------------------------------------------------------------------------------
 ### 4. Sajak (Bebas dan Simbolik)
------------------------------------------------------------
+
 **Abadaba**
 Di celah jemari yang rakus
 Kau bersembunyi tanpa suara
@@ -151,7 +138,8 @@ Maka di air yang mengalir
 Kami basuh keangkuhan ini
 Agar kau hanyut
 Bersama duka yang tak diundang.
------------------------------------------------------------
+
+---------------------------------------------------------------------------------------------------
 ### 5. Seloka (Sindiran Jenaka)
 
 Aduhai si Manis yang malas mandi,
@@ -160,7 +148,8 @@ Bedak tebal menutup daki,
 Masuk ke liang menjamu diri,
 Badan gatal garu tak berhenti,
 Barulah hendak menyesal hati.
------------------------------------------------------------
+
+---------------------------------------------------------------------------------------------------
 ### 6. Mentera (Bahasa Berulang dan Magis)
 
 *Om si abadaba,*
@@ -169,7 +158,8 @@ Barulah hendak menyesal hati.
 *Hanyutlah kau ke laut dalam,*
 *Disapu air, dibakar cahaya,*
 *Tawarlah bisamu, tumpurlah kumanmu.*
------------------------------------------------------------
+
+---------------------------------------------------------------------------------------------------
 ### 7. Teromba (Kaitan dengan Adat dan Peraturan)
 
 Adat hidup menjaga diri,
@@ -177,7 +167,8 @@ Bersih pakaian bersihlah hati,
 **Abadaba** dijauh pantang sekali,
 Sakit dicegah sebelum menjadi,
 Itulah pusaka nenek moyang kami.
------------------------------------------------------------
+
+---------------------------------------------------------------------------------------------------
 ### 8. Nazam (Keagamaan/Pujian)
 
 Segala puji bagi Yang Esa,
@@ -189,12 +180,20 @@ Bersihkan diri setiap waktu,
 Ikutlah sunnah nabi yang satu,
 Agar penyakit tidak menyatu,
 Sihatlah badan amanlah kalbu.
------------------------------------------------------------
+---------------------------------------------------------------------------------------------------
 ### 9. Peribahasa (Simpulan Bahasa/Ciptaan Baharu)
 
 **Laksana abadaba di air keruh.**
 *(Maksud: Sesuatu keburukan atau ancaman yang membiak
 dengan cepat di tempat yang tidak terjaga
 atau dalam situasi yang kacau-bilau).*
------------------------------------------------------------
+---------------------------------------------------------------------------------------------------
+
 ===========================================================
+
+[comment]: <> (This is a comment, it will not be included)
+[comment]: <> (in  the output file unless you use it in)
+[comment]: <> (a reference style link.)
+
+[//]: <> (This is also a comment.)
+[//]: # (This may be the most platform independent comment)
