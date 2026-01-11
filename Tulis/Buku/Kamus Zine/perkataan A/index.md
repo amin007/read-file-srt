@@ -6,7 +6,6 @@ dipecahkan mengikut suku kata supaya mudah dibaca, diucap, dan digunakan dalam *
 puisi, syair, gurindam, seloka, peribahasa, mentera, teromba, nazam,** dan bentuk puisi lain.
 
 ---------------------------------------------------------------------------------------------------
-
 ## Fokus Projek
 
 * Menyediakan repositori **perkataan tradisional dan jarang AI**.
@@ -15,7 +14,6 @@ puisi, syair, gurindam, seloka, peribahasa, mentera, teromba, nazam,** dan bentu
 * Memudahkan pembangun, penyelidik, dan penulis kreatif menggunakan data.
 
 ---------------------------------------------------------------------------------------------------
-
 ## Struktur Data (JSON)
 
 ```json
@@ -30,7 +28,6 @@ puisi, syair, gurindam, seloka, peribahasa, mentera, teromba, nazam,** dan bentu
 ```
 
 ---------------------------------------------------------------------------------------------------
-
 ## PHP & Web Integration
 
 Kamus Zine mudah dihubungkan ke **PHP** supaya data JSON
@@ -55,7 +52,6 @@ foreach ($kamus as $kata)
 ```
 
 ---------------------------------------------------------------------------------------------------
-
 ## Bootstrap Interface
 
 Kamu boleh guna **Bootstrap 5** untuk paparan interaktif dan cantik. Contoh ringkas:
@@ -81,7 +77,6 @@ rel="stylesheet">
 Dengan Bootstrap, kita boleh buat **card, modal, search filter, dan responsif mobile** terus dari JSON.
 
 ---------------------------------------------------------------------------------------------------
-
 ## Cara Contribute
 
 1. **Fork** repositori ini.
@@ -90,13 +85,13 @@ Dengan Bootstrap, kita boleh buat **card, modal, search filter, dan responsif mo
 4. **Push** perubahan dan buat **Pull Request**.
 
 Semua sumbangan akan direkod supaya **bahasa Melayu tradisional terus hidup dalam era digital**.
+
 ---------------------------------------------------------------------------------------------------
 
 ===========================================================
 
 # Perkataan Bermula Dengan A
 
-===========================================================
 ---------------------------------------------------------------------------------------------------
 Makna di sebalik perkataan A.
 ---------------------------------------------------------------------------------------------------
@@ -110,4 +105,12 @@ Ketiga : A juga seruan untuk menunjukkan terlupa akan sesuatu.
 
 Contoh ayat : nama bukunya ... aaa, nanti saya cuba ingatkan. Terlupa pula.
 ---------------------------------------------------------------------------------------------------
-=============================================================================================
+============================================================================================
+
+[comment]: <> (This is a comment, it will not be included)
+[comment]: <> (in  the output file unless you use it in)
+[comment]: <> (a reference style link.)
+
+[//]: <> (This is also a comment.)
+[//]: # (This may be the most platform independent comment)
+
