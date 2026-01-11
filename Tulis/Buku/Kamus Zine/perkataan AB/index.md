@@ -148,52 +148,52 @@ Bersama duka yang tak diundang.\
 ---------------------------------------------------------------------------------------------------
 ### 5. Seloka (Sindiran Jenaka)
 
-Aduhai si Manis yang malas mandi,
-Bedak tebal menutup daki,
-**Abadaba** ketawa menari-nari,
-Masuk ke liang menjamu diri,
-Badan gatal garu tak berhenti,
-Barulah hendak menyesal hati.
+Aduhai si Manis yang malas mandi,\
+Bedak tebal menutup daki,\
+**Abadaba** ketawa menari-nari,\
+Masuk ke liang menjamu diri,\
+Badan gatal garu tak berhenti,\
+Barulah hendak menyesal hati.\
 
 ---------------------------------------------------------------------------------------------------
 ### 6. Mentera (Bahasa Berulang dan Magis)
 
-*Om si abadaba,*
-*Makhluk halus penghuni cemar,*
-*Jangan kau ganggu jasad ini,*
-*Hanyutlah kau ke laut dalam,*
-*Disapu air, dibakar cahaya,*
-*Tawarlah bisamu, tumpurlah kumanmu.*
+*Om si abadaba,*\
+*Makhluk halus penghuni cemar,*\
+*Jangan kau ganggu jasad ini,*\
+*Hanyutlah kau ke laut dalam,*\
+*Disapu air, dibakar cahaya,*\
+*Tawarlah bisamu, tumpurlah kumanmu.*\
 
 ---------------------------------------------------------------------------------------------------
 ### 7. Teromba (Kaitan dengan Adat dan Peraturan)
 
-Adat hidup menjaga diri,
-Bersih pakaian bersihlah hati,
-**Abadaba** dijauh pantang sekali,
-Sakit dicegah sebelum menjadi,
-Itulah pusaka nenek moyang kami.
+Adat hidup menjaga diri,\
+Bersih pakaian bersihlah hati,\
+**Abadaba** dijauh pantang sekali,\
+Sakit dicegah sebelum menjadi,\
+Itulah pusaka nenek moyang kami.\
 
 ---------------------------------------------------------------------------------------------------
 ### 8. Nazam (Keagamaan/Pujian)
 
-Segala puji bagi Yang Esa,
-Mencipta makhluk pelbagai rupa,
-Termasuk **abadaba** kuman yang bisa,
-Sebagai ujian kepada hamba.
+Segala puji bagi Yang Esa,\
+Mencipta makhluk pelbagai rupa,\
+Termasuk **abadaba** kuman yang bisa,\
+Sebagai ujian kepada hamba.\
 
-Bersihkan diri setiap waktu,
-Ikutlah sunnah nabi yang satu,
-Agar penyakit tidak menyatu,
-Sihatlah badan amanlah kalbu.
+Bersihkan diri setiap waktu,\
+Ikutlah sunnah nabi yang satu,\
+Agar penyakit tidak menyatu,\
+Sihatlah badan amanlah kalbu.\
 
 ---------------------------------------------------------------------------------------------------
 ### 9. Peribahasa (Simpulan Bahasa/Ciptaan Baharu)
 
-**Laksana abadaba di air keruh.**
-*(Maksud: Sesuatu keburukan atau ancaman yang membiak
-dengan cepat di tempat yang tidak terjaga
-atau dalam situasi yang kacau-bilau).*
+**Laksana abadaba di air keruh.** \
+(Maksud: Sesuatu keburukan atau ancaman yang membiak\
+dengan cepat di tempat yang tidak terjaga\
+atau dalam situasi yang kacau-bilau).\
 
 ---------------------------------------------------------------------------------------------------
 [//]: =============================================================================================
