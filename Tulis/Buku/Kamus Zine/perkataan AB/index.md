@@ -100,10 +100,10 @@ genre sastera Melayu mengikut piawaian bahasa yang betul:
 ---------------------------------------------------------------------------------------------------
 ### 1. Pantun (Empat Kerat)
 
-> Atuk lepak pondok terbiar
-> Kucing duduk atas riba
-> Kawasan kotor jangan dibiar
-> Tempat bertandang **abadaba**
+> Atuk lepak pondok terbiar\
+> Kucing duduk atas riba\
+> Kawasan kotor jangan dibiar\
+> Tempat bertandang **abadaba**\
 
 ---------------------------------------------------------------------------------------------------
 ### 2. Syair (Empat Baris Serangkap, Rima *a-a-a-a*)
