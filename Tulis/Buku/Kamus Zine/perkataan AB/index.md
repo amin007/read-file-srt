@@ -1,3 +1,4 @@
+[//]: =============================================================================================
 ---------------------------------------------------------------------------------------------------
 # Keterangan Projek Kamus Zine (Sumber Terbuka)
 
@@ -85,15 +86,17 @@ Dengan Bootstrap, kita boleh buat **card, modal, search filter, dan responsif mo
 4. **Push** perubahan dan buat **Pull Request**.
 
 Semua sumbangan akan direkod supaya **bahasa Melayu tradisional terus hidup dalam era digital**.
+---------------------------------------------------------------------------------------------------
 
-===========================================================
-
+[//]: =============================================================================================
 # Perkataan Bermula Dengan AB
+[//]: =============================================================================================
 
 ---------------------------------------------------------------------------------------------------
 Berdasarkan definisi **a.ba.da.ba** sebagai hama atau
 kuman, berikut adalah penceritaan kreatif dalam pelbagai
 genre sastera Melayu mengikut piawaian bahasa yang betul:
+
 ---------------------------------------------------------------------------------------------------
 ### 1. Pantun (Empat Kerat)
 
@@ -188,8 +191,8 @@ Sihatlah badan amanlah kalbu.
 dengan cepat di tempat yang tidak terjaga
 atau dalam situasi yang kacau-bilau).*
 ---------------------------------------------------------------------------------------------------
-
-===========================================================
+[//]: =============================================================================================
+[//]: =============================================================================================
 
 [comment]: <> (This is a comment, it will not be included)
 [comment]: <> (in  the output file unless you use it in)
