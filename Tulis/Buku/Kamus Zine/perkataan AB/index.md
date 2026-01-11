@@ -1,4 +1,3 @@
-===========================================================
 -----------------------------------------------------------
 # Keterangan Projek Kamus Zine (Sumber Terbuka)
 
@@ -99,20 +98,23 @@ filter, dan responsif mobile** terus dari JSON.
 Semua sumbangan akan direkod supaya **bahasa Melayu
 tradisional terus hidup dalam era digital**.
 -----------------------------------------------------------
+
 ===========================================================
------------------------------------------------------------
+
 # Perkataan Bermula Dengan AB
------------------------------------------------------------
+
 ===========================================================
+
+-----------------------------------------------------------
 Berdasarkan definisi **a.ba.da.ba** sebagai hama atau
 kuman, berikut adalah penceritaan kreatif dalam pelbagai
 genre sastera Melayu mengikut piawaian bahasa yang betul:
 -----------------------------------------------------------
 ### 1. Pantun (Empat Kerat)
 
-Terbang tinggi si burung helang,
-Hinggap sebentar di pohon kelapa;
-Tangan kotor jangan dipandang,
+Atuk lepak pondok terbiar
+Kucing duduk atas riba
+Kawasan kotor jangan dibiar
 Tempat bersarang **abadaba**.
 -----------------------------------------------------------
 ### 2. Syair (Empat Baris Serangkap, Rima *a-a-a-a*)
