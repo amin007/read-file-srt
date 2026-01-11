@@ -101,21 +101,31 @@ genre sastera Melayu mengikut piawaian bahasa yang betul:
 ### 1. Pantun (Empat Kerat)
 
 Atuk lepak pondok terbiar
+
 Kucing duduk atas riba
+
 Kawasan kotor jangan dibiar
+
 Tempat bersarang **abadaba**
 
 ---------------------------------------------------------------------------------------------------
 ### 2. Syair (Empat Baris Serangkap, Rima *a-a-a-a*)
 
 Dengarlah kisah sebuah cerita,
+
 Tentang makhluk halus di mata,
+
 **Abadaba** namanya diberi warta,
+
 Membawa penyakit seantero kota.
 
+
 Ia membiak di tempat yang cemar,
+
 Membuatkan badan menjadi nanar,
+
 Jika kebersihan tidak dicanang benar,
+
 Kesihatan diri pasti terjejas pudar.
 ---------------------------------------------------------------------------------------------------
 ### 3. Gurindam (Dua Baris, Syarat dan Jawab)
@@ -183,6 +193,7 @@ Bersihkan diri setiap waktu,
 Ikutlah sunnah nabi yang satu,
 Agar penyakit tidak menyatu,
 Sihatlah badan amanlah kalbu.
+
 ---------------------------------------------------------------------------------------------------
 ### 9. Peribahasa (Simpulan Bahasa/Ciptaan Baharu)
 
@@ -190,6 +201,7 @@ Sihatlah badan amanlah kalbu.
 *(Maksud: Sesuatu keburukan atau ancaman yang membiak
 dengan cepat di tempat yang tidak terjaga
 atau dalam situasi yang kacau-bilau).*
+
 ---------------------------------------------------------------------------------------------------
 [//]: =============================================================================================
 [//]: =============================================================================================
