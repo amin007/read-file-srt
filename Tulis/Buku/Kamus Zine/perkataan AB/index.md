@@ -103,51 +103,46 @@ genre sastera Melayu mengikut piawaian bahasa yang betul:
 > Atuk lepak pondok terbiar\
 > Kucing duduk atas riba\
 > Kawasan kotor jangan dibiar\
-> Tempat bertandang **abadaba**\
+> Tempat bertandang **abadaba**
 
 ---------------------------------------------------------------------------------------------------
 ### 2. Syair (Empat Baris Serangkap, Rima *a-a-a-a*)
 
-Dengarlah kisah sebuah cerita,
-
-Tentang makhluk halus di mata,
-
-**Abadaba** namanya diberi warta,
-
-Membawa penyakit seantero kota.
+Dengarlah kisah sebuah cerita,\
+Tentang makhluk halus di mata,\
+**Abadaba** namanya diberi warta,\
+Membawa penyakit seantero kota.\
 
 
-Ia membiak di tempat yang cemar,
-
-Membuatkan badan menjadi nanar,
-
-Jika kebersihan tidak dicanang benar,
-
+Ia membiak di tempat yang cemar,\
+Membuatkan badan menjadi nanar,\
+Jika kebersihan tidak dicanang benar,\
 Kesihatan diri pasti terjejas pudar.
+
 ---------------------------------------------------------------------------------------------------
 ### 3. Gurindam (Dua Baris, Syarat dan Jawab)
 
-Apabila diri mengabaikan cuci,
-**Abadaba** datang singgah di sisi.
+Apabila diri mengabaikan cuci,\
+**Abadaba** datang singgah di sisi.\
 
-Jika kebersihan tiada dijaga,
-Penyakit hinggap merana raga.
+Jika kebersihan tiada dijaga,\
+Penyakit hinggap merana raga.\
 
 ---------------------------------------------------------------------------------------------------
 ### 4. Sajak (Bebas dan Simbolik)
 
 **Abadaba**
-Di celah jemari yang rakus
-Kau bersembunyi tanpa suara
-Halus tak terlihat mata
-Namun bisamu melumpuhkan karsa.
+Di celah jemari yang rakus\
+Kau bersembunyi tanpa suara\
+Halus tak terlihat mata\
+Namun bisamu melumpuhkan karsa.\
 
-Kami sering terlupa
-Bahawa yang kecil itu berbahaya
-Maka di air yang mengalir
-Kami basuh keangkuhan ini
-Agar kau hanyut
-Bersama duka yang tak diundang.
+Kami sering terlupa\
+Bahawa yang kecil itu berbahaya\
+Maka di air yang mengalir\
+Kami basuh keangkuhan ini\
+Agar kau hanyut\
+Bersama duka yang tak diundang.\
 
 ---------------------------------------------------------------------------------------------------
 ### 5. Seloka (Sindiran Jenaka)
