@@ -3,14 +3,14 @@
 ---------------------------------------------------------------------------------------------------
 # Keterangan Projek Kamus Zine (Sumber Terbuka)
 
-Kamus Zine ialah projek **suku kata bahasa Melayu** berasaskan sumber terbuka. Setiap perkataan
+Kamus Zine ialah projek *suku kata bahasa Melayu* berasaskan sumber terbuka. Setiap perkataan
 dipecahkan mengikut suku kata supaya mudah dibaca, diucap, dan digunakan dalam pantun, sajak,
 puisi, syair, gurindam, seloka, peribahasa, mentera, teromba, nazam, dan bentuk puisi lain.
 
 ---------------------------------------------------------------------------------------------------
 ## Fokus Projek
 
-* Menyediakan repositori **perkataan tradisional dan jarang AI**.
+* Menyediakan repositori *perkataan tradisional dan jarang AI*.
 * Menyimpan suku kata, rima, sejarah, dan contoh ayat.
 * Menyokong audio sebutan untuk interaktiviti.
 * Memudahkan pembangun, penyelidik, dan penulis kreatif menggunakan data.
@@ -32,7 +32,7 @@ puisi, syair, gurindam, seloka, peribahasa, mentera, teromba, nazam, dan bentuk 
 ---------------------------------------------------------------------------------------------------
 ## PHP & Web Integration
 
-Kamus Zine mudah dihubungkan ke **PHP** supaya data JSON
+Kamus Zine mudah dihubungkan ke *PHP* supaya data JSON
 boleh dipaparkan di web. Contoh ringkas:
 
 ```php
@@ -56,7 +56,7 @@ foreach ($kamus as $kata)
 ---------------------------------------------------------------------------------------------------
 ## Bootstrap Interface
 
-Kamu boleh guna **Bootstrap 5** untuk paparan interaktif dan cantik. Contoh ringkas:
+Kamu boleh guna *Bootstrap 5* untuk paparan interaktif dan cantik. Contoh ringkas:
 
 ```html
 <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/css/bootstrap.min.css"
@@ -81,10 +81,10 @@ Dengan Bootstrap, kita boleh buat card, modal, search filter, dan responsif mobi
 ---------------------------------------------------------------------------------------------------
 ## Cara Contribute
 
-1. **Fork** repositori ini.
-2. **Clone** ke komputer kamu.
+1. *Fork* repositori ini.
+2. *Clone* ke komputer kamu.
 3. Tambah perkataan, contoh ayat, atau fail audio.
-4. **Push** perubahan dan buat **Pull Request**.
+4. *Push* perubahan dan buat *Pull Request*.
 
 Semua sumbangan akan direkod supaya bahasa Melayu tradisional terus hidup dalam era digital.
 ---------------------------------------------------------------------------------------------------
@@ -94,7 +94,7 @@ Semua sumbangan akan direkod supaya bahasa Melayu tradisional terus hidup dalam 
 [//]: =============================================================================================
 
 ---------------------------------------------------------------------------------------------------
-Berdasarkan definisi **a.ba.da.ba** sebagai hama atau
+Berdasarkan definisi *a.ba.da.ba* sebagai hama atau
 kuman, berikut adalah penceritaan kreatif dalam pelbagai
 genre sastera Melayu mengikut piawaian bahasa yang betul:
 
@@ -104,14 +104,14 @@ genre sastera Melayu mengikut piawaian bahasa yang betul:
 > Atuk lepak pondok terbiar\
 > Kucing duduk atas riba\
 > Kawasan kotor jangan dibiar\
-> Tempat bertandang **abadaba**
+> Tempat bertandang *abadaba*
 
 ---------------------------------------------------------------------------------------------------
 ### 2. Syair (Empat Baris Serangkap, Rima *a-a-a-a*)
 
 Dengarlah kisah sebuah cerita,\
 Tentang makhluk halus di mata,\
-**Abadaba** namanya diberi warta,\
+*Abadaba* namanya diberi warta,\
 Membawa penyakit seantero kota.\
 
 
@@ -124,7 +124,7 @@ Kesihatan diri pasti terjejas pudar.
 ### 3. Gurindam (Dua Baris, Syarat dan Jawab)
 
 Apabila diri mengabaikan cuci,\
-**Abadaba** datang singgah di sisi.\
+*Abadaba* datang singgah di sisi.\
 
 Jika kebersihan tiada dijaga,\
 Penyakit hinggap merana raga.\
@@ -132,7 +132,7 @@ Penyakit hinggap merana raga.\
 ---------------------------------------------------------------------------------------------------
 ### 4. Sajak (Bebas dan Simbolik)
 
-**Abadaba**
+*Abadaba*
 Di celah jemari yang rakus\
 Kau bersembunyi tanpa suara\
 Halus tak terlihat mata\
@@ -150,7 +150,7 @@ Bersama duka yang tak diundang.\
 
 Aduhai si Manis yang malas mandi,\
 Bedak tebal menutup daki,\
-**Abadaba** ketawa menari-nari,\
+*Abadaba* ketawa menari-nari,\
 Masuk ke liang menjamu diri,\
 Badan gatal garu tak berhenti,\
 Barulah hendak menyesal hati.\
@@ -170,7 +170,7 @@ Barulah hendak menyesal hati.\
 
 Adat hidup menjaga diri,\
 Bersih pakaian bersihlah hati,\
-**Abadaba** dijauh pantang sekali,\
+*Abadaba* dijauh pantang sekali,\
 Sakit dicegah sebelum menjadi,\
 Itulah pusaka nenek moyang kami.\
 
@@ -179,21 +179,21 @@ Itulah pusaka nenek moyang kami.\
 
 Segala puji bagi Yang Esa,\
 Mencipta makhluk pelbagai rupa,\
-Termasuk **abadaba** kuman yang bisa,\
-Sebagai ujian kepada hamba.\
+Termasuk *abadaba* kuman yang bisa,\
+Sebagai ujian kepada hamba. \
 
 Bersihkan diri setiap waktu,\
 Ikutlah sunnah nabi yang satu,\
 Agar penyakit tidak menyatu,\
-Sihatlah badan amanlah kalbu.\
+Sihatlah badan amanlah kalbu. \
 
 ---------------------------------------------------------------------------------------------------
 ### 9. Peribahasa (Simpulan Bahasa/Ciptaan Baharu)
 
-**Laksana abadaba di air keruh.** \
+*Laksana abadaba di air keruh.* \
 (Maksud: Sesuatu keburukan atau ancaman yang membiak\
 dengan cepat di tempat yang tidak terjaga\
-atau dalam situasi yang kacau-bilau).\
+atau dalam situasi yang kacau-bilau). \
 
 ---------------------------------------------------------------------------------------------------
 [//]: =============================================================================================
