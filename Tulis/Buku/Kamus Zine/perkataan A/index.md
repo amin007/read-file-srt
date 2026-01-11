@@ -94,18 +94,24 @@ Semua sumbangan akan direkod supaya **bahasa Melayu tradisional terus hidup dala
 # Perkataan Bermula Dengan A
 [//]: =============================================================================================
 
----------------------------------------------------------------------------------------------------
 Makna di sebalik perkataan A.
+
 ---------------------------------------------------------------------------------------------------
+
 Pertama : A adalah huruf pertama dalam abjad Rumi yang diwaris darI kerajaan Rom katanya.
+
 ---------------------------------------------------------------------------------------------------
+
 Kedua : A juga seruan untuk melahirkan kegirangan atau menyatakan persetujuan.
 
 Contoh ayat => itu dia , aaa, macam itu caranya
+
 ---------------------------------------------------------------------------------------------------
+
 Ketiga : A juga seruan untuk menunjukkan terlupa akan sesuatu.
 
 Contoh ayat : nama bukunya ... aaa, nanti saya cuba ingatkan. Terlupa pula.
+
 ---------------------------------------------------------------------------------------------------
 [//]: =============================================================================================
 [//]: =============================================================================================
