@@ -1,4 +1,5 @@
-===================================================================================================
+=========
+---------------------------------------------------------------------------------------------------
 # Keterangan Projek Kamus Zine (Sumber Terbuka)
 
 Kamus Zine ialah projek **suku kata bahasa Melayu** berasaskan sumber terbuka. Setiap perkataan
