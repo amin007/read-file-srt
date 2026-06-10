@@ -35,6 +35,7 @@
 * Peringkat terawal dalam penerbitan ialah perancangan. Pihak penerbit akan merancang apa yang harus diterbitkan.
 * Dalam peringkat ini penerbit akan menentukan yang manakah manuskrip yang harus diterbitkan.
 * Selepas itu, penerbit akan berunding dengan pengarang mengenai bayaran.Kemudian pengarang akan mengarang cerita tertentu yang di kehendaki oleh penerbit.
+___
 
 # Antara Tajuk Buku
 
@@ -46,36 +47,37 @@
 6. Makan tengah malam bersama sahabat baik selamanya
 7. Berbuka di masjid-masjid terpilih
 8. Sahur di kedai makan 25 Jam
+___
 
-# Sinopsis Judul Buku: "Makanan dan Emosi: Menikmati Budaya Makanan Malaysia"
+# Sinopsis Judul Buku: Minum Petang di Tepi Parit
 
 #Bab 1: Apa Salahnya Minum Petang di Tepi Parit?
 
-Pengenalan - menentang stigma *parit kotor*.\
+Pengenalan - menentang stigma *parit kotor*.
 
-Dari mana trend ini datang? (realiti rumah sesak, tiada halaman rumah)\
+Dari mana trend ini datang? (realiti rumah sesak, tiada halaman rumah)
 
 #Bab 2: Parit Sebagai Ruang Sosial Tersembunyi
 
-Parit taman, parit sawah, parit tepi longkang bandar.\
+Parit taman, parit sawah, parit tepi longkang bandar.
 
 Siapa yang duduk: nelayan parit, pakcik lepak, budak-budak main guli.
 
 #Bab 3: Menu Khas Parit Side
 
-Kuih muih yang tak mudah jatuh ke parit.\
+Kuih muih yang tak mudah jatuh ke parit.
 
-Teh o kurang manis (sebab gula tarik semut).\
+Teh o kurang manis (sebab gula tarik semut).
 
-Makanan yang *kalau jatuh, tak rugi sangat*.\
+Makanan yang *kalau jatuh, tak rugi sangat*.
 
 #Bab 4: Etiket Minum Tepi Parit
 
-Jangan buang sampah dalam parit (ironinya).\
+Jangan buang sampah dalam parit (ironinya).
 
-Cara duduk elak terjatuh.\
+Cara duduk elak terjatuh.
 
-Bahasa badan bila air parit naik.\
+Bahasa badan bila air parit naik.
 
 #Bab 5: Cerita dari Parit - Koleksi Memori Rakyat
 
@@ -89,7 +91,7 @@ Minum petang tepi parit sebagai perlawanan terhadap kafe hipster.
 
 #Bab 7: Resipi dan Aktiviti
 
-Cara buat “Teh Tarik Parit Side” guna teko plastik.\
+Cara buat “Teh Tarik Parit Side” guna teko plastik.
 
 Cadangan aktiviti: Melukis parit, puisi parit, memburu ikan parit.
 
