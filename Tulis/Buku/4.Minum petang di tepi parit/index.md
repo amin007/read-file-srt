@@ -51,19 +51,19 @@ ___
 
 # Sinopsis Judul Buku: Minum Petang di Tepi Parit
 
-#Bab 1: Apa Salahnya Minum Petang di Tepi Parit?
+# Bab 1: Apa Salahnya Minum Petang di Tepi Parit?
 
 Pengenalan - menentang stigma *parit kotor*.
 
 Dari mana trend ini datang? (realiti rumah sesak, tiada halaman rumah)
 
-#Bab 2: Parit Sebagai Ruang Sosial Tersembunyi
+# Bab 2: Parit Sebagai Ruang Sosial Tersembunyi
 
 Parit taman, parit sawah, parit tepi longkang bandar.
 
 Siapa yang duduk: nelayan parit, pakcik lepak, budak-budak main guli.
 
-#Bab 3: Menu Khas Parit Side
+# Bab 3: Menu Khas Parit Side
 
 Kuih muih yang tak mudah jatuh ke parit.
 
@@ -71,7 +71,7 @@ Teh o kurang manis (sebab gula tarik semut).
 
 Makanan yang *kalau jatuh, tak rugi sangat*.
 
-#Bab 4: Etiket Minum Tepi Parit
+# Bab 4: Etiket Minum Tepi Parit
 
 Jangan buang sampah dalam parit (ironinya).
 
@@ -79,23 +79,23 @@ Cara duduk elak terjatuh.
 
 Bahasa badan bila air parit naik.
 
-#Bab 5: Cerita dari Parit - Koleksi Memori Rakyat
+# Bab 5: Cerita dari Parit - Koleksi Memori Rakyat
 
 5–6 kisah pendek: jatuh cawan, banjir kilat, kawan tidur tepi parit, jumpa ikan haruan.
 
-#Bab 6: Parit dan Perubahan Zaman
+# Bab 6: Parit dan Perubahan Zaman
 
 Dulu parit bersih (boleh mandi), sekarang parit simen sempit.
 
 Minum petang tepi parit sebagai perlawanan terhadap kafe hipster.
 
-#Bab 7: Resipi dan Aktiviti
+# Bab 7: Resipi dan Aktiviti
 
 Cara buat “Teh Tarik Parit Side” guna teko plastik.
 
 Cadangan aktiviti: Melukis parit, puisi parit, memburu ikan parit.
 
-#Bab 8: Penutup - Jangan Pandang Rendah Parit
+# Bab 8: Penutup - Jangan Pandang Rendah Parit
 
 Parit mengajar kita tentang kesederhanaan, komunikasi jiran, dan menghargai yang ringkas
 ___
