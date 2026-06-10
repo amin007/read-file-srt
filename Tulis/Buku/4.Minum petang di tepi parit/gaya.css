@@ -1,0 +1,55 @@
+body {
+    perspective: 1500px;
+    background-color: #f8f9fa;
+    font-family: 'Segoe UI', Roboto, sans-serif;
+}
+
+/* Bekas Utama Buku */
+.book-container {
+    position: relative;
+    width: 100%;
+    max-width: 800px;
+    height: 600px;
+    margin: 50px auto;
+    transform-style: preserve-3d;
+}
+
+/* Kulit Buku dan Halaman */
+.book-cover, .book-page {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    backface-visibility: hidden;
+    border-radius: 0 8px 8px 0;
+    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.15);
+}
+
+/* Kulit Buku (Depan) */
+.book-cover {
+    background: linear-gradient(135deg, #2c3e50, #34495e);
+    color: #ffffff;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    transform-origin: left;
+    transition: transform 1.5s cubic-bezier(0.645, 0.045, 0.355, 1);
+    cursor: pointer;
+    z-index: 10;
+}
+
+/* Animasi Buka Buku */
+.book-container.open .book-cover {
+    transform: rotateY(-140deg);
+}
+
+/* Halaman Kandungan */
+.book-page {
+    background: #ffffff;
+    padding: 40px;
+    overflow-y: auto;
+    z-index: 5;
+    border: 1px solid #e0e0e0;
+}
