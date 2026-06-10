@@ -50,6 +50,15 @@ ___
 ___
 
 # Sinopsis Judul Buku: Minum Petang di Tepi Parit
+## Bab 1: Apa Salahnya Minum Petang di Tepi Parit?
+## Bab 2: Parit Sebagai Ruang Sosial Tersembunyi
+## Bab 3: Menu Khas Parit Side
+## Bab 4: Etiket Minum Tepi Parit
+## Bab 5: Cerita dari Parit - Koleksi Memori Rakyat
+## Bab 6: Parit dan Perubahan Zaman
+## Bab 7: Resipi dan Aktiviti
+## Bab 8: Penutup - Jangan Pandang Rendah Parit
+___
 
 # Bab 1: Apa Salahnya Minum Petang di Tepi Parit?
 
