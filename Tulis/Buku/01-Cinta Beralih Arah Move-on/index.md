@@ -62,51 +62,46 @@ mengarang cerita tertentu yang di kehendaki oleh penerbit.
 # idea watak dan kisah di sebaliknya
 # Bahagian 1: Yang Hampir Menjadi
 
-|-------------------------------------------------------------------------------------------------|
-| Watak ------------------------------------------------------------------------------------------|
+| Watak ----------------------------------------------------------------------------------------- |
 | **1. Jamilah**                                                                                  |
-|-------------------------------------------------------------------------------------------------|
-| Hubungan ---------------------------------------------------------------------------------------|
+| ----------------------------------------------------------------------------------------------- |
+| Hubungan -------------------------------------------------------------------------------------- |
 | Cinta pertama / jiran berdekatan
-|-------------------------------------------------------------------------------------------------|
+| ----------------------------------------------------------------------------------------------- |
 | Konflik / cerita -------------------------------------------------------------------------------|
 | Jamilah ialah orang pertama yang membuatkan watak utama mengenal rasa suka. Mereka tinggal
 | berdekatan dan mula bertegur sapa. Namun ketika hubungan baru hendak berkembang, keluarga
 | Jamilah berpindah. Watak utama terlalu muda dan tidak berani mengejar. Dia belajar bahawa
 | peluang kadang-kadang hilang bukan kerana ditolak, tetapi kerana terlalu menunggu.
-|-------------------------------------------------------------------------------------------------|
 
-|-------------------------------------------------------------------------------------------------|
 | Watak ------------------------------------------------------------------------------------------|
-| **2. Tijah**
+| **2. Tijah** |
 |-------------------------------------------------------------------------------------------------|
 | Hubungan ---------------------------------------------------------------------------------------|
-| Gadis sekampung yang benar-benar diminati
+| Gadis sekampung yang benar-benar diminati |
 |-------------------------------------------------------------------------------------------------|
 | Konflik / cerita |
 | Berbeza dengan Jamilah, kali ini watak utama sudah yakin dengan perasaan sendiri. Semua orang
 | tahu mereka serasi. Namun dia terlalu lama berfikir, mengira kemampuan, dan mencari masa yang
 | sesuai. Akhirnya Tijah menerima pinangan orang lain. Pengajarannya: cinta juga memerlukan
 | keberanian.
-|-------------------------------------------------------------------------------------------------|
 
-|-------------------------------------------------------------------------------------------------|
 | Watak ------------------------------------------------------------------------------------------|
-| **3. Nyonya**
+| **3. Nyonya** |
 |-------------------------------------------------------------------------------------------------|
 | Hubungan ---------------------------------------------------------------------------------------|
-| Cinta jarak jauh
+| Cinta jarak jauh |
 |-------------------------------------------------------------------------------------------------|
 | Konflik / cerita |
 | Mereka bertemu ketika watak utama berada di Kuala Lumpur, manakala Nyonya berada di Melaka.
 | Pada awalnya hubungan mereka penuh dengan harapan. Tetapi jarak menyebabkan komunikasi semakin
 | berkurang. Tiada pergaduhan besar, tiada salah siapa-siapa, cuma hubungan itu perlahan-lahan
 | hilang.
-|-------------------------------------------------------------------------------------------------|
+
 
 |-------------------------------------------------------------------------------------------------|
 | Watak ------------------------------------------------------------------------------------------|
-| **4. Fatimah**
+| **4. Fatimah** |
 |-------------------------------------------------------------------------------------------------|
 | Hubungan ---------------------------------------------------------------------------------------|
 | Kekasih yang diuji keluarga
