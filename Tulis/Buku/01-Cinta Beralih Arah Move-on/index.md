@@ -65,13 +65,13 @@ mengarang cerita tertentu yang di kehendaki oleh penerbit.
 # Bahagian 1: Yang Hampir Menjadi
 
 | Watak  |
-|---|
+|-------------------------------------------------------------------------------------------------|
 | **1. Jamilah** |
-|---|
+|-------------------------------------------------------------------------------------------------|
 | Hubungan  |
 | Cinta pertama / jiran berdekatan
 | Konflik / cerita  |
-|---|
+|-------------------------------------------------------------------------------------------------|
 | Jamilah ialah orang pertama yang membuatkan watak utama mengenal rasa suka. Mereka tinggal
 | berdekatan dan mula bertegur sapa. Namun ketika hubungan baru hendak berkembang, keluarga
 | Jamilah berpindah. Watak utama terlalu muda dan tidak berani mengejar. Dia belajar bahawa
