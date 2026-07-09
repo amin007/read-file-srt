@@ -168,9 +168,10 @@ mengarang cerita tertentu yang di kehendaki oleh penerbit.
 # Bahagian 3: Yang Mengelirukan Hati
 
 
-| Watak -|
+| Watak |
+|---|
 | **10. Crush Dari Jauh**
-| Hubungan -|
+| Hubungan |
 | Suka tetapi tidak pernah memiliki
 | Konflik / cerita |
 | Watak utama hanya mengenali sedikit tentang wanita ini. Dia menyukai senyuman, cara
@@ -178,8 +179,9 @@ mengarang cerita tertentu yang di kehendaki oleh penerbit.
 | oleh fikirannya sendiri. Konfliknya ialah membezakan antara cinta sebenar dengan fantasi. |
 
 | Watak -|
+|---|
 | **11. Dua Wanita Nama Sama**
-| Hubungan -|
+| Hubungan |
 | Dua pertemuan dengan nama dan perangai hampir sama
 | Konflik / cerita |
 | Watak utama bertemu dua wanita pada dua zaman yang berbeza. Nama mereka sama, minat mereka
@@ -187,9 +189,10 @@ mengarang cerita tertentu yang di kehendaki oleh penerbit.
 | manis, manakala seorang lagi meninggalkan pengajaran pahit. Watak utama mula tertanya-tanya
 | sama ada dia sedang mencari orang baharu atau sebenarnya masih mengejar kenangan lama. |
 
-| Watak -|
+| Watak |
+|---|
 | **12. Musuh Ketat Tetapi Cantik**
-| Hubungan -|
+| Hubungan |
 | Rival / pesaing
 | Konflik / cerita |
 | Dia bukan kekasih, malah sering bertentangan pendapat dengan watak utama. Mereka sentiasa
