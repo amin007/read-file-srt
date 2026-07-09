@@ -67,11 +67,12 @@ mengarang cerita tertentu yang di kehendaki oleh penerbit.
 | Watak  |
 |-------------------------------------------------------------------------------------------------|
 | **1. Jamilah** |
-|-------------------------------------------------------------------------------------------------|
+| _______________________________________________________________________________________________ |
 | Hubungan  |
 | Cinta pertama / jiran berdekatan
+| _______________________________________________________________________________________________ |
 | Konflik / cerita  |
-|-------------------------------------------------------------------------------------------------|
+| _______________________________________________________________________________________________ |
 | Jamilah ialah orang pertama yang membuatkan watak utama mengenal rasa suka. Mereka tinggal
 | berdekatan dan mula bertegur sapa. Namun ketika hubungan baru hendak berkembang, keluarga
 | Jamilah berpindah. Watak utama terlalu muda dan tidak berani mengejar. Dia belajar bahawa
