@@ -62,6 +62,7 @@ mengarang cerita tertentu yang di kehendaki oleh penerbit.
 # idea watak dan kisah di sebaliknya
 # Bahagian 1: Yang Hampir Menjadi
 
+|---|
 | Watak  |
 | **1. Jamilah** |
 | Hubungan  |
@@ -72,6 +73,7 @@ mengarang cerita tertentu yang di kehendaki oleh penerbit.
 | Jamilah berpindah. Watak utama terlalu muda dan tidak berani mengejar. Dia belajar bahawa
 | peluang kadang-kadang hilang bukan kerana ditolak, tetapi kerana terlalu menunggu.
 
+|---|
 | Watak  |
 | **2. Tijah** |
 | Hubungan  |
@@ -82,7 +84,8 @@ mengarang cerita tertentu yang di kehendaki oleh penerbit.
 | sesuai. Akhirnya Tijah menerima pinangan orang lain. Pengajarannya: cinta juga memerlukan
 | keberanian.
 
-| Watak -|
+|---|
+| Watak |
 | **3. Nyonya** |
 | Hubungan -|
 | Cinta jarak jauh |
@@ -92,7 +95,8 @@ mengarang cerita tertentu yang di kehendaki oleh penerbit.
 | berkurang. Tiada pergaduhan besar, tiada salah siapa-siapa, cuma hubungan itu perlahan-lahan
 | hilang.
 
-| Watak -|
+|---|
+| Watak |
 | **4. Fatimah** |
 | Hubungan -|
 | Kekasih yang diuji keluarga
@@ -104,7 +108,7 @@ mengarang cerita tertentu yang di kehendaki oleh penerbit.
 
 # Bahagian 2: Yang Mengajar Aku Tentang Hubungan
 
-| Watak -|
+| Watak |
 | **5. Anak Pak Busu**
 | Hubungan -|
 | Calon yang ditolak oleh keluarga sendiri
@@ -113,7 +117,7 @@ mengarang cerita tertentu yang di kehendaki oleh penerbit.
 | Mereka mempertikaikan kebolehan wanita itu mengurus rumah tangga. Watak utama berada di
 | tengah-tengah: antara mempertahankan pilihan hati atau menjaga hati keluarga.
 
-| Watak -|
+| Watak |
 | **6. Hawa**
 | Hubungan -|
 | Rakan sekerja
