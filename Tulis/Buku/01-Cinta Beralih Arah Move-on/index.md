@@ -75,6 +75,7 @@ mengarang cerita tertentu yang di kehendaki oleh penerbit.
 | peluang kadang-kadang hilang bukan kerana ditolak, tetapi kerana terlalu menunggu. |
 
 | Watak  |
+|---|
 | **2. Tijah** |
 | Hubungan  |
 | Gadis sekampung yang benar-benar diminati |
@@ -85,6 +86,7 @@ mengarang cerita tertentu yang di kehendaki oleh penerbit.
 | keberanian. |
 
 | Watak |
+|---|
 | **3. Nyonya** |
 | Hubungan -|
 | Cinta jarak jauh |
@@ -94,8 +96,9 @@ mengarang cerita tertentu yang di kehendaki oleh penerbit.
 | berkurang. Tiada pergaduhan besar, tiada salah siapa-siapa, cuma hubungan itu perlahan-lahan
 | hilang. |
 
-|---|
+
 | Watak |
+|---|
 | **4. Fatimah** |
 | Hubungan -|
 | Kekasih yang diuji keluarga
@@ -107,8 +110,8 @@ mengarang cerita tertentu yang di kehendaki oleh penerbit.
 
 # Bahagian 2: Yang Mengajar Aku Tentang Hubungan
 
-|---|
 | Watak |
+|---|
 | **5. Anak Pak Busu**
 | Hubungan -|
 | Calon yang ditolak oleh keluarga sendiri
@@ -119,6 +122,7 @@ mengarang cerita tertentu yang di kehendaki oleh penerbit.
 
 
 | Watak |
+|---|
 | **6. Hawa**
 | Hubungan -|
 | Rakan sekerja
@@ -129,6 +133,7 @@ mengarang cerita tertentu yang di kehendaki oleh penerbit.
 
 
 | Watak |
+|---|
 | **7. Aishah (anak Cik Non)**
 | Hubungan -|
 | Cinta yang hampir sempurna
@@ -138,7 +143,8 @@ mengarang cerita tertentu yang di kehendaki oleh penerbit.
 | Watak utama belajar bahawa niat baik sahaja tidak selalu mencukupi, persediaan hidup juga
 | penting. |
 
-| Watak -|
+| Watak |
+|---|
 | **8. Teman Tetapi Mesra**
 | Hubungan |
 | Kawan yang terlalu serasi
@@ -148,7 +154,8 @@ mengarang cerita tertentu yang di kehendaki oleh penerbit.
 | untuk kekal sebagai kawan. Bertahun kemudian, watak utama tertanya-tanya sama ada dia
 | kehilangan cinta, atau sebenarnya kehilangan seorang sahabat. |
 
-| Watak - |
+| Watak |
+|---|
 | **9. Bestie**
 | Hubungan |
 | Sahabat baik tanpa perasaan cinta
