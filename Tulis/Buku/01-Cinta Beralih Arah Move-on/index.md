@@ -62,7 +62,6 @@ mengarang cerita tertentu yang di kehendaki oleh penerbit.
 # idea watak dan kisah di sebaliknya
 # Bahagian 1: Yang Hampir Menjadi
 
-|---|
 | Watak  |
 |---|
 | **1. Jamilah** |
@@ -75,7 +74,6 @@ mengarang cerita tertentu yang di kehendaki oleh penerbit.
 | Jamilah berpindah. Watak utama terlalu muda dan tidak berani mengejar. Dia belajar bahawa
 | peluang kadang-kadang hilang bukan kerana ditolak, tetapi kerana terlalu menunggu. |
 
-|---|
 | Watak  |
 | **2. Tijah** |
 | Hubungan  |
@@ -84,9 +82,8 @@ mengarang cerita tertentu yang di kehendaki oleh penerbit.
 | Berbeza dengan Jamilah, kali ini watak utama sudah yakin dengan perasaan sendiri. Semua orang
 | tahu mereka serasi. Namun dia terlalu lama berfikir, mengira kemampuan, dan mencari masa yang
 | sesuai. Akhirnya Tijah menerima pinangan orang lain. Pengajarannya: cinta juga memerlukan
-| keberanian.
+| keberanian. |
 
-|---|
 | Watak |
 | **3. Nyonya** |
 | Hubungan -|
@@ -95,7 +92,7 @@ mengarang cerita tertentu yang di kehendaki oleh penerbit.
 | Mereka bertemu ketika watak utama berada di Kuala Lumpur, manakala Nyonya berada di Melaka.
 | Pada awalnya hubungan mereka penuh dengan harapan. Tetapi jarak menyebabkan komunikasi semakin
 | berkurang. Tiada pergaduhan besar, tiada salah siapa-siapa, cuma hubungan itu perlahan-lahan
-| hilang.
+| hilang. |
 
 |---|
 | Watak |
@@ -105,11 +102,12 @@ mengarang cerita tertentu yang di kehendaki oleh penerbit.
 | Konflik / cerita -|
 | Fatimah menyukai watak utama, tetapi keluarganya melihat aspek kewangan dan kedudukan. Mereka
 | merasakan watak utama belum cukup stabil. Watak utama mula sedar bahawa dalam dunia sebenar,
-| cinta kadang-kadang perlu berhadapan dengan pandangan keluarga dan masyarakat.
+| cinta kadang-kadang perlu berhadapan dengan pandangan keluarga dan masyarakat. |
 
 
 # Bahagian 2: Yang Mengajar Aku Tentang Hubungan
 
+|---|
 | Watak |
 | **5. Anak Pak Busu**
 | Hubungan -|
@@ -117,7 +115,8 @@ mengarang cerita tertentu yang di kehendaki oleh penerbit.
 | Konflik / cerita -|
 | Kali ini bukan keluarga wanita yang menjadi penghalang, tetapi keluarga watak utama sendiri.
 | Mereka mempertikaikan kebolehan wanita itu mengurus rumah tangga. Watak utama berada di
-| tengah-tengah: antara mempertahankan pilihan hati atau menjaga hati keluarga.
+| tengah-tengah: antara mempertahankan pilihan hati atau menjaga hati keluarga. |
+
 
 | Watak |
 | **6. Hawa**
@@ -126,9 +125,10 @@ mengarang cerita tertentu yang di kehendaki oleh penerbit.
 | Konflik / cerita -|
 | Hawa seorang yang berjaya, yakin dan mempunyai latar belakang keluarga berada. Watak utama
 | cuba melangkah lebih serius, tetapi pinangannya tidak diterima. Dia merasakan dunia
-| perkahwinan kadang-kadang mempunyai "gred" dan ukuran yang tidak nampak.
+| perkahwinan kadang-kadang mempunyai "gred" dan ukuran yang tidak nampak.  |
 
-| Watak -|
+
+| Watak |
 | **7. Aishah (anak Cik Non)**
 | Hubungan -|
 | Cinta yang hampir sempurna
@@ -136,7 +136,7 @@ mengarang cerita tertentu yang di kehendaki oleh penerbit.
 | Ini calon yang paling hampir berjaya. Kedua-dua keluarga sudah suka. Peribadinya baik,
 | keluarga menerima dan tiada konflik besar. Namun masalah datang daripada kemampuan kewangan.
 | Watak utama belajar bahawa niat baik sahaja tidak selalu mencukupi, persediaan hidup juga
-| penting.
+| penting. |
 
 | Watak -|
 | **8. Teman Tetapi Mesra**
@@ -146,7 +146,7 @@ mengarang cerita tertentu yang di kehendaki oleh penerbit.
 | Mereka tidak pernah mengaku bercinta, tetapi sentiasa bersama. Berkongsi cerita, makan
 | bersama dan saling membantu. Orang sekeliling menyangka mereka pasangan. Namun mereka memilih
 | untuk kekal sebagai kawan. Bertahun kemudian, watak utama tertanya-tanya sama ada dia
-| kehilangan cinta, atau sebenarnya kehilangan seorang sahabat.
+| kehilangan cinta, atau sebenarnya kehilangan seorang sahabat. |
 
 | Watak - |
 | **9. Bestie**
@@ -156,7 +156,7 @@ mengarang cerita tertentu yang di kehendaki oleh penerbit.
 | Berbeza dengan Teman Tetapi Mesra, hubungan ini sangat mendalam tetapi tidak romantik.
 | Mereka boleh bercakap tentang apa sahaja. Konfliknya muncul apabila masing-masing mula
 | mempunyai kehidupan sendiri. Watak utama belajar bahawa tidak semua hubungan istimewa perlu
-| berakhir dengan perkahwinan.
+| berakhir dengan perkahwinan. |
 
 # Bahagian 3: Yang Mengelirukan Hati
 
@@ -168,7 +168,7 @@ mengarang cerita tertentu yang di kehendaki oleh penerbit.
 | Konflik / cerita |
 | Watak utama hanya mengenali sedikit tentang wanita ini. Dia menyukai senyuman, cara
 | bercakap dan penampilannya. Namun sebenarnya dia lebih mencintai gambaran yang dicipta
-| oleh fikirannya sendiri. Konfliknya ialah membezakan antara cinta sebenar dengan fantasi.
+| oleh fikirannya sendiri. Konfliknya ialah membezakan antara cinta sebenar dengan fantasi. |
 
 | Watak -|
 | **11. Dua Wanita Nama Sama**
@@ -178,7 +178,7 @@ mengarang cerita tertentu yang di kehendaki oleh penerbit.
 | Watak utama bertemu dua wanita pada dua zaman yang berbeza. Nama mereka sama, minat mereka
 | hampir sama dan cara mereka bercakap juga hampir serupa. Namun seorang membawa kenangan
 | manis, manakala seorang lagi meninggalkan pengajaran pahit. Watak utama mula tertanya-tanya
-| sama ada dia sedang mencari orang baharu atau sebenarnya masih mengejar kenangan lama.
+| sama ada dia sedang mencari orang baharu atau sebenarnya masih mengejar kenangan lama. |
 
 | Watak -|
 | **12. Musuh Ketat Tetapi Cantik**
@@ -189,7 +189,7 @@ mengarang cerita tertentu yang di kehendaki oleh penerbit.
 | berdebat, bersaing dan saling mencabar dalam pelbagai keadaan. Namun di sebalik konflik itu
 | wujud rasa hormat terhadap kebijaksanaan dan keberaniannya. Watak utama akhirnya sedar
 | bahawa seseorang boleh menarik perhatian bukan kerana kelembutan, tetapi kerana kekuatan
-| peribadi dan keyakinannya.
+| peribadi dan keyakinannya. |
 
 
 # Kalau dijadikan buku, 12 watak ini sebenarnya membentuk satu perjalanan:
