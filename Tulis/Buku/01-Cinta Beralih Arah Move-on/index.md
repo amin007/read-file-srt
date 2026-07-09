@@ -25,28 +25,30 @@
     * Fotograf penulis
 
 3. Sejarah buku
-|-------------------------------------------------------------------------------------------------|
+
+| Sejarah Buku |
+| --- |
 | Sebelum kemunculan buku, manusia telahpun memiliki cara untuk menurunkan tulisan. Pada awal
 | tamadun, manusia pada lazimnya menurunkan tulisan mereka di atas batu, papan, dan juga di atas
 | daun (misalnya daun lontar yang menjadi lambang DBP). Sehubungan itu, medium tulisan awal ini
 | adalah bentuk proto bagi buku.
-|-------------------------------------------------------------------------------------------------|
+| --- |
 | Buku dikatakan muncul dalam sejarah umat manusia, apabila orang Mesir mencipta kertas papirus
 | pada tahun sekitar 2400 SM. Adapun kertas papirus yang diturunkan tulisan ini digulungkan untuk
 | menjadi "skrol" (scroll), dan ia diyakini adalah bentuk buku yang paling awal.
-|-------------------------------------------------------------------------------------------------|
+| --- |
 | Selain itu, buku juga muncul di tamadun yang lain dengan bentuk yang lain. Contohnya, di Kemboja,
 | Sami Budha di situ membaca "buku" yang dibuat daripada daun dan amalan ini masih dikekalkan sehingga
 | hari ini dan perkara pernah dilaporkan oleh Nasional Geografi. Manakala di negeri Cina, sebelum
 | terciptanya kertas, para cendekiawan di situ menurunkan tulisan mereka di atas lidi buluh dan
 | mengikat lidi ini menjadi buku. Amalan menulis di atas lidi telah mempengaruhi sistem tulisan Cina
 | sehinggakan orang Cina mengamalkan tulisan menegak sehingga pada awal moden
-|-------------------------------------------------------------------------------------------------|
+| --- |
 | Buku memasuki satu era yang baru apabila industri kertas menjadi mantap. Kertas dipercayai muncul
 | di negeri Cina seawal-awalnya pada 200 SM, selepas itu teknologi ini dibawa oleh pedagang muslim
 | ke Eropah sebelum abad ke-11. Dengan adanya kertas, penulisan menjadi lebih mudah kerana kertas
 | mempunyai ciri-ciri mudah disimpan dan juga bertahan lama.
-|-------------------------------------------------------------------------------------------------|
+| --- |
 
 4. Cara menerbitkan buku
 * Sebuah buku harus melalui beberapa proses sebelum ia diterbitkan oleh penerbit.
@@ -69,6 +71,7 @@ mengarang cerita tertentu yang di kehendaki oleh penerbit.
 | Hubungan  |
 | Cinta pertama / jiran berdekatan
 | Konflik / cerita  |
+|---|
 | Jamilah ialah orang pertama yang membuatkan watak utama mengenal rasa suka. Mereka tinggal
 | berdekatan dan mula bertegur sapa. Namun ketika hubungan baru hendak berkembang, keluarga
 | Jamilah berpindah. Watak utama terlalu muda dan tidak berani mengejar. Dia belajar bahawa
@@ -178,7 +181,7 @@ mengarang cerita tertentu yang di kehendaki oleh penerbit.
 | bercakap dan penampilannya. Namun sebenarnya dia lebih mencintai gambaran yang dicipta
 | oleh fikirannya sendiri. Konfliknya ialah membezakan antara cinta sebenar dengan fantasi. |
 
-| Watak -|
+| Watak |
 |---|
 | **11. Dua Wanita Nama Sama**
 | Hubungan |
@@ -193,8 +196,10 @@ mengarang cerita tertentu yang di kehendaki oleh penerbit.
 |---|
 | **12. Musuh Ketat Tetapi Cantik**
 | Hubungan |
+|---|
 | Rival / pesaing
 | Konflik / cerita |
+|---|
 | Dia bukan kekasih, malah sering bertentangan pendapat dengan watak utama. Mereka sentiasa
 | berdebat, bersaing dan saling mencabar dalam pelbagai keadaan. Namun di sebalik konflik itu
 | wujud rasa hormat terhadap kebijaksanaan dan keberaniannya. Watak utama akhirnya sedar
