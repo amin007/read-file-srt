@@ -1,33 +1,35 @@
 <style>
 @page {
+
 size: A4 portrait;
 margin: 1.5cm 2cm 3cm 2cm;
-color: var(--type-dark);
 
-	@bottom-right-corner {
-		border-top-color: var(--coral);
-		border-top-width: 2px;
-		border-top-style: solid;
-		margin-top: 50%;
-		margin-left: 0.3cm;
-		content: '';
+	/* Garisan footer */
+	@bottom-left {
+
+	border-top: 2px solid #555;
+	padding-top: 6px;
+
+	content: "Nuxt Tips Collection";
+
+	font-size: 11px;
+	font-weight: bold;
+	text-transform: uppercase;
 	}
 
+	/* Nombor halaman */
 	@bottom-right {
-		width: 0.5cm;
-		font-size: 11px;
-		content: counter(page);
-	}
 
-	@bottom {
-		text-align: right;
-		padding-right: 1cm;
-		content: 'Nuxt Tips Collection';
-		font-size: 11px;
-		text-transform: uppercase;
-		font-weight: bold;
-	}
-};
+	border-top: 2px solid #555;
+	padding-top: 6px;
+
+	content: "[ " counter(page) " ]";
+
+	font-size: 11px;
+	font-weight: bold;
+	text-align: right;
+}
+}
 </style>
 
 <h1>Foreword</h1>
