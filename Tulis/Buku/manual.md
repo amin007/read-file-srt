@@ -13,12 +13,12 @@ ___
 
 # Contoh markdown dari [markdown live preview](https://markdownlivepreview.com)
 
----
-title: Welcome to Markdown Viewer
-description: Browser-based Markdown editor and viewer with live preview, GFM, diagrams, maps, STL previews, ABC notation, sharing, and export support.
-author: ThisIs-Developer
+------------- |:-------------:
+title| Welcome to Markdown Viewer
+description| Browser-based Markdown editor and viewer with live preview, GFM, diagrams, maps, STL previews, ABC notation, sharing, and export support.
+author| ThisIs-Developer
 tags: ["markdown", "live-preview", "gfm", "mermaid", "plantuml", "stl", "abc-notation", "open-source"]
----
+
 
 ## Blockquotes
 
