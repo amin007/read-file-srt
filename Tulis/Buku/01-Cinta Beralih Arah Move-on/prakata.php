@@ -1,4 +1,8 @@
 <style>
+#index a::after {
+	content: leader('.') "p. " target-counter(attr(href), page);
+}
+
 @page {
 
 size: A4 portrait;
@@ -7,30 +11,37 @@ margin: 1.5cm 2cm 3cm 2cm;
 	/* Garisan footer */
 	@bottom-left {
 
-	border-top: 2px solid #555;
-	padding-top: 6px;
+		border-top: 2px solid #555;
+		padding-top: 6px;
 
-	content: "Nuxt Tips Collection";
+		content: "Nuxt Tips Collection";
 
-	font-size: 11px;
-	font-weight: bold;
-	text-transform: uppercase;
+		font-size: 11px;
+		font-weight: bold;
+		text-transform: uppercase;
 	}
 
 	/* Nombor halaman */
 	@bottom-right {
 
-	border-top: 2px solid #555;
-	padding-top: 6px;
+		border-top: 2px solid #555;
+		padding-top: 6px;
 
-	content: "[ " counter(page) " ]";
+		content: "[ " counter(page) " ]";
 
-	font-size: 11px;
-	font-weight: bold;
-	text-align: right;
-}
+		font-size: 11px;
+		font-weight: bold;
+		text-align: right;
+	}
 }
 </style>
+
+<ul id="index">
+  <li><a href="#chapter1">Chapter 1</a></li>
+  <li><a href="#chapter2">Chapter 2</a></li>
+</ul>
+CSS
+
 
 <h1>Foreword</h1>
 
